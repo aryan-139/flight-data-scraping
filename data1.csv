@@ -1,0 +1,2105 @@
+Flight Number,Origin,Destination,Company,Departure Time,Arrival Time,Duration Time,Flight Price,Date,Cabin Class
+IndiGo - 762,BOM,DEL,IndiGo ,06:00,07:55,1h 55m,"4,970",16-08-2025,Economy
+Air India - 2986,BOM,DEL,Air India ,00:50,03:00,2h 10m,"4,720",16-08-2025,Economy
+IndiGo - 656,BOM,DEL,IndiGo ,05:00,07:05,2h 05m,"4,970",16-08-2025,Economy
+Air India - 2930,BOM,DEL,Air India ,05:15,07:35,2h 20m,"4,801",16-08-2025,Economy
+Air India Exp - 1124,BOM,DEL,Air India Exp ,00:35,02:55,2h 20m,"4,500",16-08-2025,Economy
+IndiGo - 301,BOM,DEL,IndiGo ,07:00,09:10,2h 10m,"5,070",16-08-2025,Economy
+IndiGo - 615,BOM,DEL,IndiGo ,13:35,15:45,2h 10m,"5,070",16-08-2025,Economy
+IndiGo - 6028,BOM,DEL,IndiGo ,12:30,14:40,2h 10m,"5,070",16-08-2025,Economy
+Air India Exp - 2146,BOM,DEL,Air India Exp ,02:15,04:40,2h 25m,"4,500",16-08-2025,Economy
+Air India - 2424,BOM,DEL,Air India ,04:25,06:35,2h 10m,"5,195",16-08-2025,Economy
+Air India - 2954,BOM,DEL,Air India ,02:35,05:00,2h 25m,"4,720",16-08-2025,Economy
+IndiGo - 6704,BOM,DEL,IndiGo ,15:00,17:15,2h 15m,"5,070",16-08-2025,Economy
+Akasa Air - 1410,BOM,DEL,Akasa Air ,07:05,09:20,2h 15m,"5,207",16-08-2025,Economy
+Air India - 2419,BOM,DEL,Air India ,11:40,13:55,2h 15m,"5,431",16-08-2025,Economy
+Air India - 2944,BOM,DEL,Air India ,14:40,16:55,2h 15m,"5,431",16-08-2025,Economy
+IndiGo - 2517,BOM,HDO,IndiGo ,07:40,09:40,2h,"5,909",16-08-2025,Economy
+Air India - 2422,BOM,DEL,Air India ,01:50,04:10,2h 20m,"5,195",16-08-2025,Economy
+Air India - 2428,BOM,DEL,Air India ,06:40,08:45,2h 05m,"5,987",16-08-2025,Economy
+Air India - 2994,BOM,DEL,Air India ,10:30,12:45,2h 15m,"5,668",16-08-2025,Economy
+IndiGo - 333,BOM,DEL,IndiGo ,08:05,10:15,2h 10m,"5,695",16-08-2025,Economy
+Air India - 2970,BOM,DEL,Air India ,07:45,09:55,2h 10m,"5,936",16-08-2025,Economy
+Air India - 2432,BOM,DEL,Air India ,08:45,10:55,2h 10m,"5,987",16-08-2025,Economy
+Air India - 2952,BOM,DEL,Air India ,12:30,14:55,2h 25m,"5,668",16-08-2025,Economy
+Air India - 2430,BOM,DEL,Air India ,10:00,12:15,2h 15m,"6,090",16-08-2025,Economy
+Air India - 2960,BOM,DEL,Air India ,09:25,11:40,2h 15m,"6,347",16-08-2025,Economy
+Akasa Air - 1127,BOM,DEL,Akasa Air ,13:00,15:15,2h 15m,"6,189",16-08-2025,Economy
+IndiGo - 2775,BOM,DEL,IndiGo ,01:15,03:15,2h,"6,664",16-08-2025,Economy
+IndiGo - 6827,BOM,DEL,IndiGo ,11:15,13:30,2h 15m,"6,664",16-08-2025,Economy
+IndiGo - 6052,BOM,DEL,IndiGo ,10:00,12:20,2h 20m,"6,664",16-08-2025,Economy
+IndiGo - 6045,BOM,DEL,IndiGo ,03:00,05:15,2h 15m,"6,664",16-08-2025,Economy
+Air India - 2591,BOM,IDR,Air India ,07:20,11:15,3h 55m,"5,833",16-08-2025,Economy
+Air India - 2999,DEL,BOM,Air India ,22:00,00:15,2h 15m,"5,163",16-08-2025,Economy
+SpiceJet - 709,DEL,BOM,SpiceJet ,19:45,21:55,2h 10m,"5,188",16-08-2025,Economy
+Air India - 2439,DEL,BOM,Air India ,23:00,01:25,2h 25m,"4,925",16-08-2025,Economy
+IndiGo - 6114,DEL,BOM,IndiGo ,22:00,00:20,2h 20m,"4,950",16-08-2025,Economy
+Air India - 2933,DEL,BOM,Air India ,15:30,17:45,2h 15m,"5,399",16-08-2025,Economy
+Akasa Air - 1128,DEL,BOM,Akasa Air ,16:00,18:05,2h 05m,"5,731",16-08-2025,Economy
+Air India - 2981,DEL,BOM,Air India ,21:00,23:20,2h 20m,"5,399",16-08-2025,Economy
+Air India - 2805,DEL,BOM,Air India ,20:00,22:25,2h 25m,"5,399",16-08-2025,Economy
+Air India - 2433,DEL,BOM,Air India ,21:30,23:55,2h 25m,"5,399",16-08-2025,Economy
+Air India - 2985,DEL,BOM,Air India ,19:30,22:00,2h 30m,"5,493",16-08-2025,Economy
+IndiGo - 395,DEL,BOM,IndiGo ,21:00,23:25,2h 25m,"5,541",16-08-2025,Economy
+Air India - 2957,DEL,BOM,Air India ,20:30,23:05,2h 35m,"5,399",16-08-2025,Economy
+IndiGo - 2163,DEL,BOM,IndiGo ,20:00,22:20,2h 20m,"5,751",16-08-2025,Economy
+IndiGo - 6318,DEL,BOM,IndiGo ,15:30,17:50,2h 20m,"5,751",16-08-2025,Economy
+Air India - 2977,DEL,BOM,Air India ,19:00,21:30,2h 30m,"5,801",16-08-2025,Economy
+Air India Exp - 1163,DEL,BOM,Air India Exp ,17:00,19:30,2h 30m,"5,850",16-08-2025,Economy
+Air India - 2955,DEL,BOM,Air India ,17:55,20:15,2h 20m,"6,460",16-08-2025,Economy
+IndiGo - 519,DEL,BOM,IndiGo ,23:30,01:45,2h 15m,"6,723",16-08-2025,Economy
+IndiGo - 354,DEL,BOM,IndiGo ,19:00,21:20,2h 20m,"6,723",16-08-2025,Economy
+IndiGo - 864,DEL,BOM,IndiGo ,17:00,19:20,2h 20m,"6,723",16-08-2025,Economy
+IndiGo - 6706,DEL,BOM,IndiGo ,18:00,20:20,2h 20m,"6,723",16-08-2025,Economy
+IndiGo - 762,BOM,DEL,IndiGo ,06:00,07:55,1h 55m,"5,485",17-08-2025,Economy
+Air India - 2930,BOM,DEL,Air India ,05:15,07:35,2h 20m,"4,800",17-08-2025,Economy
+Air India - 2428,BOM,DEL,Air India ,06:40,08:45,2h 05m,"5,574",17-08-2025,Economy
+IndiGo - 2775,BOM,DEL,IndiGo ,01:15,03:15,2h,"5,380",17-08-2025,Economy
+Air India - 2424,BOM,DEL,Air India ,04:25,06:35,2h 10m,"5,193",17-08-2025,Economy
+IndiGo - 301,BOM,DEL,IndiGo ,07:00,09:10,2h 10m,"5,695",17-08-2025,Economy
+Akasa Air - 1410,BOM,DEL,Akasa Air ,07:05,09:20,2h 15m,"5,570",17-08-2025,Economy
+IndiGo - 656,BOM,DEL,IndiGo ,05:00,07:05,2h 05m,"5,948",17-08-2025,Economy
+IndiGo - 6045,BOM,DEL,IndiGo ,03:00,05:15,2h 15m,"5,380",17-08-2025,Economy
+IndiGo - 2517,BOM,HDO,IndiGo ,07:40,09:40,2h,"6,411",17-08-2025,Economy
+Air India Exp - 1124,BOM,DEL,Air India Exp ,00:35,02:55,2h 20m,"6,180",17-08-2025,Economy
+IndiGo - 333,BOM,DEL,IndiGo ,08:05,10:15,2h 10m,"7,216",17-08-2025,Economy
+Air India - 2970,BOM,DEL,Air India ,07:45,09:55,2h 10m,"8,013",17-08-2025,Economy
+Air India - 2430,BOM,DEL,Air India ,10:00,12:15,2h 15m,"7,869",17-08-2025,Economy
+Air India - 2432,BOM,DEL,Air India ,08:45,10:55,2h 10m,"8,084",17-08-2025,Economy
+Air India - 2986,BOM,DEL,Air India ,00:50,03:00,2h 10m,"7,869",17-08-2025,Economy
+Air India - 2960,BOM,DEL,Air India ,09:25,11:40,2h 15m,"8,228",17-08-2025,Economy
+Air India - 2422,BOM,DEL,Air India ,01:50,04:10,2h 20m,"7,869",17-08-2025,Economy
+Air India - 2954,BOM,DEL,Air India ,02:35,05:00,2h 25m,"7,869",17-08-2025,Economy
+IndiGo - 6052,BOM,DEL,IndiGo ,10:00,12:20,2h 20m,"8,476",17-08-2025,Economy
+IndiGo - 6028,BOM,DEL,IndiGo ,12:30,14:40,2h 10m,"9,976",17-08-2025,Economy
+Air India - 2994,BOM,DEL,Air India ,10:30,12:45,2h 15m,"10,526",17-08-2025,Economy
+Air India - 2419,BOM,DEL,Air India ,11:40,13:55,2h 15m,"10,526",17-08-2025,Economy
+Air India - 2944,BOM,DEL,Air India ,14:40,16:55,2h 15m,"10,526",17-08-2025,Economy
+Air India - 2952,BOM,DEL,Air India ,12:30,14:55,2h 25m,"10,526",17-08-2025,Economy
+IndiGo - 6827,BOM,DEL,IndiGo ,11:15,13:30,2h 15m,"10,829",17-08-2025,Economy
+IndiGo - 6704,BOM,DEL,IndiGo ,15:00,17:15,2h 15m,"10,829",17-08-2025,Economy
+Akasa Air - 1127,BOM,DEL,Akasa Air ,13:00,15:15,2h 15m,"11,289",17-08-2025,Economy
+IndiGo - 615,BOM,DEL,IndiGo ,13:35,15:45,2h 10m,"11,762",17-08-2025,Economy
+Air India - 2591,BOM,IDR,Air India ,07:20,11:15,3h 55m,"12,093",17-08-2025,Economy
+Akasa Air - 1128,DEL,BOM,Akasa Air ,16:00,18:20,2h 20m,"9,540",17-08-2025,Economy
+Air India Exp - 1145,DEL,BOM,Air India Exp ,23:00,01:25,2h 25m,"9,649",17-08-2025,Economy
+IndiGo - 6114,DEL,BOM,IndiGo ,22:00,00:20,2h 20m,"10,028",17-08-2025,Economy
+Air India - 2999,DEL,BOM,Air India ,22:00,00:15,2h 15m,"10,494",17-08-2025,Economy
+Air India - 2433,DEL,BOM,Air India ,21:30,23:55,2h 25m,"10,494",17-08-2025,Economy
+Air India - 2439,DEL,BOM,Air India ,23:00,01:25,2h 25m,"10,494",17-08-2025,Economy
+SpiceJet - 546,DEL,BOM,SpiceJet ,20:10,22:40,2h 30m,"10,122",17-08-2025,Economy
+Air India - 2933,DEL,BOM,Air India ,15:30,17:45,2h 15m,"10,986",17-08-2025,Economy
+IndiGo - 519,DEL,BOM,IndiGo ,23:30,01:45,2h 15m,"10,877",17-08-2025,Economy
+IndiGo - 6706,DEL,BOM,IndiGo ,18:00,20:20,2h 20m,"10,877",17-08-2025,Economy
+IndiGo - 864,DEL,BOM,IndiGo ,17:00,19:20,2h 20m,"10,877",17-08-2025,Economy
+Akasa Air - 1128,DEL,BOM,Akasa Air ,16:00,18:05,2h 05m,"11,586",17-08-2025,Economy
+IndiGo - 395,DEL,BOM,IndiGo ,21:00,23:25,2h 25m,"10,877",17-08-2025,Economy
+IndiGo - 6318,DEL,BOM,IndiGo ,15:30,17:50,2h 20m,"11,803",17-08-2025,Economy
+IndiGo - 2163,DEL,BOM,IndiGo ,20:00,22:20,2h 20m,"11,803",17-08-2025,Economy
+IndiGo - 354,DEL,BOM,IndiGo ,19:00,21:20,2h 20m,"11,803",17-08-2025,Economy
+Air India - 2981,DEL,BOM,Air India ,21:00,23:20,2h 20m,"12,061",17-08-2025,Economy
+IndiGo - 5091,HDO,BOM,IndiGo ,17:40,20:05,2h 25m,"11,789",17-08-2025,Economy
+Air India - 2805,DEL,BOM,Air India ,20:00,22:25,2h 25m,"12,061",17-08-2025,Economy
+Air India - 2977,DEL,BOM,Air India ,19:00,21:30,2h 30m,"12,061",17-08-2025,Economy
+Air India - 2957,DEL,BOM,Air India ,20:30,23:05,2h 35m,"12,061",17-08-2025,Economy
+Air India - 2985,DEL,BOM,Air India ,19:30,22:00,2h 30m,"12,290",17-08-2025,Economy
+Air India - 2424,BOM,DEL,Air India ,04:25,06:35,2h 10m,"5,195",18-08-2025,Economy
+Air India - 2422,BOM,DEL,Air India ,01:50,04:10,2h 20m,"5,195",18-08-2025,Economy
+IndiGo - 2517,BOM,HDO,IndiGo ,07:40,09:40,2h,"6,411",18-08-2025,Economy
+Air India - 2930,BOM,DEL,Air India ,05:15,07:35,2h 20m,"5,936",18-08-2025,Economy
+Akasa Air - 1127,BOM,DEL,Akasa Air ,13:00,15:15,2h 15m,"6,189",18-08-2025,Economy
+IndiGo - 2775,BOM,DEL,IndiGo ,01:15,03:15,2h,"6,664",18-08-2025,Economy
+Akasa Air - 1410,BOM,DEL,Akasa Air ,07:05,09:20,2h 15m,"6,481",18-08-2025,Economy
+IndiGo - 762,BOM,DEL,IndiGo ,06:00,07:55,1h 55m,"7,216",18-08-2025,Economy
+IndiGo - 615,BOM,DEL,IndiGo ,13:35,15:45,2h 10m,"6,664",18-08-2025,Economy
+IndiGo - 6028,BOM,DEL,IndiGo ,12:30,14:40,2h 10m,"6,664",18-08-2025,Economy
+SpiceJet - 709,DEL,BOM,SpiceJet ,19:45,21:55,2h 10m,"5,319",18-08-2025,Economy
+Air India - 2999,DEL,BOM,Air India ,22:00,00:15,2h 15m,"5,801",18-08-2025,Economy
+SpiceJet - 546,DEL,BOM,SpiceJet ,20:10,22:40,2h 30m,"5,319",18-08-2025,Economy
+Air India - 2433,DEL,BOM,Air India ,21:30,23:55,2h 25m,"5,801",18-08-2025,Economy
+Air India - 2985,DEL,BOM,Air India ,19:30,22:00,2h 30m,"5,904",18-08-2025,Economy
+Akasa Air - 1128,DEL,BOM,Akasa Air ,16:00,18:20,2h 20m,"6,453",18-08-2025,Economy
+IndiGo - 519,DEL,BOM,IndiGo ,23:30,01:45,2h 15m,"6,723",18-08-2025,Economy
+Air India - 2994,BOM,DEL,Air India ,10:30,12:45,2h 15m,"6,969",18-08-2025,Economy
+Air India - 2419,BOM,DEL,Air India ,11:40,13:55,2h 15m,"6,969",18-08-2025,Economy
+Air India - 2986,BOM,DEL,Air India ,00:50,03:00,2h 10m,"6,969",18-08-2025,Economy
+IndiGo - 656,BOM,DEL,IndiGo ,05:00,07:05,2h 05m,"7,216",18-08-2025,Economy
+IndiGo - 6045,BOM,DEL,IndiGo ,03:00,05:15,2h 15m,"6,664",18-08-2025,Economy
+IndiGo - 6827,BOM,DEL,IndiGo ,11:15,13:30,2h 15m,"7,216",18-08-2025,Economy
+Air India - 2954,BOM,DEL,Air India ,02:35,05:00,2h 25m,"6,969",18-08-2025,Economy
+Air India Exp - 1176,BOM,HDO,Air India Exp ,04:30,06:45,2h 15m,"7,215",18-08-2025,Economy
+IndiGo - 6052,BOM,DEL,IndiGo ,10:00,12:20,2h 20m,"7,216",18-08-2025,Economy
+Air India - 2428,BOM,DEL,Air India ,06:40,08:45,2h 05m,"8,084",18-08-2025,Economy
+Air India Exp - 1124,BOM,DEL,Air India Exp ,00:35,02:55,2h 20m,"7,217",18-08-2025,Economy
+Air India - 2970,BOM,DEL,Air India ,07:45,09:55,2h 10m,"8,013",18-08-2025,Economy
+Air India - 2960,BOM,DEL,Air India ,09:25,11:40,2h 15m,"7,869",18-08-2025,Economy
+Air India - 2430,BOM,DEL,Air India ,10:00,12:15,2h 15m,"7,869",18-08-2025,Economy
+Air India - 2944,BOM,DEL,Air India ,14:40,16:55,2h 15m,"7,869",18-08-2025,Economy
+Air India - 2432,BOM,DEL,Air India ,08:45,10:55,2h 10m,"8,084",18-08-2025,Economy
+IndiGo - 6704,BOM,DEL,IndiGo ,15:00,17:15,2h 15m,"7,819",18-08-2025,Economy
+Air India - 2952,BOM,DEL,Air India ,12:30,14:55,2h 25m,"7,869",18-08-2025,Economy
+IndiGo - 333,BOM,DEL,IndiGo ,08:05,10:15,2h 10m,"8,476",18-08-2025,Economy
+IndiGo - 301,BOM,DEL,IndiGo ,07:00,09:10,2h 10m,"8,476",18-08-2025,Economy
+Air India Exp - 1146,BOM,DEL,Air India Exp ,02:15,04:40,2h 25m,"7,825",18-08-2025,Economy
+Air India - 2591,BOM,IDR,Air India ,07:20,11:15,3h 55m,"7,869",18-08-2025,Economy
+IndiGo - 6706,DEL,BOM,IndiGo ,18:00,20:20,2h 20m,"6,723",18-08-2025,Economy
+IndiGo - 354,DEL,BOM,IndiGo ,19:00,21:20,2h 20m,"6,723",18-08-2025,Economy
+IndiGo - 6114,DEL,BOM,IndiGo ,22:00,00:20,2h 20m,"6,723",18-08-2025,Economy
+IndiGo - 2163,DEL,BOM,IndiGo ,20:00,22:20,2h 20m,"6,723",18-08-2025,Economy
+IndiGo - 395,DEL,BOM,IndiGo ,21:00,23:25,2h 25m,"6,723",18-08-2025,Economy
+IndiGo - 864,DEL,BOM,IndiGo ,17:00,19:20,2h 20m,"7,276",18-08-2025,Economy
+IndiGo - 5091,HDO,BOM,IndiGo ,17:40,20:05,2h 25m,"7,247",18-08-2025,Economy
+Air India Exp - 1145,DEL,BOM,Air India Exp ,23:00,01:25,2h 25m,"7,276",18-08-2025,Economy
+Akasa Air - 1128,DEL,BOM,Akasa Air ,16:00,18:05,2h 05m,"8,106",18-08-2025,Economy
+Air India - 2981,DEL,BOM,Air India ,21:00,23:20,2h 20m,"7,837",18-08-2025,Economy
+Air India - 2805,DEL,BOM,Air India ,20:00,22:25,2h 25m,"7,837",18-08-2025,Economy
+Air India - 2439,DEL,BOM,Air India ,23:00,01:25,2h 25m,"7,837",18-08-2025,Economy
+IndiGo - 6318,DEL,BOM,IndiGo ,15:30,17:50,2h 20m,"7,877",18-08-2025,Economy
+Air India - 2955,DEL,BOM,Air India ,17:55,20:15,2h 20m,"8,125",18-08-2025,Economy
+Air India - 2977,DEL,BOM,Air India ,19:00,21:30,2h 30m,"7,837",18-08-2025,Economy
+Air India - 2957,DEL,BOM,Air India ,20:30,23:05,2h 35m,"7,837",18-08-2025,Economy
+Air India Exp - 1163,DEL,BOM,Air India Exp ,17:00,19:30,2h 30m,"8,161",18-08-2025,Economy
+Air India - 441,DEL,BOM,Air India ,17:15,20:05,2h 50m,"7,837",18-08-2025,Economy
+Air India - 2986,BOM,DEL,Air India ,00:50,03:00,2h 10m,"4,719",19-08-2025,Economy
+IndiGo - 656,BOM,DEL,IndiGo ,05:00,07:05,2h 05m,"4,970",19-08-2025,Economy
+Air India - 2930,BOM,DEL,Air India ,05:15,07:35,2h 20m,"4,800",19-08-2025,Economy
+IndiGo - 6045,BOM,DEL,IndiGo ,03:00,05:15,2h 15m,"4,599",19-08-2025,Economy
+IndiGo - 6028,BOM,DEL,IndiGo ,12:30,14:40,2h 10m,"5,070",19-08-2025,Economy
+Air India Exp - 1176,BOM,HDO,Air India Exp ,04:30,06:45,2h 15m,"4,801",19-08-2025,Economy
+Air India - 2424,BOM,DEL,Air India ,04:25,06:35,2h 10m,"5,193",19-08-2025,Economy
+Air India - 2428,BOM,DEL,Air India ,06:40,08:45,2h 05m,"5,574",19-08-2025,Economy
+IndiGo - 2775,BOM,DEL,IndiGo ,01:15,03:15,2h,"5,380",19-08-2025,Economy
+IndiGo - 6827,BOM,DEL,IndiGo ,11:15,13:30,2h 15m,"5,070",19-08-2025,Economy
+Air India - 2954,BOM,DEL,Air India ,02:35,05:00,2h 25m,"4,719",19-08-2025,Economy
+Akasa Air - 1410,BOM,DEL,Akasa Air ,07:05,09:20,2h 15m,"5,178",19-08-2025,Economy
+Air India - 2419,BOM,DEL,Air India ,11:40,13:55,2h 15m,"5,431",19-08-2025,Economy
+Air India - 2944,BOM,DEL,Air India ,14:40,16:55,2h 15m,"5,431",19-08-2025,Economy
+IndiGo - 2517,BOM,HDO,IndiGo ,07:40,09:40,2h,"5,909",19-08-2025,Economy
+Air India - 2422,BOM,DEL,Air India ,01:50,04:10,2h 20m,"5,193",19-08-2025,Economy
+Akasa Air - 1127,BOM,DEL,Akasa Air ,13:00,15:15,2h 15m,"5,457",19-08-2025,Economy
+Air India - 2952,BOM,DEL,Air India ,12:30,14:55,2h 25m,"5,431",19-08-2025,Economy
+Air India - 2432,BOM,DEL,Air India ,08:45,10:55,2h 10m,"5,987",19-08-2025,Economy
+Air India - 2960,BOM,DEL,Air India ,09:25,11:40,2h 15m,"5,833",19-08-2025,Economy
+Air India - 2430,BOM,DEL,Air India ,10:00,12:15,2h 15m,"5,833",19-08-2025,Economy
+Air India - 2994,BOM,DEL,Air India ,10:30,12:45,2h 15m,"5,833",19-08-2025,Economy
+IndiGo - 762,BOM,DEL,IndiGo ,06:00,07:55,1h 55m,"6,664",19-08-2025,Economy
+IndiGo - 301,BOM,DEL,IndiGo ,07:00,09:10,2h 10m,"6,664",19-08-2025,Economy
+IndiGo - 615,BOM,DEL,IndiGo ,13:35,15:45,2h 10m,"6,664",19-08-2025,Economy
+IndiGo - 333,BOM,DEL,IndiGo ,08:05,10:15,2h 10m,"6,664",19-08-2025,Economy
+IndiGo - 6704,BOM,DEL,IndiGo ,15:00,17:15,2h 15m,"6,664",19-08-2025,Economy
+IndiGo - 6052,BOM,DEL,IndiGo ,10:00,12:20,2h 20m,"6,664",19-08-2025,Economy
+Air India Exp - 1124,BOM,DEL,Air India Exp ,00:35,02:55,2h 20m,"7,217",19-08-2025,Economy
+Air India Exp - 1146,BOM,DEL,Air India Exp ,02:15,04:40,2h 25m,"7,217",19-08-2025,Economy
+Air India - 2591,BOM,IDR,Air India ,07:20,11:15,3h 55m,"5,833",19-08-2025,Economy
+IndiGo - 519,DEL,BOM,IndiGo ,23:30,01:45,2h 15m,"4,799",19-08-2025,Economy
+Air India - 2999,DEL,BOM,Air India ,22:00,00:15,2h 15m,"5,161",19-08-2025,Economy
+Air India - 2439,DEL,BOM,Air India ,23:00,01:25,2h 25m,"4,924",19-08-2025,Economy
+Air India Exp - 1145,DEL,BOM,Air India Exp ,23:00,01:25,2h 25m,"4,701",19-08-2025,Economy
+SpiceJet - 709,DEL,BOM,SpiceJet ,19:45,22:05,2h 20m,"4,872",19-08-2025,Economy
+IndiGo - 6114,DEL,BOM,IndiGo ,22:00,00:20,2h 20m,"4,950",19-08-2025,Economy
+IndiGo - 2163,DEL,BOM,IndiGo ,20:00,22:20,2h 20m,"5,050",19-08-2025,Economy
+SpiceJet - 709,DEL,BOM,SpiceJet ,19:45,22:15,2h 30m,"4,945",19-08-2025,Economy
+SpiceJet - 546,DEL,BOM,SpiceJet ,20:10,22:40,2h 30m,"5,188",19-08-2025,Economy
+Air India - 2981,DEL,BOM,Air India ,21:00,23:20,2h 20m,"5,801",19-08-2025,Economy
+Air India - 2805,DEL,BOM,Air India ,20:00,22:25,2h 25m,"5,801",19-08-2025,Economy
+Air India - 2433,DEL,BOM,Air India ,21:30,23:55,2h 25m,"5,801",19-08-2025,Economy
+Air India - 2977,DEL,BOM,Air India ,19:00,21:30,2h 30m,"5,801",19-08-2025,Economy
+Air India - 2985,DEL,BOM,Air India ,19:30,22:00,2h 30m,"5,904",19-08-2025,Economy
+Air India - 2957,DEL,BOM,Air India ,20:30,23:05,2h 35m,"5,801",19-08-2025,Economy
+Akasa Air - 1128,DEL,BOM,Akasa Air ,16:00,18:05,2h 05m,"6,830",19-08-2025,Economy
+IndiGo - 6318,DEL,BOM,IndiGo ,15:30,17:50,2h 20m,"6,723",19-08-2025,Economy
+IndiGo - 354,DEL,BOM,IndiGo ,19:00,21:20,2h 20m,"6,723",19-08-2025,Economy
+IndiGo - 864,DEL,BOM,IndiGo ,17:00,19:20,2h 20m,"6,723",19-08-2025,Economy
+IndiGo - 6706,DEL,BOM,IndiGo ,18:00,20:20,2h 20m,"6,723",19-08-2025,Economy
+IndiGo - 5091,HDO,BOM,IndiGo ,17:40,20:05,2h 25m,"6,694",19-08-2025,Economy
+IndiGo - 395,DEL,BOM,IndiGo ,21:00,23:25,2h 25m,"6,723",19-08-2025,Economy
+Air India - 2955,DEL,BOM,Air India ,17:55,20:15,2h 20m,"7,188",19-08-2025,Economy
+Air India Exp - 1163,DEL,BOM,Air India Exp ,17:00,19:30,2h 30m,"7,276",19-08-2025,Economy
+IndiGo - 2775,BOM,DEL,IndiGo ,01:15,03:15,2h,"4,599",20-08-2025,Economy
+Air India - 2986,BOM,DEL,Air India ,00:50,03:00,2h 10m,"4,719",20-08-2025,Economy
+IndiGo - 656,BOM,DEL,IndiGo ,05:00,07:05,2h 05m,"4,970",20-08-2025,Economy
+Air India Exp - 1176,BOM,HDO,Air India Exp ,04:30,06:45,2h 15m,"4,599",20-08-2025,Economy
+Air India - 2930,BOM,DEL,Air India ,05:15,07:35,2h 20m,"4,800",20-08-2025,Economy
+IndiGo - 6045,BOM,DEL,IndiGo ,03:00,05:15,2h 15m,"4,599",20-08-2025,Economy
+IndiGo - 615,BOM,DEL,IndiGo ,13:35,15:45,2h 10m,"5,070",20-08-2025,Economy
+Air India Exp - 1146,BOM,DEL,Air India Exp ,02:15,04:40,2h 25m,"4,500",20-08-2025,Economy
+Air India - 2424,BOM,DEL,Air India ,04:25,06:35,2h 10m,"5,193",20-08-2025,Economy
+Akasa Air - 1127,BOM,DEL,Akasa Air ,13:00,15:15,2h 15m,"5,088",20-08-2025,Economy
+Air India - 2954,BOM,DEL,Air India ,02:35,05:00,2h 25m,"4,719",20-08-2025,Economy
+Air India - 2419,BOM,DEL,Air India ,11:40,13:55,2h 15m,"5,431",20-08-2025,Economy
+Air India - 2944,BOM,DEL,Air India ,14:40,16:55,2h 15m,"5,431",20-08-2025,Economy
+IndiGo - 2517,BOM,HDO,IndiGo ,07:40,09:40,2h,"5,909",20-08-2025,Economy
+Air India - 2422,BOM,DEL,Air India ,01:50,04:10,2h 20m,"5,193",20-08-2025,Economy
+Air India - 2428,BOM,DEL,Air India ,06:40,08:45,2h 05m,"5,987",20-08-2025,Economy
+Air India - 2952,BOM,DEL,Air India ,12:30,14:55,2h 25m,"5,431",20-08-2025,Economy
+Air India - 2432,BOM,DEL,Air India ,08:45,10:55,2h 10m,"5,987",20-08-2025,Economy
+Air India - 2960,BOM,DEL,Air India ,09:25,11:40,2h 15m,"5,833",20-08-2025,Economy
+Air India - 2430,BOM,DEL,Air India ,10:00,12:15,2h 15m,"5,833",20-08-2025,Economy
+Air India - 2994,BOM,DEL,Air India ,10:30,12:45,2h 15m,"5,833",20-08-2025,Economy
+Akasa Air - 1410,BOM,DEL,Akasa Air ,07:05,09:20,2h 15m,"5,793",20-08-2025,Economy
+IndiGo - 762,BOM,DEL,IndiGo ,06:00,07:55,1h 55m,"6,664",20-08-2025,Economy
+Air India - 2970,BOM,DEL,Air India ,07:45,09:55,2h 10m,"6,380",20-08-2025,Economy
+IndiGo - 6028,BOM,DEL,IndiGo ,12:30,14:40,2h 10m,"6,664",20-08-2025,Economy
+IndiGo - 333,BOM,DEL,IndiGo ,08:05,10:15,2h 10m,"6,664",20-08-2025,Economy
+IndiGo - 301,BOM,DEL,IndiGo ,07:00,09:10,2h 10m,"6,664",20-08-2025,Economy
+IndiGo - 6704,BOM,DEL,IndiGo ,15:00,17:15,2h 15m,"6,664",20-08-2025,Economy
+IndiGo - 6827,BOM,DEL,IndiGo ,11:15,13:30,2h 15m,"6,664",20-08-2025,Economy
+IndiGo - 6052,BOM,DEL,IndiGo ,10:00,12:20,2h 20m,"6,664",20-08-2025,Economy
+Air India Exp - 1124,BOM,DEL,Air India Exp ,00:35,02:55,2h 20m,"6,850",20-08-2025,Economy
+Air India - 2591,BOM,IDR,Air India ,07:20,11:15,3h 55m,"5,833",20-08-2025,Economy
+IndiGo - 519,DEL,BOM,IndiGo ,23:30,01:45,2h 15m,"4,799",20-08-2025,Economy
+SpiceJet - 709,DEL,BOM,SpiceJet ,19:45,21:55,2h 10m,"5,045",20-08-2025,Economy
+Air India - 2999,DEL,BOM,Air India ,22:00,00:15,2h 15m,"5,161",20-08-2025,Economy
+Akasa Air - 1128,DEL,BOM,Akasa Air ,16:00,18:05,2h 05m,"5,342",20-08-2025,Economy
+Air India Exp - 1150,DEL,BOM,Air India Exp ,21:10,23:40,2h 30m,"4,701",20-08-2025,Economy
+IndiGo - 6318,DEL,BOM,IndiGo ,15:30,17:50,2h 20m,"5,050",20-08-2025,Economy
+IndiGo - 395,DEL,BOM,IndiGo ,21:00,23:25,2h 25m,"4,950",20-08-2025,Economy
+SpiceJet - 546,DEL,BOM,SpiceJet ,20:10,22:40,2h 30m,"5,188",20-08-2025,Economy
+Air India - 2981,DEL,BOM,Air India ,21:00,23:20,2h 20m,"5,801",20-08-2025,Economy
+Air India - 2433,DEL,BOM,Air India ,21:30,23:55,2h 25m,"5,801",20-08-2025,Economy
+Air India - 2439,DEL,BOM,Air India ,23:00,01:25,2h 25m,"5,801",20-08-2025,Economy
+Air India - 2977,DEL,BOM,Air India ,19:00,21:30,2h 30m,"5,801",20-08-2025,Economy
+Air India - 2985,DEL,BOM,Air India ,19:30,22:00,2h 30m,"5,904",20-08-2025,Economy
+Air India - 2957,DEL,BOM,Air India ,20:30,23:05,2h 35m,"5,801",20-08-2025,Economy
+Air India - 2805,DEL,BOM,Air India ,20:00,22:25,2h 25m,"6,237",20-08-2025,Economy
+IndiGo - 5091,HDO,BOM,IndiGo ,17:40,20:05,2h 25m,"6,188",20-08-2025,Economy
+IndiGo - 864,DEL,BOM,IndiGo ,17:00,19:20,2h 20m,"6,723",20-08-2025,Economy
+IndiGo - 2163,DEL,BOM,IndiGo ,20:00,22:20,2h 20m,"6,723",20-08-2025,Economy
+IndiGo - 6706,DEL,BOM,IndiGo ,18:00,20:20,2h 20m,"6,723",20-08-2025,Economy
+IndiGo - 354,DEL,BOM,IndiGo ,19:00,21:20,2h 20m,"6,723",20-08-2025,Economy
+IndiGo - 6114,DEL,BOM,IndiGo ,22:00,00:20,2h 20m,"6,723",20-08-2025,Economy
+Air India - 2955,DEL,BOM,Air India ,17:55,20:15,2h 20m,"7,188",20-08-2025,Economy
+Air India Exp - 1163,DEL,BOM,Air India Exp ,17:00,19:25,2h 25m,"7,276",20-08-2025,Economy
+IndiGo - 2775,BOM,DEL,IndiGo ,01:15,03:15,2h,"4,599",21-08-2025,Economy
+IndiGo - 2517,BOM,HDO,IndiGo ,07:40,09:40,2h,"4,849",21-08-2025,Economy
+Air India - 2986,BOM,DEL,Air India ,00:50,03:00,2h 10m,"4,719",21-08-2025,Economy
+IndiGo - 656,BOM,DEL,IndiGo ,05:00,07:05,2h 05m,"4,970",21-08-2025,Economy
+Air India Exp - 1176,BOM,HDO,Air India Exp ,04:30,06:45,2h 15m,"4,599",21-08-2025,Economy
+Air India - 2930,BOM,DEL,Air India ,05:15,07:35,2h 20m,"4,800",21-08-2025,Economy
+IndiGo - 6045,BOM,DEL,IndiGo ,03:00,05:15,2h 15m,"4,599",21-08-2025,Economy
+Air India Exp - 1124,BOM,DEL,Air India Exp ,00:35,02:55,2h 20m,"4,500",21-08-2025,Economy
+Air India Exp - 2146,BOM,DEL,Air India Exp ,02:15,04:40,2h 25m,"4,500",21-08-2025,Economy
+Air India - 2424,BOM,DEL,Air India ,04:25,06:35,2h 10m,"5,193",21-08-2025,Economy
+Air India - 2954,BOM,DEL,Air India ,02:35,05:00,2h 25m,"4,719",21-08-2025,Economy
+Akasa Air - 1127,BOM,DEL,Akasa Air ,13:00,15:15,2h 15m,"5,088",21-08-2025,Economy
+Air India - 2419,BOM,DEL,Air India ,11:40,13:55,2h 15m,"5,431",21-08-2025,Economy
+Air India - 2944,BOM,DEL,Air India ,14:40,16:55,2h 15m,"5,431",21-08-2025,Economy
+Akasa Air - 1410,BOM,DEL,Akasa Air ,07:05,09:20,2h 15m,"5,316",21-08-2025,Economy
+Air India - 2422,BOM,DEL,Air India ,01:50,04:10,2h 20m,"5,193",21-08-2025,Economy
+Air India - 2428,BOM,DEL,Air India ,06:40,08:45,2h 05m,"5,987",21-08-2025,Economy
+Air India - 2952,BOM,DEL,Air India ,12:30,14:55,2h 25m,"5,431",21-08-2025,Economy
+Air India - 2432,BOM,DEL,Air India ,08:45,10:55,2h 10m,"5,987",21-08-2025,Economy
+Air India - 2960,BOM,DEL,Air India ,09:25,11:40,2h 15m,"5,833",21-08-2025,Economy
+Air India - 2430,BOM,DEL,Air India ,10:00,12:15,2h 15m,"5,833",21-08-2025,Economy
+Air India - 2994,BOM,DEL,Air India ,10:30,12:45,2h 15m,"5,833",21-08-2025,Economy
+IndiGo - 762,BOM,DEL,IndiGo ,06:00,07:55,1h 55m,"6,664",21-08-2025,Economy
+Air India - 2970,BOM,DEL,Air India ,07:45,09:55,2h 10m,"6,380",21-08-2025,Economy
+IndiGo - 301,BOM,DEL,IndiGo ,07:00,09:10,2h 10m,"6,664",21-08-2025,Economy
+IndiGo - 615,BOM,DEL,IndiGo ,13:35,15:45,2h 10m,"6,664",21-08-2025,Economy
+IndiGo - 6028,BOM,DEL,IndiGo ,12:30,14:40,2h 10m,"6,664",21-08-2025,Economy
+IndiGo - 333,BOM,DEL,IndiGo ,08:05,10:15,2h 10m,"6,664",21-08-2025,Economy
+IndiGo - 6704,BOM,DEL,IndiGo ,15:00,17:15,2h 15m,"6,664",21-08-2025,Economy
+IndiGo - 6827,BOM,DEL,IndiGo ,11:15,13:30,2h 15m,"6,664",21-08-2025,Economy
+IndiGo - 6052,BOM,DEL,IndiGo ,10:00,12:20,2h 20m,"6,664",21-08-2025,Economy
+Air India - 2591,BOM,IDR,Air India ,07:20,11:15,3h 55m,"5,833",21-08-2025,Economy
+Air India - 2999,DEL,BOM,Air India ,22:00,00:15,2h 15m,"5,161",21-08-2025,Economy
+Akasa Air - 1128,DEL,BOM,Akasa Air ,16:00,18:05,2h 05m,"5,342",21-08-2025,Economy
+IndiGo - 6318,DEL,BOM,IndiGo ,15:30,17:50,2h 20m,"5,050",21-08-2025,Economy
+IndiGo - 5091,HDO,BOM,IndiGo ,17:40,20:05,2h 25m,"4,949",21-08-2025,Economy
+IndiGo - 395,DEL,BOM,IndiGo ,21:00,23:25,2h 25m,"4,950",21-08-2025,Economy
+SpiceJet - 709,DEL,BOM,SpiceJet ,19:45,22:15,2h 30m,"4,945",21-08-2025,Economy
+SpiceJet - 709,DEL,BOM,SpiceJet ,19:45,22:05,2h 20m,"5,319",21-08-2025,Economy
+Air India - 2981,DEL,BOM,Air India ,21:00,23:20,2h 20m,"5,801",21-08-2025,Economy
+Air India - 2805,DEL,BOM,Air India ,20:00,22:25,2h 25m,"5,801",21-08-2025,Economy
+Air India - 2433,DEL,BOM,Air India ,21:30,23:55,2h 25m,"5,801",21-08-2025,Economy
+Air India - 2439,DEL,BOM,Air India ,23:00,01:25,2h 25m,"5,801",21-08-2025,Economy
+Air India - 2977,DEL,BOM,Air India ,19:00,21:30,2h 30m,"5,801",21-08-2025,Economy
+Air India - 2985,DEL,BOM,Air India ,19:30,22:00,2h 30m,"5,904",21-08-2025,Economy
+Air India - 2957,DEL,BOM,Air India ,20:30,23:05,2h 35m,"5,801",21-08-2025,Economy
+Air India Exp - 1163,DEL,BOM,Air India Exp ,17:00,19:30,2h 30m,"6,217",21-08-2025,Economy
+IndiGo - 519,DEL,BOM,IndiGo ,23:30,01:45,2h 15m,"6,723",21-08-2025,Economy
+IndiGo - 6706,DEL,BOM,IndiGo ,18:00,20:20,2h 20m,"6,723",21-08-2025,Economy
+IndiGo - 2163,DEL,BOM,IndiGo ,20:00,22:20,2h 20m,"6,723",21-08-2025,Economy
+IndiGo - 864,DEL,BOM,IndiGo ,17:00,19:20,2h 20m,"6,723",21-08-2025,Economy
+IndiGo - 6114,DEL,BOM,IndiGo ,22:00,00:20,2h 20m,"6,723",21-08-2025,Economy
+IndiGo - 354,DEL,BOM,IndiGo ,19:00,21:20,2h 20m,"6,723",21-08-2025,Economy
+Air India - 2955,DEL,BOM,Air India ,17:55,20:15,2h 20m,"7,188",21-08-2025,Economy
+IndiGo - 762,BOM,DEL,IndiGo ,06:00,07:55,1h 55m,"4,970",22-08-2025,Economy
+IndiGo - 2775,BOM,DEL,IndiGo ,01:15,03:15,2h,"4,599",22-08-2025,Economy
+IndiGo - 2517,BOM,HDO,IndiGo ,07:40,09:40,2h,"4,849",22-08-2025,Economy
+Air India - 2986,BOM,DEL,Air India ,00:50,03:00,2h 10m,"4,719",22-08-2025,Economy
+IndiGo - 656,BOM,DEL,IndiGo ,05:00,07:05,2h 05m,"4,970",22-08-2025,Economy
+Air India - 2930,BOM,DEL,Air India ,05:15,07:35,2h 20m,"4,800",22-08-2025,Economy
+IndiGo - 6045,BOM,DEL,IndiGo ,03:00,05:15,2h 15m,"4,599",22-08-2025,Economy
+Air India Exp - 1124,BOM,DEL,Air India Exp ,00:35,02:55,2h 20m,"4,500",22-08-2025,Economy
+Akasa Air - 1127,BOM,DEL,Akasa Air ,13:00,15:15,2h 15m,"4,906",22-08-2025,Economy
+IndiGo - 6028,BOM,DEL,IndiGo ,12:30,14:40,2h 10m,"5,070",22-08-2025,Economy
+IndiGo - 301,BOM,DEL,IndiGo ,07:00,09:10,2h 10m,"5,070",22-08-2025,Economy
+Air India - 2424,BOM,DEL,Air India ,04:25,06:35,2h 10m,"5,193",22-08-2025,Economy
+Air India - 2954,BOM,DEL,Air India ,02:35,05:00,2h 25m,"4,719",22-08-2025,Economy
+IndiGo - 6827,BOM,DEL,IndiGo ,11:15,13:30,2h 15m,"5,070",22-08-2025,Economy
+Akasa Air - 1410,BOM,DEL,Akasa Air ,07:05,09:20,2h 15m,"5,207",22-08-2025,Economy
+IndiGo - 6052,BOM,DEL,IndiGo ,10:00,12:20,2h 20m,"5,070",22-08-2025,Economy
+Air India - 2419,BOM,DEL,Air India ,11:40,13:55,2h 15m,"5,431",22-08-2025,Economy
+Air India - 2944,BOM,DEL,Air India ,14:40,16:55,2h 15m,"5,431",22-08-2025,Economy
+Air India - 2422,BOM,DEL,Air India ,01:50,04:10,2h 20m,"5,193",22-08-2025,Economy
+Air India - 2428,BOM,DEL,Air India ,06:40,08:45,2h 05m,"5,987",22-08-2025,Economy
+Air India - 2952,BOM,DEL,Air India ,12:30,14:55,2h 25m,"5,431",22-08-2025,Economy
+Air India - 2970,BOM,DEL,Air India ,07:45,09:55,2h 10m,"5,936",22-08-2025,Economy
+Air India - 2432,BOM,DEL,Air India ,08:45,10:55,2h 10m,"5,987",22-08-2025,Economy
+Air India - 2994,BOM,DEL,Air India ,10:30,12:45,2h 15m,"5,833",22-08-2025,Economy
+Air India - 2960,BOM,DEL,Air India ,09:25,11:40,2h 15m,"6,090",22-08-2025,Economy
+Air India - 2430,BOM,DEL,Air India ,10:00,12:15,2h 15m,"6,090",22-08-2025,Economy
+IndiGo - 615,BOM,DEL,IndiGo ,13:35,15:45,2h 10m,"6,664",22-08-2025,Economy
+IndiGo - 333,BOM,DEL,IndiGo ,08:05,10:15,2h 10m,"6,664",22-08-2025,Economy
+IndiGo - 6704,BOM,DEL,IndiGo ,15:00,17:15,2h 15m,"6,664",22-08-2025,Economy
+Air India - 2591,BOM,IDR,Air India ,07:20,11:15,3h 55m,"5,833",22-08-2025,Economy
+SpiceJet - 709,DEL,BOM,SpiceJet ,19:45,21:55,2h 10m,"4,945",22-08-2025,Economy
+Akasa Air - 1128,DEL,BOM,Akasa Air ,16:00,18:05,2h 05m,"5,440",22-08-2025,Economy
+IndiGo - 5091,HDO,BOM,IndiGo ,17:40,20:05,2h 25m,"4,949",22-08-2025,Economy
+Air India - 2439,DEL,BOM,Air India ,23:00,01:25,2h 25m,"5,904",22-08-2025,Economy
+Air India - 2999,DEL,BOM,Air India ,22:00,00:15,2h 15m,"6,237",22-08-2025,Economy
+IndiGo - 395,DEL,BOM,IndiGo ,21:00,23:25,2h 25m,"6,006",22-08-2025,Economy
+IndiGo - 864,DEL,BOM,IndiGo ,17:00,19:20,2h 20m,"6,216",22-08-2025,Economy
+Air India - 2433,DEL,BOM,Air India ,21:30,23:55,2h 25m,"6,237",22-08-2025,Economy
+Air India - 2981,DEL,BOM,Air India ,21:00,23:20,2h 20m,"6,516",22-08-2025,Economy
+IndiGo - 519,DEL,BOM,IndiGo ,23:30,01:45,2h 15m,"6,723",22-08-2025,Economy
+IndiGo - 6114,DEL,BOM,IndiGo ,22:00,00:20,2h 20m,"6,723",22-08-2025,Economy
+IndiGo - 6318,DEL,BOM,IndiGo ,15:30,17:50,2h 20m,"6,723",22-08-2025,Economy
+IndiGo - 2163,DEL,BOM,IndiGo ,20:00,22:20,2h 20m,"6,723",22-08-2025,Economy
+Air India - 2985,DEL,BOM,Air India ,19:30,22:00,2h 30m,"7,063",22-08-2025,Economy
+IndiGo - 354,DEL,BOM,IndiGo ,19:00,21:20,2h 20m,"7,276",22-08-2025,Economy
+Air India - 2957,DEL,BOM,Air India ,20:30,23:05,2h 35m,"7,251",22-08-2025,Economy
+Air India Exp - 1150,DEL,BOM,Air India Exp ,21:10,23:40,2h 30m,"7,276",22-08-2025,Economy
+Air India Exp - 1163,DEL,BOM,Air India Exp ,17:00,19:25,2h 25m,"7,650",22-08-2025,Economy
+IndiGo - 6706,DEL,BOM,IndiGo ,18:00,20:20,2h 20m,"7,877",22-08-2025,Economy
+Air India - 2955,DEL,BOM,Air India ,17:55,20:15,2h 20m,"8,125",22-08-2025,Economy
+Air India - 2805,DEL,BOM,Air India ,20:00,22:25,2h 25m,"8,196",22-08-2025,Economy
+IndiGo - 2775,BOM,DEL,IndiGo ,01:15,03:15,2h,"4,599",23-08-2025,Economy
+Air India - 2986,BOM,DEL,Air India ,00:50,03:00,2h 10m,"4,719",23-08-2025,Economy
+IndiGo - 656,BOM,DEL,IndiGo ,05:00,07:05,2h 05m,"4,970",23-08-2025,Economy
+Air India - 2930,BOM,DEL,Air India ,05:15,07:35,2h 20m,"4,800",23-08-2025,Economy
+IndiGo - 6045,BOM,DEL,IndiGo ,03:00,05:15,2h 15m,"4,599",23-08-2025,Economy
+Air India Exp - 1124,BOM,DEL,Air India Exp ,00:35,02:55,2h 20m,"4,500",23-08-2025,Economy
+IndiGo - 2517,BOM,HDO,IndiGo ,07:40,09:40,2h,"5,450",23-08-2025,Economy
+Air India Exp - 2146,BOM,DEL,Air India Exp ,02:15,04:40,2h 25m,"4,500",23-08-2025,Economy
+Air India - 2424,BOM,DEL,Air India ,04:25,06:35,2h 10m,"5,193",23-08-2025,Economy
+Air India - 2954,BOM,DEL,Air India ,02:35,05:00,2h 25m,"4,719",23-08-2025,Economy
+SpiceJet - 709,DEL,BOM,SpiceJet ,19:45,21:55,2h 10m,"4,872",23-08-2025,Economy
+Akasa Air - 1128,DEL,BOM,Akasa Air ,16:00,18:05,2h 05m,"5,342",23-08-2025,Economy
+Air India - 2999,DEL,BOM,Air India ,22:00,00:15,2h 15m,"5,161",23-08-2025,Economy
+IndiGo - 6114,DEL,BOM,IndiGo ,22:00,00:20,2h 20m,"4,950",23-08-2025,Economy
+Air India - 2933,DEL,BOM,Air India ,15:30,17:45,2h 15m,"5,399",23-08-2025,Economy
+IndiGo - 6318,DEL,BOM,IndiGo ,15:30,17:50,2h 20m,"5,050",23-08-2025,Economy
+IndiGo - 762,BOM,DEL,IndiGo ,06:00,07:55,1h 55m,"4,970",24-08-2025,Economy
+IndiGo - 2775,BOM,DEL,IndiGo ,01:15,03:15,2h,"4,599",24-08-2025,Economy
+IndiGo - 2517,BOM,HDO,IndiGo ,07:40,09:40,2h,"4,849",24-08-2025,Economy
+Air India - 2986,BOM,DEL,Air India ,00:50,03:00,2h 10m,"4,719",24-08-2025,Economy
+Akasa Air - 1410,BOM,DEL,Akasa Air ,07:05,09:20,2h 15m,"4,632",24-08-2025,Economy
+IndiGo - 656,BOM,DEL,IndiGo ,05:00,07:05,2h 05m,"4,970",24-08-2025,Economy
+Air India - 2930,BOM,DEL,Air India ,05:15,07:35,2h 20m,"4,800",24-08-2025,Economy
+IndiGo - 6045,BOM,DEL,IndiGo ,03:00,05:15,2h 15m,"4,599",24-08-2025,Economy
+Air India Exp - 1124,BOM,DEL,Air India Exp ,00:35,02:55,2h 20m,"4,500",24-08-2025,Economy
+IndiGo - 333,BOM,DEL,IndiGo ,08:05,10:15,2h 10m,"5,070",24-08-2025,Economy
+IndiGo - 301,BOM,DEL,IndiGo ,07:00,09:10,2h 10m,"5,070",24-08-2025,Economy
+Air India - 2424,BOM,DEL,Air India ,04:25,06:35,2h 10m,"5,193",24-08-2025,Economy
+Air India - 2954,BOM,DEL,Air India ,02:35,05:00,2h 25m,"4,719",24-08-2025,Economy
+Air India - 2428,BOM,DEL,Air India ,06:40,08:45,2h 05m,"5,574",24-08-2025,Economy
+IndiGo - 6704,BOM,DEL,IndiGo ,15:00,17:15,2h 15m,"5,070",24-08-2025,Economy
+Air India - 2970,BOM,DEL,Air India ,07:45,09:55,2h 10m,"5,525",24-08-2025,Economy
+Air India - 2432,BOM,DEL,Air India ,08:45,10:55,2h 10m,"5,574",24-08-2025,Economy
+IndiGo - 6052,BOM,DEL,IndiGo ,10:00,12:20,2h 20m,"5,070",24-08-2025,Economy
+Air India - 2430,BOM,DEL,Air India ,10:00,12:15,2h 15m,"5,431",24-08-2025,Economy
+Air India - 2994,BOM,DEL,Air India ,10:30,12:45,2h 15m,"5,431",24-08-2025,Economy
+Air India - 2419,BOM,DEL,Air India ,11:40,13:55,2h 15m,"5,431",24-08-2025,Economy
+Air India - 2944,BOM,DEL,Air India ,14:40,16:55,2h 15m,"5,431",24-08-2025,Economy
+Akasa Air - 1127,BOM,DEL,Akasa Air ,13:00,15:15,2h 15m,"5,360",24-08-2025,Economy
+Air India - 2422,BOM,DEL,Air India ,01:50,04:10,2h 20m,"5,193",24-08-2025,Economy
+Air India - 2960,BOM,DEL,Air India ,09:25,11:40,2h 15m,"5,668",24-08-2025,Economy
+Air India - 2952,BOM,DEL,Air India ,12:30,14:55,2h 25m,"5,431",24-08-2025,Economy
+IndiGo - 6028,BOM,DEL,IndiGo ,12:30,14:40,2h 10m,"6,664",24-08-2025,Economy
+IndiGo - 615,BOM,DEL,IndiGo ,13:35,15:45,2h 10m,"6,664",24-08-2025,Economy
+IndiGo - 6827,BOM,DEL,IndiGo ,11:15,13:30,2h 15m,"6,664",24-08-2025,Economy
+Air India - 2591,BOM,IDR,Air India ,07:20,11:15,3h 55m,"5,431",24-08-2025,Economy
+SpiceJet - 709,DEL,BOM,SpiceJet ,19:45,22:10,2h 25m,"4,945",24-08-2025,Economy
+SpiceJet - 546,DEL,BOM,SpiceJet ,20:10,22:40,2h 30m,"5,188",24-08-2025,Economy
+Air India - 2933,DEL,BOM,Air India ,15:30,17:45,2h 15m,"6,058",24-08-2025,Economy
+Air India - 2439,DEL,BOM,Air India ,23:00,01:25,2h 25m,"5,801",24-08-2025,Economy
+IndiGo - 5091,HDO,BOM,IndiGo ,17:40,20:05,2h 25m,"5,724",24-08-2025,Economy
+Air India - 2999,DEL,BOM,Air India ,22:00,00:15,2h 15m,"6,237",24-08-2025,Economy
+Air India - 2981,DEL,BOM,Air India ,21:00,23:20,2h 20m,"6,237",24-08-2025,Economy
+Akasa Air - 1128,DEL,BOM,Akasa Air ,16:00,18:05,2h 05m,"6,667",24-08-2025,Economy
+IndiGo - 864,DEL,BOM,IndiGo ,17:00,19:20,2h 20m,"6,216",24-08-2025,Economy
+IndiGo - 6706,DEL,BOM,IndiGo ,18:00,20:20,2h 20m,"6,216",24-08-2025,Economy
+Air India - 2433,DEL,BOM,Air India ,21:30,23:55,2h 25m,"6,237",24-08-2025,Economy
+Air India - 2977,DEL,BOM,Air India ,19:00,21:30,2h 30m,"6,237",24-08-2025,Economy
+Air India - 2985,DEL,BOM,Air India ,19:30,22:00,2h 30m,"6,348",24-08-2025,Economy
+IndiGo - 519,DEL,BOM,IndiGo ,23:30,01:45,2h 15m,"6,723",24-08-2025,Economy
+Air India - 2957,DEL,BOM,Air India ,20:30,23:05,2h 35m,"6,237",24-08-2025,Economy
+IndiGo - 354,DEL,BOM,IndiGo ,19:00,21:20,2h 20m,"6,723",24-08-2025,Economy
+IndiGo - 2163,DEL,BOM,IndiGo ,20:00,22:20,2h 20m,"6,723",24-08-2025,Economy
+IndiGo - 6114,DEL,BOM,IndiGo ,22:00,00:20,2h 20m,"6,723",24-08-2025,Economy
+IndiGo - 6318,DEL,BOM,IndiGo ,15:30,17:50,2h 20m,"6,723",24-08-2025,Economy
+IndiGo - 395,DEL,BOM,IndiGo ,21:00,23:25,2h 25m,"6,723",24-08-2025,Economy
+Air India - 2805,DEL,BOM,Air India ,20:00,22:25,2h 25m,"7,837",24-08-2025,Economy
+Air India - 2955,DEL,BOM,Air India ,17:55,20:15,2h 20m,"8,125",24-08-2025,Economy
+Air India Exp - 1145,DEL,BOM,Air India Exp ,23:00,01:25,2h 25m,"8,162",24-08-2025,Economy
+Air India Exp - 1163,DEL,BOM,Air India Exp ,17:00,19:30,2h 30m,"8,161",24-08-2025,Economy
+IndiGo - 2775,BOM,DEL,IndiGo ,01:15,03:15,2h,"4,599",25-08-2025,Economy
+IndiGo - 2517,BOM,HDO,IndiGo ,07:40,09:40,2h,"4,849",25-08-2025,Economy
+Air India - 2986,BOM,DEL,Air India ,00:50,03:00,2h 10m,"4,720",25-08-2025,Economy
+Akasa Air - 1127,BOM,DEL,Akasa Air ,13:00,15:15,2h 15m,"4,632",25-08-2025,Economy
+Akasa Air - 1410,BOM,DEL,Akasa Air ,07:05,09:20,2h 15m,"4,632",25-08-2025,Economy
+Air India Exp - 1176,BOM,HDO,Air India Exp ,04:30,06:45,2h 15m,"4,599",25-08-2025,Economy
+IndiGo - 6045,BOM,DEL,IndiGo ,03:00,05:15,2h 15m,"4,599",25-08-2025,Economy
+Air India Exp - 1124,BOM,DEL,Air India Exp ,00:35,02:55,2h 20m,"4,500",25-08-2025,Economy
+Air India Exp - 1146,BOM,DEL,Air India Exp ,02:15,04:40,2h 25m,"4,500",25-08-2025,Economy
+Air India - 2424,BOM,DEL,Air India ,04:25,06:35,2h 10m,"5,195",25-08-2025,Economy
+Air India - 2954,BOM,DEL,Air India ,02:35,05:00,2h 25m,"4,720",25-08-2025,Economy
+IndiGo - 6704,BOM,DEL,IndiGo ,15:00,17:15,2h 15m,"5,070",25-08-2025,Economy
+Air India - 2419,BOM,DEL,Air India ,11:40,13:55,2h 15m,"5,431",25-08-2025,Economy
+Air India - 2944,BOM,DEL,Air India ,14:40,16:55,2h 15m,"5,431",25-08-2025,Economy
+IndiGo - 762,BOM,DEL,IndiGo ,06:00,07:55,1h 55m,"5,948",25-08-2025,Economy
+Air India - 2422,BOM,DEL,Air India ,01:50,04:10,2h 20m,"5,195",25-08-2025,Economy
+Air India - 2428,BOM,DEL,Air India ,06:40,08:45,2h 05m,"5,987",25-08-2025,Economy
+Air India - 2952,BOM,DEL,Air India ,12:30,14:55,2h 25m,"5,431",25-08-2025,Economy
+Air India - 2930,BOM,DEL,Air India ,05:15,07:35,2h 20m,"5,936",25-08-2025,Economy
+IndiGo - 333,BOM,DEL,IndiGo ,08:05,10:15,2h 10m,"6,158",25-08-2025,Economy
+IndiGo - 301,BOM,DEL,IndiGo ,07:00,09:10,2h 10m,"6,158",25-08-2025,Economy
+Air India - 2960,BOM,DEL,Air India ,09:25,11:40,2h 15m,"6,269",25-08-2025,Economy
+Air India - 2430,BOM,DEL,Air India ,10:00,12:15,2h 15m,"6,269",25-08-2025,Economy
+Air India - 2994,BOM,DEL,Air India ,10:30,12:45,2h 15m,"6,269",25-08-2025,Economy
+Air India - 2432,BOM,DEL,Air India ,08:45,10:55,2h 10m,"6,436",25-08-2025,Economy
+IndiGo - 6827,BOM,DEL,IndiGo ,11:15,13:30,2h 15m,"6,158",25-08-2025,Economy
+IndiGo - 656,BOM,DEL,IndiGo ,05:00,07:05,2h 05m,"6,664",25-08-2025,Economy
+IndiGo - 6052,BOM,DEL,IndiGo ,10:00,12:20,2h 20m,"6,158",25-08-2025,Economy
+IndiGo - 615,BOM,DEL,IndiGo ,13:35,15:45,2h 10m,"6,664",25-08-2025,Economy
+IndiGo - 6028,BOM,DEL,IndiGo ,12:30,14:40,2h 10m,"6,664",25-08-2025,Economy
+Air India - 2970,BOM,DEL,Air India ,07:45,09:55,2h 10m,"7,095",25-08-2025,Economy
+Air India - 2591,BOM,IDR,Air India ,07:20,11:15,3h 55m,"6,269",25-08-2025,Economy
+SpiceJet - 709,DEL,BOM,SpiceJet ,19:45,21:55,2h 10m,"4,872",25-08-2025,Economy
+Akasa Air - 1128,DEL,BOM,Akasa Air ,16:00,18:05,2h 05m,"5,241",25-08-2025,Economy
+Air India Exp - 1145,DEL,BOM,Air India Exp ,23:00,01:25,2h 25m,"4,701",25-08-2025,Economy
+Air India - 2999,DEL,BOM,Air India ,22:00,00:15,2h 15m,"5,161",25-08-2025,Economy
+Air India - 2439,DEL,BOM,Air India ,23:00,01:25,2h 25m,"4,924",25-08-2025,Economy
+IndiGo - 6114,DEL,BOM,IndiGo ,22:00,00:20,2h 20m,"4,950",25-08-2025,Economy
+Air India Exp - 1163,DEL,BOM,Air India Exp ,17:00,19:30,2h 30m,"4,701",25-08-2025,Economy
+IndiGo - 354,DEL,BOM,IndiGo ,19:00,21:20,2h 20m,"5,050",25-08-2025,Economy
+IndiGo - 2163,DEL,BOM,IndiGo ,20:00,22:20,2h 20m,"5,050",25-08-2025,Economy
+IndiGo - 6706,DEL,BOM,IndiGo ,18:00,20:20,2h 20m,"5,050",25-08-2025,Economy
+IndiGo - 5091,HDO,BOM,IndiGo ,17:40,20:05,2h 25m,"4,949",25-08-2025,Economy
+IndiGo - 395,DEL,BOM,IndiGo ,21:00,23:25,2h 25m,"4,950",25-08-2025,Economy
+Air India - 2433,DEL,BOM,Air India ,21:30,23:55,2h 25m,"5,399",25-08-2025,Economy
+SpiceJet - 546,DEL,BOM,SpiceJet ,20:10,22:40,2h 30m,"5,188",25-08-2025,Economy
+Air India - 2981,DEL,BOM,Air India ,21:00,23:20,2h 20m,"5,801",25-08-2025,Economy
+Air India - 2805,DEL,BOM,Air India ,20:00,22:25,2h 25m,"5,801",25-08-2025,Economy
+Air India - 2955,DEL,BOM,Air India ,17:55,20:15,2h 20m,"6,007",25-08-2025,Economy
+Air India - 2977,DEL,BOM,Air India ,19:00,21:30,2h 30m,"5,801",25-08-2025,Economy
+Air India - 441,DEL,BOM,Air India ,17:15,20:05,2h 50m,"5,399",25-08-2025,Economy
+Air India - 2985,DEL,BOM,Air India ,19:30,22:00,2h 30m,"5,904",25-08-2025,Economy
+Air India - 2957,DEL,BOM,Air India ,20:30,23:05,2h 35m,"5,801",25-08-2025,Economy
+IndiGo - 519,DEL,BOM,IndiGo ,23:30,01:45,2h 15m,"6,723",25-08-2025,Economy
+IndiGo - 6318,DEL,BOM,IndiGo ,15:30,17:50,2h 20m,"6,723",25-08-2025,Economy
+IndiGo - 864,DEL,BOM,IndiGo ,17:00,19:20,2h 20m,"6,723",25-08-2025,Economy
+IndiGo - 2775,BOM,DEL,IndiGo ,01:15,03:15,2h,"4,599",26-08-2025,Economy
+IndiGo - 762,BOM,DEL,IndiGo ,06:00,07:55,1h 55m,"4,970",26-08-2025,Economy
+Air India - 2986,BOM,DEL,Air India ,00:50,03:00,2h 10m,"4,719",26-08-2025,Economy
+Akasa Air - 1410,BOM,DEL,Akasa Air ,07:05,09:20,2h 15m,"4,632",26-08-2025,Economy
+Akasa Air - 1127,BOM,DEL,Akasa Air ,13:00,15:15,2h 15m,"4,632",26-08-2025,Economy
+IndiGo - 656,BOM,DEL,IndiGo ,05:00,07:05,2h 05m,"4,970",26-08-2025,Economy
+Air India Exp - 1176,BOM,HDO,Air India Exp ,04:30,06:45,2h 15m,"4,599",26-08-2025,Economy
+Air India - 2930,BOM,DEL,Air India ,05:15,07:35,2h 20m,"4,800",26-08-2025,Economy
+IndiGo - 6045,BOM,DEL,IndiGo ,03:00,05:15,2h 15m,"4,599",26-08-2025,Economy
+Air India Exp - 1124,BOM,DEL,Air India Exp ,00:35,02:55,2h 20m,"4,500",26-08-2025,Economy
+IndiGo - 333,BOM,DEL,IndiGo ,08:05,10:15,2h 10m,"5,070",26-08-2025,Economy
+IndiGo - 615,BOM,DEL,IndiGo ,13:35,15:45,2h 10m,"5,070",26-08-2025,Economy
+IndiGo - 6028,BOM,DEL,IndiGo ,12:30,14:40,2h 10m,"5,070",26-08-2025,Economy
+Air India Exp - 1146,BOM,DEL,Air India Exp ,02:15,04:40,2h 25m,"4,500",26-08-2025,Economy
+Air India - 2424,BOM,DEL,Air India ,04:25,06:35,2h 10m,"5,193",26-08-2025,Economy
+Air India - 2954,BOM,DEL,Air India ,02:35,05:00,2h 25m,"4,719",26-08-2025,Economy
+IndiGo - 6827,BOM,DEL,IndiGo ,11:15,13:30,2h 15m,"5,070",26-08-2025,Economy
+Air India - 2428,BOM,DEL,Air India ,06:40,08:45,2h 05m,"5,574",26-08-2025,Economy
+IndiGo - 6052,BOM,DEL,IndiGo ,10:00,12:20,2h 20m,"5,070",26-08-2025,Economy
+Air India - 2419,BOM,DEL,Air India ,11:40,13:55,2h 15m,"5,431",26-08-2025,Economy
+Air India - 2944,BOM,DEL,Air India ,14:40,16:55,2h 15m,"5,431",26-08-2025,Economy
+Air India - 2422,BOM,DEL,Air India ,01:50,04:10,2h 20m,"5,193",26-08-2025,Economy
+IndiGo - 2517,BOM,HDO,IndiGo ,07:40,09:40,2h,"5,909",26-08-2025,Economy
+Air India - 2952,BOM,DEL,Air India ,12:30,14:55,2h 25m,"5,431",26-08-2025,Economy
+Air India - 2432,BOM,DEL,Air India ,08:45,10:55,2h 10m,"5,987",26-08-2025,Economy
+Air India - 2960,BOM,DEL,Air India ,09:25,11:40,2h 15m,"5,833",26-08-2025,Economy
+Air India - 2430,BOM,DEL,Air India ,10:00,12:15,2h 15m,"5,833",26-08-2025,Economy
+Air India - 2994,BOM,DEL,Air India ,10:30,12:45,2h 15m,"5,833",26-08-2025,Economy
+IndiGo - 301,BOM,DEL,IndiGo ,07:00,09:10,2h 10m,"6,664",26-08-2025,Economy
+IndiGo - 6704,BOM,DEL,IndiGo ,15:00,17:15,2h 15m,"6,664",26-08-2025,Economy
+Air India - 2591,BOM,IDR,Air India ,07:20,11:15,3h 55m,"5,833",26-08-2025,Economy
+Air India - 2439,DEL,BOM,Air India ,23:00,01:25,2h 25m,"4,924",26-08-2025,Economy
+Air India - 2999,DEL,BOM,Air India ,22:00,00:15,2h 15m,"5,161",26-08-2025,Economy
+Akasa Air - 1128,DEL,BOM,Akasa Air ,16:00,18:05,2h 05m,"5,342",26-08-2025,Economy
+SpiceJet - 709,DEL,BOM,SpiceJet ,19:45,22:05,2h 20m,"4,872",26-08-2025,Economy
+Air India Exp - 1163,DEL,BOM,Air India Exp ,17:00,19:30,2h 30m,"4,701",26-08-2025,Economy
+IndiGo - 6318,DEL,BOM,IndiGo ,15:30,17:50,2h 20m,"5,050",26-08-2025,Economy
+SpiceJet - 709,DEL,BOM,SpiceJet ,19:45,22:15,2h 30m,"4,945",26-08-2025,Economy
+Air India Exp - 1145,DEL,BOM,Air India Exp ,23:00,01:25,2h 25m,"5,324",26-08-2025,Economy
+SpiceJet - 546,DEL,BOM,SpiceJet ,20:10,22:40,2h 30m,"5,188",26-08-2025,Economy
+Air India - 2981,DEL,BOM,Air India ,21:00,23:20,2h 20m,"5,801",26-08-2025,Economy
+Air India - 2433,DEL,BOM,Air India ,21:30,23:55,2h 25m,"5,801",26-08-2025,Economy
+Air India - 2977,DEL,BOM,Air India ,19:00,21:30,2h 30m,"5,801",26-08-2025,Economy
+Air India - 2985,DEL,BOM,Air India ,19:30,22:00,2h 30m,"5,904",26-08-2025,Economy
+Air India - 2957,DEL,BOM,Air India ,20:30,23:05,2h 35m,"5,801",26-08-2025,Economy
+Air India - 2805,DEL,BOM,Air India ,20:00,22:25,2h 25m,"6,237",26-08-2025,Economy
+Air India - 2955,DEL,BOM,Air India ,17:55,20:15,2h 20m,"6,460",26-08-2025,Economy
+IndiGo - 5091,HDO,BOM,IndiGo ,17:40,20:05,2h 25m,"6,188",26-08-2025,Economy
+IndiGo - 519,DEL,BOM,IndiGo ,23:30,01:45,2h 15m,"6,723",26-08-2025,Economy
+IndiGo - 864,DEL,BOM,IndiGo ,17:00,19:20,2h 20m,"6,723",26-08-2025,Economy
+IndiGo - 6706,DEL,BOM,IndiGo ,18:00,20:20,2h 20m,"6,723",26-08-2025,Economy
+IndiGo - 354,DEL,BOM,IndiGo ,19:00,21:20,2h 20m,"6,723",26-08-2025,Economy
+IndiGo - 2163,DEL,BOM,IndiGo ,20:00,22:20,2h 20m,"6,723",26-08-2025,Economy
+IndiGo - 6114,DEL,BOM,IndiGo ,22:00,00:20,2h 20m,"6,723",26-08-2025,Economy
+IndiGo - 395,DEL,BOM,IndiGo ,21:00,23:25,2h 25m,"6,723",26-08-2025,Economy
+IndiGo - 2775,BOM,DEL,IndiGo ,01:15,03:15,2h,"4,599",27-08-2025,Economy
+Air India - 2986,BOM,DEL,Air India ,00:50,03:00,2h 10m,"4,719",27-08-2025,Economy
+Akasa Air - 1127,BOM,DEL,Akasa Air ,13:00,15:15,2h 15m,"4,632",27-08-2025,Economy
+IndiGo - 656,BOM,DEL,IndiGo ,05:00,07:05,2h 05m,"4,970",27-08-2025,Economy
+Air India Exp - 1176,BOM,HDO,Air India Exp ,04:30,06:45,2h 15m,"4,599",27-08-2025,Economy
+Air India - 2930,BOM,DEL,Air India ,05:15,07:35,2h 20m,"4,800",27-08-2025,Economy
+IndiGo - 6045,BOM,DEL,IndiGo ,03:00,05:15,2h 15m,"4,599",27-08-2025,Economy
+Air India Exp - 1124,BOM,DEL,Air India Exp ,00:35,02:55,2h 20m,"4,500",27-08-2025,Economy
+Air India Exp - 1146,BOM,DEL,Air India Exp ,02:15,04:40,2h 25m,"4,500",27-08-2025,Economy
+Air India - 2424,BOM,DEL,Air India ,04:25,06:35,2h 10m,"5,193",27-08-2025,Economy
+Air India - 2954,BOM,DEL,Air India ,02:35,05:00,2h 25m,"4,719",27-08-2025,Economy
+Air India - 2419,BOM,DEL,Air India ,11:40,13:55,2h 15m,"5,431",27-08-2025,Economy
+Air India - 2944,BOM,DEL,Air India ,14:40,16:55,2h 15m,"5,431",27-08-2025,Economy
+Akasa Air - 1410,BOM,DEL,Akasa Air ,07:05,09:20,2h 15m,"5,360",27-08-2025,Economy
+IndiGo - 2517,BOM,HDO,IndiGo ,07:40,09:40,2h,"5,909",27-08-2025,Economy
+Air India - 2422,BOM,DEL,Air India ,01:50,04:10,2h 20m,"5,193",27-08-2025,Economy
+Air India - 2428,BOM,DEL,Air India ,06:40,08:45,2h 05m,"5,987",27-08-2025,Economy
+Air India - 2952,BOM,DEL,Air India ,12:30,14:55,2h 25m,"5,431",27-08-2025,Economy
+Air India - 2432,BOM,DEL,Air India ,08:45,10:55,2h 10m,"5,987",27-08-2025,Economy
+Air India - 2960,BOM,DEL,Air India ,09:25,11:40,2h 15m,"5,833",27-08-2025,Economy
+Air India - 2430,BOM,DEL,Air India ,10:00,12:15,2h 15m,"5,833",27-08-2025,Economy
+Air India - 2994,BOM,DEL,Air India ,10:30,12:45,2h 15m,"5,833",27-08-2025,Economy
+IndiGo - 762,BOM,DEL,IndiGo ,06:00,07:55,1h 55m,"6,664",27-08-2025,Economy
+Air India - 2970,BOM,DEL,Air India ,07:45,09:55,2h 10m,"6,380",27-08-2025,Economy
+IndiGo - 615,BOM,DEL,IndiGo ,13:35,15:45,2h 10m,"6,664",27-08-2025,Economy
+IndiGo - 6028,BOM,DEL,IndiGo ,12:30,14:40,2h 10m,"6,664",27-08-2025,Economy
+IndiGo - 333,BOM,DEL,IndiGo ,08:05,10:15,2h 10m,"6,664",27-08-2025,Economy
+IndiGo - 301,BOM,DEL,IndiGo ,07:00,09:10,2h 10m,"6,664",27-08-2025,Economy
+IndiGo - 6827,BOM,DEL,IndiGo ,11:15,13:30,2h 15m,"6,664",27-08-2025,Economy
+IndiGo - 6704,BOM,DEL,IndiGo ,15:00,17:15,2h 15m,"6,664",27-08-2025,Economy
+IndiGo - 6052,BOM,DEL,IndiGo ,10:00,12:20,2h 20m,"6,664",27-08-2025,Economy
+SpiceJet - 709,DEL,BOM,SpiceJet ,19:45,21:55,2h 10m,"4,872",27-08-2025,Economy
+Air India - 2999,DEL,BOM,Air India ,22:00,00:15,2h 15m,"5,161",27-08-2025,Economy
+Air India - 2439,DEL,BOM,Air India ,23:00,01:25,2h 25m,"4,924",27-08-2025,Economy
+Akasa Air - 1128,DEL,BOM,Akasa Air ,16:00,18:05,2h 05m,"5,342",27-08-2025,Economy
+Air India Exp - 1150,DEL,BOM,Air India Exp ,21:10,23:40,2h 30m,"4,701",27-08-2025,Economy
+IndiGo - 6318,DEL,BOM,IndiGo ,15:30,17:50,2h 20m,"5,050",27-08-2025,Economy
+IndiGo - 5091,HDO,BOM,IndiGo ,17:40,20:05,2h 25m,"4,949",27-08-2025,Economy
+IndiGo - 395,DEL,BOM,IndiGo ,21:00,23:25,2h 25m,"4,950",27-08-2025,Economy
+SpiceJet - 546,DEL,BOM,SpiceJet ,20:10,22:40,2h 30m,"5,188",27-08-2025,Economy
+Air India - 2981,DEL,BOM,Air India ,21:00,23:20,2h 20m,"5,801",27-08-2025,Economy
+Air India - 2433,DEL,BOM,Air India ,21:30,23:55,2h 25m,"5,801",27-08-2025,Economy
+Air India - 2955,DEL,BOM,Air India ,17:55,20:15,2h 20m,"6,007",27-08-2025,Economy
+Air India - 2977,DEL,BOM,Air India ,19:00,21:30,2h 30m,"5,801",27-08-2025,Economy
+Air India - 2985,DEL,BOM,Air India ,19:30,22:00,2h 30m,"5,904",27-08-2025,Economy
+Air India - 2957,DEL,BOM,Air India ,20:30,23:05,2h 35m,"5,801",27-08-2025,Economy
+Air India - 2805,DEL,BOM,Air India ,20:00,22:25,2h 25m,"6,237",27-08-2025,Economy
+Air India Exp - 1163,DEL,BOM,Air India Exp ,17:00,19:25,2h 25m,"6,217",27-08-2025,Economy
+IndiGo - 519,DEL,BOM,IndiGo ,23:30,01:45,2h 15m,"6,723",27-08-2025,Economy
+IndiGo - 6706,DEL,BOM,IndiGo ,18:00,20:20,2h 20m,"6,723",27-08-2025,Economy
+IndiGo - 354,DEL,BOM,IndiGo ,19:00,21:20,2h 20m,"6,723",27-08-2025,Economy
+IndiGo - 6114,DEL,BOM,IndiGo ,22:00,00:20,2h 20m,"6,723",27-08-2025,Economy
+IndiGo - 864,DEL,BOM,IndiGo ,17:00,19:20,2h 20m,"6,723",27-08-2025,Economy
+IndiGo - 2163,DEL,BOM,IndiGo ,20:00,22:20,2h 20m,"6,723",27-08-2025,Economy
+Air India - 2591,BOM,IDR,Air India ,07:20,11:15,3h 55m,"5,833",27-08-2025,Economy
+IndiGo - 2775,BOM,DEL,IndiGo ,01:15,03:15,2h,"4,599",28-08-2025,Economy
+IndiGo - 762,BOM,DEL,IndiGo ,06:00,07:55,1h 55m,"4,970",28-08-2025,Economy
+IndiGo - 2517,BOM,HDO,IndiGo ,07:40,09:40,2h,"4,849",28-08-2025,Economy
+Air India - 2986,BOM,DEL,Air India ,00:50,03:00,2h 10m,"4,720",28-08-2025,Economy
+Akasa Air - 1410,BOM,DEL,Akasa Air ,07:05,09:20,2h 15m,"4,632",28-08-2025,Economy
+Akasa Air - 1127,BOM,DEL,Akasa Air ,13:00,15:15,2h 15m,"4,632",28-08-2025,Economy
+IndiGo - 656,BOM,DEL,IndiGo ,05:00,07:05,2h 05m,"4,970",28-08-2025,Economy
+Air India - 2930,BOM,DEL,Air India ,05:15,07:35,2h 20m,"4,801",28-08-2025,Economy
+IndiGo - 6045,BOM,DEL,IndiGo ,03:00,05:15,2h 15m,"4,599",28-08-2025,Economy
+Air India Exp - 1124,BOM,DEL,Air India Exp ,00:35,02:55,2h 20m,"4,500",28-08-2025,Economy
+IndiGo - 301,BOM,DEL,IndiGo ,07:00,09:10,2h 10m,"5,070",28-08-2025,Economy
+IndiGo - 333,BOM,DEL,IndiGo ,08:05,10:15,2h 10m,"5,070",28-08-2025,Economy
+Air India Exp - 1176,BOM,HDO,Air India Exp ,04:30,06:45,2h 15m,"4,801",28-08-2025,Economy
+Air India Exp - 2146,BOM,DEL,Air India Exp ,02:15,04:40,2h 25m,"4,500",28-08-2025,Economy
+Air India - 2424,BOM,DEL,Air India ,04:25,06:35,2h 10m,"5,195",28-08-2025,Economy
+Air India - 2954,BOM,DEL,Air India ,02:35,05:00,2h 25m,"4,720",28-08-2025,Economy
+IndiGo - 6827,BOM,DEL,IndiGo ,11:15,13:30,2h 15m,"5,070",28-08-2025,Economy
+IndiGo - 6052,BOM,DEL,IndiGo ,10:00,12:20,2h 20m,"5,070",28-08-2025,Economy
+Air India - 2419,BOM,DEL,Air India ,11:40,13:55,2h 15m,"5,431",28-08-2025,Economy
+Air India - 2944,BOM,DEL,Air India ,14:40,16:55,2h 15m,"5,431",28-08-2025,Economy
+Air India - 2422,BOM,DEL,Air India ,01:50,04:10,2h 20m,"5,195",28-08-2025,Economy
+Air India - 2428,BOM,DEL,Air India ,06:40,08:45,2h 05m,"5,987",28-08-2025,Economy
+Air India - 2952,BOM,DEL,Air India ,12:30,14:55,2h 25m,"5,431",28-08-2025,Economy
+Air India - 2432,BOM,DEL,Air India ,08:45,10:55,2h 10m,"5,987",28-08-2025,Economy
+Air India - 2960,BOM,DEL,Air India ,09:25,11:40,2h 15m,"5,833",28-08-2025,Economy
+Air India - 2430,BOM,DEL,Air India ,10:00,12:15,2h 15m,"5,833",28-08-2025,Economy
+Air India - 2994,BOM,DEL,Air India ,10:30,12:45,2h 15m,"5,833",28-08-2025,Economy
+Air India - 2970,BOM,DEL,Air India ,07:45,09:55,2h 10m,"6,380",28-08-2025,Economy
+IndiGo - 6028,BOM,DEL,IndiGo ,12:30,14:40,2h 10m,"6,664",28-08-2025,Economy
+IndiGo - 615,BOM,DEL,IndiGo ,13:35,15:45,2h 10m,"6,664",28-08-2025,Economy
+IndiGo - 6704,BOM,DEL,IndiGo ,15:00,17:15,2h 15m,"6,664",28-08-2025,Economy
+Air India - 2591,BOM,IDR,Air India ,07:20,11:15,3h 55m,"5,833",28-08-2025,Economy
+Akasa Air - 1128,DEL,BOM,Akasa Air ,16:00,18:05,2h 05m,"4,501",28-08-2025,Economy
+Air India - 2999,DEL,BOM,Air India ,22:00,00:15,2h 15m,"5,163",28-08-2025,Economy
+Air India - 2439,DEL,BOM,Air India ,23:00,01:25,2h 25m,"4,925",28-08-2025,Economy
+SpiceJet - 709,DEL,BOM,SpiceJet ,19:45,22:05,2h 20m,"4,872",28-08-2025,Economy
+IndiGo - 6318,DEL,BOM,IndiGo ,15:30,17:50,2h 20m,"5,050",28-08-2025,Economy
+IndiGo - 5091,HDO,BOM,IndiGo ,17:40,20:05,2h 25m,"4,949",28-08-2025,Economy
+IndiGo - 395,DEL,BOM,IndiGo ,21:00,23:25,2h 25m,"4,950",28-08-2025,Economy
+SpiceJet - 709,DEL,BOM,SpiceJet ,19:45,22:15,2h 30m,"4,945",28-08-2025,Economy
+Air India - 2981,DEL,BOM,Air India ,21:00,23:20,2h 20m,"5,801",28-08-2025,Economy
+Air India - 2433,DEL,BOM,Air India ,21:30,23:55,2h 25m,"5,801",28-08-2025,Economy
+Air India - 2977,DEL,BOM,Air India ,19:00,21:30,2h 30m,"5,801",28-08-2025,Economy
+Air India - 2985,DEL,BOM,Air India ,19:30,22:00,2h 30m,"5,904",28-08-2025,Economy
+Air India - 2957,DEL,BOM,Air India ,20:30,23:05,2h 35m,"5,801",28-08-2025,Economy
+Air India - 2805,DEL,BOM,Air India ,20:00,22:25,2h 25m,"6,237",28-08-2025,Economy
+Air India - 2955,DEL,BOM,Air India ,17:55,20:15,2h 20m,"6,460",28-08-2025,Economy
+Air India Exp - 1163,DEL,BOM,Air India Exp ,17:00,19:30,2h 30m,"6,217",28-08-2025,Economy
+IndiGo - 519,DEL,BOM,IndiGo ,23:30,01:45,2h 15m,"6,723",28-08-2025,Economy
+IndiGo - 6706,DEL,BOM,IndiGo ,18:00,20:20,2h 20m,"6,723",28-08-2025,Economy
+IndiGo - 354,DEL,BOM,IndiGo ,19:00,21:20,2h 20m,"6,723",28-08-2025,Economy
+IndiGo - 864,DEL,BOM,IndiGo ,17:00,19:20,2h 20m,"6,723",28-08-2025,Economy
+IndiGo - 6114,DEL,BOM,IndiGo ,22:00,00:20,2h 20m,"6,723",28-08-2025,Economy
+IndiGo - 2163,DEL,BOM,IndiGo ,20:00,22:20,2h 20m,"6,723",28-08-2025,Economy
+IndiGo - 762,BOM,DEL,IndiGo ,06:00,07:55,1h 55m,"4,970",29-08-2025,Economy
+IndiGo - 2775,BOM,DEL,IndiGo ,01:15,03:15,2h,"4,599",29-08-2025,Economy
+Air India - 2986,BOM,DEL,Air India ,00:50,03:00,2h 10m,"4,720",29-08-2025,Economy
+IndiGo - 656,BOM,DEL,IndiGo ,05:00,07:05,2h 05m,"4,970",29-08-2025,Economy
+Air India - 2930,BOM,DEL,Air India ,05:15,07:35,2h 20m,"4,801",29-08-2025,Economy
+IndiGo - 6045,BOM,DEL,IndiGo ,03:00,05:15,2h 15m,"4,599",29-08-2025,Economy
+IndiGo - 333,BOM,DEL,IndiGo ,08:05,10:15,2h 10m,"5,070",29-08-2025,Economy
+Air India - 2424,BOM,DEL,Air India ,04:25,06:35,2h 10m,"5,195",29-08-2025,Economy
+Air India - 2954,BOM,DEL,Air India ,02:35,05:00,2h 25m,"4,720",29-08-2025,Economy
+Air India - 2419,BOM,DEL,Air India ,11:40,13:55,2h 15m,"5,431",29-08-2025,Economy
+Air India - 2944,BOM,DEL,Air India ,14:40,16:55,2h 15m,"5,431",29-08-2025,Economy
+Air India - 2422,BOM,DEL,Air India ,01:50,04:10,2h 20m,"5,195",29-08-2025,Economy
+Air India - 2428,BOM,DEL,Air India ,06:40,08:45,2h 05m,"5,987",29-08-2025,Economy
+Air India - 2952,BOM,DEL,Air India ,12:30,14:55,2h 25m,"5,431",29-08-2025,Economy
+Air India - 2432,BOM,DEL,Air India ,08:45,10:55,2h 10m,"5,987",29-08-2025,Economy
+Air India - 2994,BOM,DEL,Air India ,10:30,12:45,2h 15m,"5,833",29-08-2025,Economy
+Air India - 2960,BOM,DEL,Air India ,09:25,11:40,2h 15m,"6,090",29-08-2025,Economy
+Air India - 2430,BOM,DEL,Air India ,10:00,12:15,2h 15m,"6,090",29-08-2025,Economy
+Air India - 2970,BOM,DEL,Air India ,07:45,09:55,2h 10m,"6,381",29-08-2025,Economy
+IndiGo - 615,BOM,DEL,IndiGo ,13:35,15:45,2h 10m,"6,664",29-08-2025,Economy
+IndiGo - 6028,BOM,DEL,IndiGo ,12:30,14:40,2h 10m,"6,664",29-08-2025,Economy
+IndiGo - 301,BOM,DEL,IndiGo ,07:00,09:10,2h 10m,"6,664",29-08-2025,Economy
+IndiGo - 6827,BOM,DEL,IndiGo ,11:15,13:30,2h 15m,"6,664",29-08-2025,Economy
+IndiGo - 6704,BOM,DEL,IndiGo ,15:00,17:15,2h 15m,"6,664",29-08-2025,Economy
+IndiGo - 6052,BOM,DEL,IndiGo ,10:00,12:20,2h 20m,"6,664",29-08-2025,Economy
+IndiGo - 519,DEL,BOM,IndiGo ,23:30,01:45,2h 15m,"5,436",29-08-2025,Economy
+IndiGo - 6114,DEL,BOM,IndiGo ,22:00,00:20,2h 20m,"5,541",29-08-2025,Economy
+Air India - 2439,DEL,BOM,Air India ,23:00,01:25,2h 25m,"5,904",29-08-2025,Economy
+Air India - 2999,DEL,BOM,Air India ,22:00,00:15,2h 15m,"6,237",29-08-2025,Economy
+IndiGo - 395,DEL,BOM,IndiGo ,21:00,23:25,2h 25m,"6,006",29-08-2025,Economy
+IndiGo - 2163,DEL,BOM,IndiGo ,20:00,22:20,2h 20m,"6,216",29-08-2025,Economy
+IndiGo - 6706,DEL,BOM,IndiGo ,18:00,20:20,2h 20m,"6,216",29-08-2025,Economy
+IndiGo - 354,DEL,BOM,IndiGo ,19:00,21:20,2h 20m,"6,216",29-08-2025,Economy
+IndiGo - 864,DEL,BOM,IndiGo ,17:00,19:20,2h 20m,"6,216",29-08-2025,Economy
+Air India - 2433,DEL,BOM,Air India ,21:30,23:55,2h 25m,"6,237",29-08-2025,Economy
+Air India - 2981,DEL,BOM,Air India ,21:00,23:20,2h 20m,"6,516",29-08-2025,Economy
+IndiGo - 6318,DEL,BOM,IndiGo ,15:30,17:50,2h 20m,"6,723",29-08-2025,Economy
+Air India - 2985,DEL,BOM,Air India ,19:30,22:00,2h 30m,"7,063",29-08-2025,Economy
+Air India - 2957,DEL,BOM,Air India ,20:30,23:05,2h 35m,"7,252",29-08-2025,Economy
+Air India - 2955,DEL,BOM,Air India ,17:55,20:15,2h 20m,"8,125",29-08-2025,Economy
+Air India - 2805,DEL,BOM,Air India ,20:00,22:25,2h 25m,"8,196",29-08-2025,Economy
+IndiGo - 2517,BOM,HDO,IndiGo ,07:40,09:40,2h,"4,849",29-08-2025,Economy
+Air India Exp - 1124,BOM,DEL,Air India Exp ,00:35,02:55,2h 20m,"4,500",29-08-2025,Economy
+Akasa Air - 1127,BOM,DEL,Akasa Air ,13:00,15:15,2h 15m,"4,906",29-08-2025,Economy
+Akasa Air - 1410,BOM,DEL,Akasa Air ,07:05,09:20,2h 15m,"5,088",29-08-2025,Economy
+Air India - 2591,BOM,IDR,Air India ,07:20,11:15,3h 55m,"5,833",29-08-2025,Economy
+SpiceJet - 709,DEL,BOM,SpiceJet ,19:45,21:55,2h 10m,"4,945",29-08-2025,Economy
+Akasa Air - 1128,DEL,BOM,Akasa Air ,16:00,18:05,2h 05m,"5,289",29-08-2025,Economy
+IndiGo - 5091,HDO,BOM,IndiGo ,17:40,20:05,2h 25m,"4,949",29-08-2025,Economy
+Air India Exp - 1163,DEL,BOM,Air India Exp ,17:00,19:25,2h 25m,"6,724",29-08-2025,Economy
+Air India Exp - 1150,DEL,BOM,Air India Exp ,21:10,23:40,2h 30m,"6,724",29-08-2025,Economy
+IndiGo - 2775,BOM,DEL,IndiGo ,01:15,03:15,2h,"4,599",30-08-2025,Economy
+IndiGo - 762,BOM,DEL,IndiGo ,06:00,07:55,1h 55m,"4,970",30-08-2025,Economy
+IndiGo - 2517,BOM,HDO,IndiGo ,07:40,09:40,2h,"4,849",30-08-2025,Economy
+Air India - 2986,BOM,DEL,Air India ,00:50,03:00,2h 10m,"4,720",30-08-2025,Economy
+IndiGo - 656,BOM,DEL,IndiGo ,05:00,07:05,2h 05m,"4,970",30-08-2025,Economy
+Air India - 2930,BOM,DEL,Air India ,05:15,07:35,2h 20m,"4,801",30-08-2025,Economy
+IndiGo - 6045,BOM,DEL,IndiGo ,03:00,05:15,2h 15m,"4,599",30-08-2025,Economy
+Air India Exp - 1124,BOM,DEL,Air India Exp ,00:35,02:55,2h 20m,"4,500",30-08-2025,Economy
+IndiGo - 333,BOM,DEL,IndiGo ,08:05,10:15,2h 10m,"5,070",30-08-2025,Economy
+Air India Exp - 2146,BOM,DEL,Air India Exp ,02:15,04:40,2h 25m,"4,500",30-08-2025,Economy
+Air India - 2424,BOM,DEL,Air India ,04:25,06:35,2h 10m,"5,195",30-08-2025,Economy
+Air India - 2954,BOM,DEL,Air India ,02:35,05:00,2h 25m,"4,720",30-08-2025,Economy
+Akasa Air - 1410,BOM,DEL,Akasa Air ,07:05,09:20,2h 15m,"5,272",30-08-2025,Economy
+Air India - 2419,BOM,DEL,Air India ,11:40,13:55,2h 15m,"5,431",30-08-2025,Economy
+Air India - 2944,BOM,DEL,Air India ,14:40,16:55,2h 15m,"5,431",30-08-2025,Economy
+Akasa Air - 1127,BOM,DEL,Akasa Air ,13:00,15:15,2h 15m,"5,368",30-08-2025,Economy
+Air India - 2422,BOM,DEL,Air India ,01:50,04:10,2h 20m,"5,195",30-08-2025,Economy
+Air India - 2428,BOM,DEL,Air India ,06:40,08:45,2h 05m,"5,987",30-08-2025,Economy
+Air India - 2432,BOM,DEL,Air India ,08:45,10:55,2h 10m,"5,987",30-08-2025,Economy
+Air India - 2952,BOM,DEL,Air India ,12:30,14:55,2h 25m,"5,668",30-08-2025,Economy
+Air India - 2430,BOM,DEL,Air India ,10:00,12:15,2h 15m,"6,090",30-08-2025,Economy
+Air India - 2994,BOM,DEL,Air India ,10:30,12:45,2h 15m,"6,090",30-08-2025,Economy
+Air India - 2960,BOM,DEL,Air India ,09:25,11:40,2h 15m,"6,347",30-08-2025,Economy
+IndiGo - 615,BOM,DEL,IndiGo ,13:35,15:45,2h 10m,"6,664",30-08-2025,Economy
+IndiGo - 6028,BOM,DEL,IndiGo ,12:30,14:40,2h 10m,"6,664",30-08-2025,Economy
+IndiGo - 301,BOM,DEL,IndiGo ,07:00,09:10,2h 10m,"6,664",30-08-2025,Economy
+IndiGo - 6827,BOM,DEL,IndiGo ,11:15,13:30,2h 15m,"6,664",30-08-2025,Economy
+IndiGo - 6704,BOM,DEL,IndiGo ,15:00,17:15,2h 15m,"6,664",30-08-2025,Economy
+Air India - 2970,BOM,DEL,Air India ,07:45,09:55,2h 10m,"7,095",30-08-2025,Economy
+IndiGo - 6052,BOM,DEL,IndiGo ,10:00,12:20,2h 20m,"6,664",30-08-2025,Economy
+Air India - 2591,BOM,IDR,Air India ,07:20,11:15,3h 55m,"5,833",30-08-2025,Economy
+SpiceJet - 709,DEL,BOM,SpiceJet ,19:45,21:55,2h 10m,"4,945",30-08-2025,Economy
+Akasa Air - 1128,DEL,BOM,Akasa Air ,16:00,18:05,2h 05m,"5,140",30-08-2025,Economy
+Air India - 2999,DEL,BOM,Air India ,22:00,00:15,2h 15m,"5,163",30-08-2025,Economy
+Air India - 2439,DEL,BOM,Air India ,23:00,01:25,2h 25m,"4,925",30-08-2025,Economy
+IndiGo - 6114,DEL,BOM,IndiGo ,22:00,00:20,2h 20m,"4,950",30-08-2025,Economy
+Air India - 2933,DEL,BOM,Air India ,15:30,17:45,2h 15m,"5,399",30-08-2025,Economy
+IndiGo - 6318,DEL,BOM,IndiGo ,15:30,17:50,2h 20m,"5,050",30-08-2025,Economy
+IndiGo - 2163,DEL,BOM,IndiGo ,20:00,22:20,2h 20m,"5,050",30-08-2025,Economy
+IndiGo - 395,DEL,BOM,IndiGo ,21:00,23:25,2h 25m,"4,950",30-08-2025,Economy
+Air India - 2981,DEL,BOM,Air India ,21:00,23:20,2h 20m,"5,801",30-08-2025,Economy
+Air India - 2805,DEL,BOM,Air India ,20:00,22:25,2h 25m,"5,801",30-08-2025,Economy
+Air India - 2433,DEL,BOM,Air India ,21:30,23:55,2h 25m,"5,801",30-08-2025,Economy
+Air India - 2977,DEL,BOM,Air India ,19:00,21:30,2h 30m,"5,801",30-08-2025,Economy
+Air India - 2985,DEL,BOM,Air India ,19:30,22:00,2h 30m,"5,904",30-08-2025,Economy
+Air India - 2957,DEL,BOM,Air India ,20:30,23:05,2h 35m,"5,801",30-08-2025,Economy
+Air India - 2955,DEL,BOM,Air India ,17:55,20:15,2h 20m,"6,460",30-08-2025,Economy
+IndiGo - 519,DEL,BOM,IndiGo ,23:30,01:45,2h 15m,"6,723",30-08-2025,Economy
+IndiGo - 864,DEL,BOM,IndiGo ,17:00,19:20,2h 20m,"6,723",30-08-2025,Economy
+IndiGo - 6706,DEL,BOM,IndiGo ,18:00,20:20,2h 20m,"6,723",30-08-2025,Economy
+IndiGo - 354,DEL,BOM,IndiGo ,19:00,21:20,2h 20m,"6,723",30-08-2025,Economy
+Air India Exp - 1163,DEL,BOM,Air India Exp ,17:00,19:30,2h 30m,"6,724",30-08-2025,Economy
+IndiGo - 762,BOM,DEL,IndiGo ,06:00,07:55,1h 55m,"4,970",31-08-2025,Economy
+IndiGo - 2775,BOM,DEL,IndiGo ,01:15,03:15,2h,"4,599",31-08-2025,Economy
+IndiGo - 2517,BOM,HDO,IndiGo ,07:40,09:40,2h,"4,849",31-08-2025,Economy
+SpiceJet - 158,BOM,DEL,SpiceJet ,09:05,11:10,2h 05m,"4,945",31-08-2025,Economy
+Air India - 2986,BOM,DEL,Air India ,00:50,03:00,2h 10m,"4,719",31-08-2025,Economy
+IndiGo - 656,BOM,DEL,IndiGo ,05:00,07:05,2h 05m,"4,970",31-08-2025,Economy
+Air India - 2930,BOM,DEL,Air India ,05:15,07:35,2h 20m,"4,800",31-08-2025,Economy
+IndiGo - 6045,BOM,DEL,IndiGo ,03:00,05:15,2h 15m,"4,599",31-08-2025,Economy
+Air India Exp - 1124,BOM,DEL,Air India Exp ,00:35,02:55,2h 20m,"4,500",31-08-2025,Economy
+Akasa Air - 1410,BOM,DEL,Akasa Air ,07:05,09:20,2h 15m,"4,906",31-08-2025,Economy
+Air India - 2424,BOM,DEL,Air India ,04:25,06:35,2h 10m,"5,193",31-08-2025,Economy
+Air India - 2954,BOM,DEL,Air India ,02:35,05:00,2h 25m,"4,719",31-08-2025,Economy
+Air India - 2428,BOM,DEL,Air India ,06:40,08:45,2h 05m,"5,574",31-08-2025,Economy
+Air India - 2970,BOM,DEL,Air India ,07:45,09:55,2h 10m,"5,525",31-08-2025,Economy
+Air India - 2432,BOM,DEL,Air India ,08:45,10:55,2h 10m,"5,574",31-08-2025,Economy
+Akasa Air - 1127,BOM,DEL,Akasa Air ,13:00,15:15,2h 15m,"5,264",31-08-2025,Economy
+Air India - 2430,BOM,DEL,Air India ,10:00,12:15,2h 15m,"5,431",31-08-2025,Economy
+Air India - 2994,BOM,DEL,Air India ,10:30,12:45,2h 15m,"5,431",31-08-2025,Economy
+Air India - 2419,BOM,DEL,Air India ,11:40,13:55,2h 15m,"5,431",31-08-2025,Economy
+Air India - 2944,BOM,DEL,Air India ,14:40,16:55,2h 15m,"5,431",31-08-2025,Economy
+Air India - 2422,BOM,DEL,Air India ,01:50,04:10,2h 20m,"5,193",31-08-2025,Economy
+Air India - 2960,BOM,DEL,Air India ,09:25,11:40,2h 15m,"5,668",31-08-2025,Economy
+Air India - 2952,BOM,DEL,Air India ,12:30,14:55,2h 25m,"5,431",31-08-2025,Economy
+IndiGo - 615,BOM,DEL,IndiGo ,13:35,15:45,2h 10m,"6,664",31-08-2025,Economy
+IndiGo - 333,BOM,DEL,IndiGo ,08:05,10:15,2h 10m,"6,664",31-08-2025,Economy
+IndiGo - 6028,BOM,DEL,IndiGo ,12:30,14:40,2h 10m,"6,664",31-08-2025,Economy
+IndiGo - 301,BOM,DEL,IndiGo ,07:00,09:10,2h 10m,"6,664",31-08-2025,Economy
+IndiGo - 6827,BOM,DEL,IndiGo ,11:15,13:30,2h 15m,"6,664",31-08-2025,Economy
+IndiGo - 6704,BOM,DEL,IndiGo ,15:00,17:15,2h 15m,"6,664",31-08-2025,Economy
+IndiGo - 6052,BOM,DEL,IndiGo ,10:00,12:20,2h 20m,"6,664",31-08-2025,Economy
+Air India - 2591,BOM,IDR,Air India ,07:20,11:15,3h 55m,"5,431",31-08-2025,Economy
+SpiceJet - 709,DEL,BOM,SpiceJet ,18:25,20:55,2h 30m,"4,945",31-08-2025,Economy
+SpiceJet - 546,DEL,BOM,SpiceJet ,20:10,22:40,2h 30m,"5,188",31-08-2025,Economy
+Air India - 2933,DEL,BOM,Air India ,15:30,17:45,2h 15m,"6,058",31-08-2025,Economy
+Akasa Air - 1128,DEL,BOM,Akasa Air ,16:00,18:05,2h 05m,"6,231",31-08-2025,Economy
+Air India - 2439,DEL,BOM,Air India ,23:00,01:25,2h 25m,"5,801",31-08-2025,Economy
+Air India - 2999,DEL,BOM,Air India ,22:00,00:15,2h 15m,"6,237",31-08-2025,Economy
+Air India - 2981,DEL,BOM,Air India ,21:00,23:20,2h 20m,"6,237",31-08-2025,Economy
+IndiGo - 395,DEL,BOM,IndiGo ,21:00,23:25,2h 25m,"6,006",31-08-2025,Economy
+IndiGo - 6706,DEL,BOM,IndiGo ,18:00,20:20,2h 20m,"6,216",31-08-2025,Economy
+IndiGo - 354,DEL,BOM,IndiGo ,19:00,21:20,2h 20m,"6,216",31-08-2025,Economy
+IndiGo - 2163,DEL,BOM,IndiGo ,20:00,22:20,2h 20m,"6,216",31-08-2025,Economy
+Air India - 2433,DEL,BOM,Air India ,21:30,23:55,2h 25m,"6,237",31-08-2025,Economy
+IndiGo - 5091,HDO,BOM,IndiGo ,17:40,20:05,2h 25m,"6,188",31-08-2025,Economy
+Air India - 2977,DEL,BOM,Air India ,19:00,21:30,2h 30m,"6,237",31-08-2025,Economy
+Air India - 2985,DEL,BOM,Air India ,19:30,22:00,2h 30m,"6,348",31-08-2025,Economy
+IndiGo - 519,DEL,BOM,IndiGo ,23:30,01:45,2h 15m,"6,723",31-08-2025,Economy
+Air India - 2957,DEL,BOM,Air India ,20:30,23:05,2h 35m,"6,237",31-08-2025,Economy
+IndiGo - 864,DEL,BOM,IndiGo ,17:00,19:20,2h 20m,"6,723",31-08-2025,Economy
+IndiGo - 6114,DEL,BOM,IndiGo ,22:00,00:20,2h 20m,"6,723",31-08-2025,Economy
+IndiGo - 6318,DEL,BOM,IndiGo ,15:30,17:50,2h 20m,"6,723",31-08-2025,Economy
+Air India Exp - 1145,DEL,BOM,Air India Exp ,23:00,01:25,2h 25m,"6,724",31-08-2025,Economy
+Air India - 2805,DEL,BOM,Air India ,20:00,22:25,2h 25m,"7,837",31-08-2025,Economy
+Air India - 2955,DEL,BOM,Air India ,17:55,20:15,2h 20m,"8,125",31-08-2025,Economy
+Air India Exp - 1163,DEL,BOM,Air India Exp ,17:00,19:30,2h 30m,"7,650",31-08-2025,Economy
+Akasa Air - 1539,BOM,BLR,Akasa Air ,02:20,04:10,1h 50m,"3,586",16-08-2025,Economy
+Air India - 2863,BOM,BLR,Air India ,09:20,11:00,1h 40m,"4,199",16-08-2025,Economy
+Air India - 2845,BOM,BLR,Air India ,05:55,07:45,1h 50m,"3,954",16-08-2025,Economy
+Air India - 2632,BOM,BLR,Air India ,11:20,13:05,1h 45m,"4,234",16-08-2025,Economy
+Air India - 2603,BOM,BLR,Air India ,06:35,08:30,1h 55m,"3,954",16-08-2025,Economy
+IndiGo - 439,BOM,BLR,IndiGo ,06:05,07:55,1h 50m,"3,968",16-08-2025,Economy
+Air India - 2812,BOM,BLR,Air India ,02:55,05:05,2h 10m,"3,776",16-08-2025,Economy
+Air India - 2851,BOM,BLR,Air India ,07:40,09:45,2h 05m,"4,129",16-08-2025,Economy
+IndiGo - 5382,BOM,BLR,IndiGo ,14:00,16:05,2h 05m,"3,968",16-08-2025,Economy
+Akasa Air - 1543,BOM,BLR,Akasa Air ,08:10,10:10,2h,"4,240",16-08-2025,Economy
+IndiGo - 5217,BOM,BLR,IndiGo ,11:30,13:20,1h 50m,"4,801",16-08-2025,Economy
+IndiGo - 5159,BOM,BLR,IndiGo ,02:30,04:15,1h 45m,"4,801",16-08-2025,Economy
+IndiGo - 5212,BOM,BLR,IndiGo ,12:45,14:40,1h 55m,"4,801",16-08-2025,Economy
+IndiGo - 5296,BOM,BLR,IndiGo ,07:30,09:30,2h,"4,801",16-08-2025,Economy
+IndiGo - 5193,BOM,BLR,IndiGo ,08:45,10:45,2h,"4,801",16-08-2025,Economy
+IndiGo - 5322,BOM,BLR,IndiGo ,00:05,02:05,2h,"4,801",16-08-2025,Economy
+IndiGo - 5092,BOM,BLR,IndiGo ,09:50,12:00,2h 10m,"4,801",16-08-2025,Economy
+Air India - 2840,BLR,BOM,Air India ,22:45,00:50,2h 05m,"4,309",16-08-2025,Economy
+IndiGo - 5376,BLR,BOM,IndiGo ,19:15,21:05,1h 50m,"4,807",16-08-2025,Economy
+IndiGo - 458,BLR,BOM,IndiGo ,23:30,01:20,1h 50m,"4,807",16-08-2025,Economy
+Air India - 2850,BLR,BOM,Air India ,20:25,22:35,2h 10m,"4,404",16-08-2025,Economy
+Air India - 2854,BLR,BOM,Air India ,17:55,20:05,2h 10m,"4,404",16-08-2025,Economy
+IndiGo - 5094,BLR,BOM,IndiGo ,20:45,22:40,1h 55m,"4,807",16-08-2025,Economy
+Air India - 2610,BLR,BOM,Air India ,18:45,21:00,2h 15m,"4,340",16-08-2025,Economy
+Air India - 2864,BLR,BOM,Air India ,19:45,21:50,2h 05m,"4,660",16-08-2025,Economy
+Air India - 2645,BLR,BOM,Air India ,21:25,23:35,2h 10m,"4,660",16-08-2025,Economy
+IndiGo - 5351,BLR,BOM,IndiGo ,15:25,17:10,1h 45m,"5,332",16-08-2025,Economy
+Akasa Air - 1366,BLR,BOM,Akasa Air ,21:05,22:55,1h 50m,"5,233",16-08-2025,Economy
+IndiGo - 5295,BLR,BOM,IndiGo ,22:30,00:20,1h 50m,"5,332",16-08-2025,Economy
+IndiGo - 5031,BLR,BOM,IndiGo ,16:50,18:40,1h 50m,"5,332",16-08-2025,Economy
+Akasa Air - 1544,BLR,BOM,Akasa Air ,15:15,17:10,1h 55m,"5,397",16-08-2025,Economy
+IndiGo - 5255,BLR,BOM,IndiGo ,18:00,20:00,2h,"5,332",16-08-2025,Economy
+Air India - 2845,BOM,BLR,Air India ,05:55,07:45,1h 50m,"3,954",17-08-2025,Economy
+Air India - 2603,BOM,BLR,Air India ,06:35,08:30,1h 55m,"3,954",17-08-2025,Economy
+SpiceJet - 540,BOM,BLR,SpiceJet ,01:40,03:30,1h 50m,"3,783",17-08-2025,Economy
+Air India - 2812,BOM,BLR,Air India ,02:55,05:05,2h 10m,"3,776",17-08-2025,Economy
+IndiGo - 439,BOM,BLR,IndiGo ,06:05,07:55,1h 50m,"4,801",17-08-2025,Economy
+IndiGo - 5159,BOM,BLR,IndiGo ,02:30,04:15,1h 45m,"5,116",17-08-2025,Economy
+Air India - 2851,BOM,BLR,Air India ,07:40,09:45,2h 05m,"4,828",17-08-2025,Economy
+Akasa Air - 1539,BOM,BLR,Akasa Air ,02:20,04:10,1h 50m,"5,250",17-08-2025,Economy
+IndiGo - 5296,BOM,BLR,IndiGo ,07:30,09:30,2h,"5,116",17-08-2025,Economy
+IndiGo - 5322,BOM,BLR,IndiGo ,00:05,02:05,2h,"5,116",17-08-2025,Economy
+Air India - 2863,BOM,BLR,Air India ,09:20,11:00,1h 40m,"7,259",17-08-2025,Economy
+Air India - 2632,BOM,BLR,Air India ,11:20,13:05,1h 45m,"8,281",17-08-2025,Economy
+Akasa Air - 1543,BOM,BLR,Akasa Air ,08:10,10:10,2h,"7,689",17-08-2025,Economy
+IndiGo - 5193,BOM,BLR,IndiGo ,08:45,10:45,2h,"7,846",17-08-2025,Economy
+IndiGo - 5212,BOM,BLR,IndiGo ,12:45,14:40,1h 55m,"8,686",17-08-2025,Economy
+IndiGo - 5217,BOM,BLR,IndiGo ,11:30,13:20,1h 50m,"12,206",17-08-2025,Economy
+IndiGo - 5092,BOM,BLR,IndiGo ,09:50,12:00,2h 10m,"12,206",17-08-2025,Economy
+IndiGo - 5212,BOM,BLR,IndiGo ,12:45,14:40,1h 55m,"5,116",18-08-2025,Economy
+Akasa Air - 1539,BOM,BLR,Akasa Air ,02:20,04:10,1h 50m,"5,500",18-08-2025,Economy
+Air India - 2863,BOM,BLR,Air India ,09:20,11:00,1h 40m,"6,545",18-08-2025,Economy
+Air India - 2632,BOM,BLR,Air India ,11:20,13:05,1h 45m,"6,603",18-08-2025,Economy
+Air India - 2845,BOM,BLR,Air India ,05:55,07:45,1h 50m,"6,428",18-08-2025,Economy
+Air India - 2603,BOM,BLR,Air India ,06:35,08:30,1h 55m,"6,428",18-08-2025,Economy
+IndiGo - 439,BOM,BLR,IndiGo ,06:05,07:55,1h 50m,"6,481",18-08-2025,Economy
+Air India - 2851,BOM,BLR,Air India ,07:40,09:45,2h 05m,"6,428",18-08-2025,Economy
+Akasa Air - 1543,BOM,BLR,Akasa Air ,08:10,10:10,2h,"6,549",18-08-2025,Economy
+IndiGo - 5382,BOM,BLR,IndiGo ,14:00,16:05,2h 05m,"6,481",18-08-2025,Economy
+IndiGo - 5217,BOM,BLR,IndiGo ,11:30,13:20,1h 50m,"7,111",18-08-2025,Economy
+Air India - 2812,BOM,BLR,Air India ,02:55,05:05,2h 10m,"6,428",18-08-2025,Economy
+IndiGo - 5159,BOM,BLR,IndiGo ,02:30,04:15,1h 45m,"7,846",18-08-2025,Economy
+IndiGo - 5092,BOM,BLR,IndiGo ,09:50,12:00,2h 10m,"7,111",18-08-2025,Economy
+IndiGo - 5296,BOM,BLR,IndiGo ,07:30,09:30,2h,"7,846",18-08-2025,Economy
+IndiGo - 5193,BOM,BLR,IndiGo ,08:45,10:45,2h,"7,846",18-08-2025,Economy
+IndiGo - 5322,BOM,BLR,IndiGo ,00:05,02:05,2h,"12,046",18-08-2025,Economy
+SpiceJet - 540,BOM,BLR,SpiceJet ,01:40,03:30,1h 50m,"22,443",18-08-2025,Economy
+Air India - 2840,BLR,BOM,Air India ,22:45,00:50,2h 05m,"4,309",18-08-2025,Economy
+Air India - 2854,BLR,BOM,Air India ,17:55,20:05,2h 10m,"4,730",18-08-2025,Economy
+Air India - 2864,BLR,BOM,Air India ,19:45,21:50,2h 05m,"4,959",18-08-2025,Economy
+IndiGo - 458,BLR,BOM,IndiGo ,23:30,01:20,1h 50m,"5,332",18-08-2025,Economy
+IndiGo - 5295,BLR,BOM,IndiGo ,22:30,00:20,1h 50m,"5,332",18-08-2025,Economy
+Akasa Air - 1366,BLR,BOM,Akasa Air ,21:05,22:55,1h 50m,"5,397",18-08-2025,Economy
+Air India - 2645,BLR,BOM,Air India ,21:25,23:35,2h 10m,"4,959",18-08-2025,Economy
+Air India - 2850,BLR,BOM,Air India ,20:25,22:35,2h 10m,"5,036",18-08-2025,Economy
+IndiGo - 5376,BLR,BOM,IndiGo ,19:15,21:05,1h 50m,"5,647",18-08-2025,Economy
+IndiGo - 5255,BLR,BOM,IndiGo ,18:00,20:00,2h,"5,332",18-08-2025,Economy
+IndiGo - 5094,BLR,BOM,IndiGo ,20:45,22:40,1h 55m,"5,647",18-08-2025,Economy
+Air India - 2610,BLR,BOM,Air India ,18:45,21:00,2h 15m,"5,359",18-08-2025,Economy
+Akasa Air - 1744,BLR,BOM,Akasa Air ,22:30,00:30,2h,"5,789",18-08-2025,Economy
+IndiGo - 5031,BLR,BOM,IndiGo ,16:50,18:40,1h 50m,"7,642",18-08-2025,Economy
+IndiGo - 5351,BLR,BOM,IndiGo ,15:25,17:10,1h 45m,"8,377",18-08-2025,Economy
+Akasa Air - 1457,BOM,BLR,Akasa Air ,05:00,06:50,1h 50m,"3,797",19-08-2025,Economy
+Air India - 2845,BOM,BLR,Air India ,05:55,07:45,1h 50m,"3,954",19-08-2025,Economy
+Air India - 2603,BOM,BLR,Air India ,06:35,08:30,1h 55m,"3,954",19-08-2025,Economy
+Air India - 2632,BOM,BLR,Air India ,11:20,13:05,1h 45m,"4,234",19-08-2025,Economy
+Akasa Air - 1539,BOM,BLR,Akasa Air ,02:20,04:10,1h 50m,"4,016",19-08-2025,Economy
+Air India - 2812,BOM,BLR,Air India ,02:55,05:05,2h 10m,"3,776",19-08-2025,Economy
+Air India - 2863,BOM,BLR,Air India ,09:20,11:00,1h 40m,"4,912",19-08-2025,Economy
+IndiGo - 439,BOM,BLR,IndiGo ,06:05,07:55,1h 50m,"4,801",19-08-2025,Economy
+IndiGo - 5217,BOM,BLR,IndiGo ,11:30,13:20,1h 50m,"4,801",19-08-2025,Economy
+IndiGo - 5159,BOM,BLR,IndiGo ,02:30,04:15,1h 45m,"4,801",19-08-2025,Economy
+IndiGo - 5322,BOM,BLR,IndiGo ,00:05,02:05,2h,"4,486",19-08-2025,Economy
+IndiGo - 5212,BOM,BLR,IndiGo ,12:45,14:40,1h 55m,"4,801",19-08-2025,Economy
+Akasa Air - 1543,BOM,BLR,Akasa Air ,08:10,10:10,2h,"4,854",19-08-2025,Economy
+IndiGo - 5296,BOM,BLR,IndiGo ,07:30,09:30,2h,"4,801",19-08-2025,Economy
+Air India - 2851,BOM,BLR,Air India ,07:40,09:45,2h 05m,"4,828",19-08-2025,Economy
+IndiGo - 5382,BOM,BLR,IndiGo ,14:00,16:05,2h 05m,"4,801",19-08-2025,Economy
+IndiGo - 5092,BOM,BLR,IndiGo ,09:50,12:00,2h 10m,"4,801",19-08-2025,Economy
+IndiGo - 5193,BOM,BLR,IndiGo ,08:45,10:45,2h,"5,116",19-08-2025,Economy
+IndiGo - 458,BLR,BOM,IndiGo ,23:30,01:20,1h 50m,"4,009",19-08-2025,Economy
+Akasa Air - 1544,BLR,BOM,Akasa Air ,15:15,17:10,1h 55m,"4,140",19-08-2025,Economy
+Air India - 2840,BLR,BOM,Air India ,22:45,00:50,2h 05m,"4,022",19-08-2025,Economy
+IndiGo - 5031,BLR,BOM,IndiGo ,16:50,18:40,1h 50m,"4,468",19-08-2025,Economy
+IndiGo - 5351,BLR,BOM,IndiGo ,15:25,17:10,1h 45m,"4,807",19-08-2025,Economy
+Air India - 2854,BLR,BOM,Air India ,17:55,20:05,2h 10m,"4,404",19-08-2025,Economy
+Akasa Air - 1366,BLR,BOM,Akasa Air ,21:05,22:55,1h 50m,"5,233",19-08-2025,Economy
+Air India - 2645,BLR,BOM,Air India ,21:25,23:35,2h 10m,"4,660",19-08-2025,Economy
+Air India - 2864,BLR,BOM,Air India ,19:45,21:50,2h 05m,"4,959",19-08-2025,Economy
+IndiGo - 5295,BLR,BOM,IndiGo ,22:30,00:20,1h 50m,"5,332",19-08-2025,Economy
+IndiGo - 5376,BLR,BOM,IndiGo ,19:15,21:05,1h 50m,"5,332",19-08-2025,Economy
+IndiGo - 5094,BLR,BOM,IndiGo ,20:45,22:40,1h 55m,"5,332",19-08-2025,Economy
+Air India - 2850,BLR,BOM,Air India ,20:25,22:35,2h 10m,"5,036",19-08-2025,Economy
+Air India - 2610,BLR,BOM,Air India ,18:45,21:00,2h 15m,"4,959",19-08-2025,Economy
+IndiGo - 5255,BLR,BOM,IndiGo ,18:00,20:00,2h,"5,332",19-08-2025,Economy
+Akasa Air - 1457,BOM,BLR,Akasa Air ,05:00,06:50,1h 50m,"3,586",20-08-2025,Economy
+Akasa Air - 1539,BOM,BLR,Akasa Air ,02:20,04:10,1h 50m,"3,586",20-08-2025,Economy
+IndiGo - 5159,BOM,BLR,IndiGo ,02:30,04:15,1h 45m,"3,751",20-08-2025,Economy
+Air India - 2863,BOM,BLR,Air India ,09:20,11:00,1h 40m,"4,199",20-08-2025,Economy
+Air India - 2845,BOM,BLR,Air India ,05:55,07:45,1h 50m,"3,954",20-08-2025,Economy
+Air India - 2632,BOM,BLR,Air India ,11:20,13:05,1h 45m,"4,234",20-08-2025,Economy
+Air India - 2603,BOM,BLR,Air India ,06:35,08:30,1h 55m,"3,954",20-08-2025,Economy
+IndiGo - 5212,BOM,BLR,IndiGo ,12:45,14:40,1h 55m,"3,968",20-08-2025,Economy
+Akasa Air - 1728,BOM,BLR,Akasa Air ,08:50,10:40,1h 50m,"4,150",20-08-2025,Economy
+IndiGo - 5322,BOM,BLR,IndiGo ,00:05,02:05,2h,"3,751",20-08-2025,Economy
+Air India - 2812,BOM,BLR,Air India ,02:55,05:05,2h 10m,"3,776",20-08-2025,Economy
+Air India - 2851,BOM,BLR,Air India ,07:40,09:45,2h 05m,"4,129",20-08-2025,Economy
+Akasa Air - 1543,BOM,BLR,Akasa Air ,08:10,10:10,2h,"4,450",20-08-2025,Economy
+IndiGo - 5217,BOM,BLR,IndiGo ,11:30,13:20,1h 50m,"4,801",20-08-2025,Economy
+IndiGo - 439,BOM,BLR,IndiGo ,06:05,07:55,1h 50m,"4,801",20-08-2025,Economy
+IndiGo - 5296,BOM,BLR,IndiGo ,07:30,09:30,2h,"4,801",20-08-2025,Economy
+IndiGo - 5193,BOM,BLR,IndiGo ,08:45,10:45,2h,"4,801",20-08-2025,Economy
+IndiGo - 5382,BOM,BLR,IndiGo ,14:00,16:05,2h 05m,"4,801",20-08-2025,Economy
+IndiGo - 5092,BOM,BLR,IndiGo ,09:50,12:00,2h 10m,"4,801",20-08-2025,Economy
+IndiGo - 458,BLR,BOM,IndiGo ,23:30,01:20,1h 50m,"4,009",20-08-2025,Economy
+Air India - 2840,BLR,BOM,Air India ,22:45,00:50,2h 05m,"4,022",20-08-2025,Economy
+Akasa Air - 1366,BLR,BOM,Akasa Air ,21:05,22:55,1h 50m,"4,509",20-08-2025,Economy
+IndiGo - 5351,BLR,BOM,IndiGo ,15:25,17:10,1h 45m,"4,807",20-08-2025,Economy
+Air India - 2854,BLR,BOM,Air India ,17:55,20:05,2h 10m,"4,404",20-08-2025,Economy
+Air India - 2864,BLR,BOM,Air India ,19:45,21:50,2h 05m,"4,959",20-08-2025,Economy
+IndiGo - 5031,BLR,BOM,IndiGo ,16:50,18:40,1h 50m,"5,332",20-08-2025,Economy
+IndiGo - 5295,BLR,BOM,IndiGo ,22:30,00:20,1h 50m,"5,332",20-08-2025,Economy
+IndiGo - 5376,BLR,BOM,IndiGo ,19:15,21:05,1h 50m,"5,332",20-08-2025,Economy
+Air India - 2645,BLR,BOM,Air India ,21:25,23:35,2h 10m,"4,959",20-08-2025,Economy
+Air India - 2850,BLR,BOM,Air India ,20:25,22:35,2h 10m,"5,036",20-08-2025,Economy
+IndiGo - 5094,BLR,BOM,IndiGo ,20:45,22:40,1h 55m,"5,332",20-08-2025,Economy
+Air India - 2610,BLR,BOM,Air India ,18:45,21:00,2h 15m,"4,959",20-08-2025,Economy
+IndiGo - 5255,BLR,BOM,IndiGo ,18:00,20:00,2h,"5,332",20-08-2025,Economy
+Akasa Air - 1539,BOM,BLR,Akasa Air ,02:20,04:10,1h 50m,"3,586",21-08-2025,Economy
+IndiGo - 5159,BOM,BLR,IndiGo ,02:30,04:15,1h 45m,"3,751",21-08-2025,Economy
+Air India - 2863,BOM,BLR,Air India ,09:20,11:00,1h 40m,"4,199",21-08-2025,Economy
+Air India - 2845,BOM,BLR,Air India ,05:55,07:45,1h 50m,"3,954",21-08-2025,Economy
+Air India - 2603,BOM,BLR,Air India ,06:35,08:30,1h 55m,"3,954",21-08-2025,Economy
+Air India - 2632,BOM,BLR,Air India ,11:20,13:05,1h 45m,"4,234",21-08-2025,Economy
+IndiGo - 5217,BOM,BLR,IndiGo ,11:30,13:20,1h 50m,"3,968",21-08-2025,Economy
+IndiGo - 5322,BOM,BLR,IndiGo ,00:05,02:05,2h,"3,751",21-08-2025,Economy
+Air India - 2812,BOM,BLR,Air India ,02:55,05:05,2h 10m,"3,776",21-08-2025,Economy
+Air India - 2851,BOM,BLR,Air India ,07:40,09:45,2h 05m,"4,129",21-08-2025,Economy
+IndiGo - 5092,BOM,BLR,IndiGo ,09:50,12:00,2h 10m,"3,968",21-08-2025,Economy
+Akasa Air - 1543,BOM,BLR,Akasa Air ,08:10,10:10,2h,"4,450",21-08-2025,Economy
+IndiGo - 439,BOM,BLR,IndiGo ,06:05,07:55,1h 50m,"4,801",21-08-2025,Economy
+IndiGo - 5212,BOM,BLR,IndiGo ,12:45,14:40,1h 55m,"4,801",21-08-2025,Economy
+IndiGo - 5193,BOM,BLR,IndiGo ,08:45,10:45,2h,"4,801",21-08-2025,Economy
+IndiGo - 5296,BOM,BLR,IndiGo ,07:30,09:30,2h,"4,801",21-08-2025,Economy
+IndiGo - 5382,BOM,BLR,IndiGo ,14:00,16:05,2h 05m,"4,801",21-08-2025,Economy
+IndiGo - 5351,BLR,BOM,IndiGo ,15:25,17:10,1h 45m,"4,468",21-08-2025,Economy
+Air India - 2840,BLR,BOM,Air India ,22:45,00:50,2h 05m,"4,022",21-08-2025,Economy
+Air India - 2854,BLR,BOM,Air India ,17:55,20:05,2h 10m,"4,404",21-08-2025,Economy
+IndiGo - 5031,BLR,BOM,IndiGo ,16:50,18:40,1h 50m,"5,332",21-08-2025,Economy
+IndiGo - 458,BLR,BOM,IndiGo ,23:30,01:20,1h 50m,"5,332",21-08-2025,Economy
+IndiGo - 5376,BLR,BOM,IndiGo ,19:15,21:05,1h 50m,"5,332",21-08-2025,Economy
+IndiGo - 5295,BLR,BOM,IndiGo ,22:30,00:20,1h 50m,"5,332",21-08-2025,Economy
+Air India - 2864,BLR,BOM,Air India ,19:45,21:50,2h 05m,"5,036",21-08-2025,Economy
+Akasa Air - 1366,BLR,BOM,Akasa Air ,21:05,22:55,1h 50m,"5,459",21-08-2025,Economy
+IndiGo - 5094,BLR,BOM,IndiGo ,20:45,22:40,1h 55m,"5,332",21-08-2025,Economy
+Air India - 2645,BLR,BOM,Air India ,21:25,23:35,2h 10m,"5,036",21-08-2025,Economy
+Air India - 2850,BLR,BOM,Air India ,20:25,22:35,2h 10m,"5,111",21-08-2025,Economy
+IndiGo - 5255,BLR,BOM,IndiGo ,18:00,20:00,2h,"5,332",21-08-2025,Economy
+Air India - 2610,BLR,BOM,Air India ,18:45,21:00,2h 15m,"5,036",21-08-2025,Economy
+Akasa Air - 1457,BOM,BLR,Akasa Air ,05:00,06:50,1h 50m,"3,386",22-08-2025,Economy
+Akasa Air - 1539,BOM,BLR,Akasa Air ,02:20,04:10,1h 50m,"3,587",22-08-2025,Economy
+Air India - 2863,BOM,BLR,Air India ,09:20,11:00,1h 40m,"4,199",22-08-2025,Economy
+Air India - 2845,BOM,BLR,Air India ,05:55,07:45,1h 50m,"3,954",22-08-2025,Economy
+Air India - 2632,BOM,BLR,Air India ,11:20,13:05,1h 45m,"4,234",22-08-2025,Economy
+Air India - 2603,BOM,BLR,Air India ,06:35,08:30,1h 55m,"3,954",22-08-2025,Economy
+IndiGo - 439,BOM,BLR,IndiGo ,06:05,07:55,1h 50m,"3,968",22-08-2025,Economy
+IndiGo - 5193,BOM,BLR,IndiGo ,08:45,10:45,2h,"3,968",22-08-2025,Economy
+Air India - 2812,BOM,BLR,Air India ,02:55,05:05,2h 10m,"3,776",22-08-2025,Economy
+Air India - 2851,BOM,BLR,Air India ,07:40,09:45,2h 05m,"4,129",22-08-2025,Economy
+Akasa Air - 1543,BOM,BLR,Akasa Air ,08:10,10:10,2h,"4,249",22-08-2025,Economy
+SpiceJet - 540,BOM,BLR,SpiceJet ,01:35,03:30,1h 55m,"4,437",22-08-2025,Economy
+IndiGo - 5217,BOM,BLR,IndiGo ,11:30,13:20,1h 50m,"4,801",22-08-2025,Economy
+IndiGo - 5159,BOM,BLR,IndiGo ,02:30,04:15,1h 45m,"4,801",22-08-2025,Economy
+IndiGo - 5212,BOM,BLR,IndiGo ,12:45,14:40,1h 55m,"4,801",22-08-2025,Economy
+IndiGo - 5296,BOM,BLR,IndiGo ,07:30,09:30,2h,"4,801",22-08-2025,Economy
+IndiGo - 5382,BOM,BLR,IndiGo ,14:00,16:05,2h 05m,"4,801",22-08-2025,Economy
+IndiGo - 5322,BOM,BLR,IndiGo ,00:05,02:05,2h,"4,801",22-08-2025,Economy
+IndiGo - 5092,BOM,BLR,IndiGo ,09:50,12:00,2h 10m,"4,801",22-08-2025,Economy
+IndiGo - 5351,BLR,BOM,IndiGo ,15:25,17:10,1h 45m,"5,647",22-08-2025,Economy
+IndiGo - 5295,BLR,BOM,IndiGo ,22:30,00:20,1h 50m,"5,647",22-08-2025,Economy
+IndiGo - 458,BLR,BOM,IndiGo ,23:30,01:20,1h 50m,"5,647",22-08-2025,Economy
+IndiGo - 5031,BLR,BOM,IndiGo ,16:50,18:40,1h 50m,"6,067",22-08-2025,Economy
+Air India - 2840,BLR,BOM,Air India ,22:45,00:50,2h 05m,"5,759",22-08-2025,Economy
+Akasa Air - 1366,BLR,BOM,Akasa Air ,21:05,22:55,1h 50m,"6,209",22-08-2025,Economy
+Air India - 2854,BLR,BOM,Air India ,17:55,20:05,2h 10m,"5,852",22-08-2025,Economy
+Air India - 2850,BLR,BOM,Air India ,20:25,22:35,2h 10m,"5,943",22-08-2025,Economy
+Air India - 2610,BLR,BOM,Air India ,18:45,21:00,2h 15m,"5,852",22-08-2025,Economy
+Air India - 2864,BLR,BOM,Air India ,19:45,21:50,2h 05m,"6,259",22-08-2025,Economy
+IndiGo - 5094,BLR,BOM,IndiGo ,20:45,22:40,1h 55m,"7,012",22-08-2025,Economy
+Air India - 2645,BLR,BOM,Air India ,21:25,23:35,2h 10m,"7,076",22-08-2025,Economy
+IndiGo - 5255,BLR,BOM,IndiGo ,18:00,20:00,2h,"7,642",22-08-2025,Economy
+IndiGo - 5376,BLR,BOM,IndiGo ,19:15,21:05,1h 50m,"8,377",22-08-2025,Economy
+Air India - 2845,BOM,BLR,Air India ,05:55,07:45,1h 50m,"3,954",23-08-2025,Economy
+Air India - 2632,BOM,BLR,Air India ,11:20,13:05,1h 45m,"4,234",23-08-2025,Economy
+Akasa Air - 1539,BOM,BLR,Akasa Air ,02:20,04:10,1h 50m,"3,797",23-08-2025,Economy
+Air India - 2603,BOM,BLR,Air India ,06:35,08:30,1h 55m,"3,954",23-08-2025,Economy
+IndiGo - 439,BOM,BLR,IndiGo ,06:05,07:55,1h 50m,"3,968",23-08-2025,Economy
+Air India - 2863,BOM,BLR,Air India ,09:20,11:00,1h 40m,"4,505",23-08-2025,Economy
+Air India - 2812,BOM,BLR,Air India ,02:55,05:05,2h 10m,"3,776",23-08-2025,Economy
+Air India - 2851,BOM,BLR,Air India ,07:40,09:45,2h 05m,"4,129",23-08-2025,Economy
+Akasa Air - 1543,BOM,BLR,Akasa Air ,08:10,10:10,2h,"4,455",23-08-2025,Economy
+IndiGo - 5217,BOM,BLR,IndiGo ,11:30,13:20,1h 50m,"4,801",23-08-2025,Economy
+IndiGo - 5159,BOM,BLR,IndiGo ,02:30,04:15,1h 45m,"4,801",23-08-2025,Economy
+IndiGo - 5212,BOM,BLR,IndiGo ,12:45,14:40,1h 55m,"4,801",23-08-2025,Economy
+IndiGo - 5193,BOM,BLR,IndiGo ,08:45,10:45,2h,"4,801",23-08-2025,Economy
+IndiGo - 5296,BOM,BLR,IndiGo ,07:30,09:30,2h,"4,801",23-08-2025,Economy
+IndiGo - 5382,BOM,BLR,IndiGo ,14:00,16:05,2h 05m,"4,801",23-08-2025,Economy
+IndiGo - 5322,BOM,BLR,IndiGo ,00:05,02:05,2h,"4,801",23-08-2025,Economy
+IndiGo - 5092,BOM,BLR,IndiGo ,09:50,12:00,2h 10m,"4,801",23-08-2025,Economy
+Air India - 2840,BLR,BOM,Air India ,22:45,00:50,2h 05m,"4,309",23-08-2025,Economy
+Akasa Air - 1366,BLR,BOM,Akasa Air ,21:05,22:55,1h 50m,"5,070",23-08-2025,Economy
+Air India - 2864,BLR,BOM,Air India ,19:45,21:50,2h 05m,"4,959",23-08-2025,Economy
+IndiGo - 458,BLR,BOM,IndiGo ,23:30,01:20,1h 50m,"5,332",23-08-2025,Economy
+IndiGo - 5031,BLR,BOM,IndiGo ,16:50,18:40,1h 50m,"5,332",23-08-2025,Economy
+IndiGo - 5295,BLR,BOM,IndiGo ,22:30,00:20,1h 50m,"5,332",23-08-2025,Economy
+IndiGo - 5376,BLR,BOM,IndiGo ,19:15,21:05,1h 50m,"5,332",23-08-2025,Economy
+IndiGo - 5351,BLR,BOM,IndiGo ,15:25,17:10,1h 45m,"5,647",23-08-2025,Economy
+Air India - 2645,BLR,BOM,Air India ,21:25,23:35,2h 10m,"4,959",23-08-2025,Economy
+IndiGo - 5094,BLR,BOM,IndiGo ,20:45,22:40,1h 55m,"5,332",23-08-2025,Economy
+Akasa Air - 1544,BLR,BOM,Akasa Air ,15:15,17:10,1h 55m,"5,397",23-08-2025,Economy
+Air India - 2850,BLR,BOM,Air India ,20:25,22:35,2h 10m,"5,036",23-08-2025,Economy
+Air India - 2854,BLR,BOM,Air India ,17:55,20:05,2h 10m,"5,036",23-08-2025,Economy
+Air India - 2610,BLR,BOM,Air India ,18:45,21:00,2h 15m,"4,959",23-08-2025,Economy
+IndiGo - 5255,BLR,BOM,IndiGo ,18:00,20:00,2h,"5,332",23-08-2025,Economy
+Akasa Air - 1539,BOM,BLR,Akasa Air ,02:20,04:10,1h 50m,"3,587",24-08-2025,Economy
+IndiGo - 5159,BOM,BLR,IndiGo ,02:30,04:15,1h 45m,"3,751",24-08-2025,Economy
+Air India - 2863,BOM,BLR,Air India ,09:20,11:00,1h 40m,"4,199",24-08-2025,Economy
+Air India - 2845,BOM,BLR,Air India ,05:55,07:45,1h 50m,"3,954",24-08-2025,Economy
+Air India - 2603,BOM,BLR,Air India ,06:35,08:30,1h 55m,"3,954",24-08-2025,Economy
+Air India - 2632,BOM,BLR,Air India ,11:20,13:05,1h 45m,"4,234",24-08-2025,Economy
+IndiGo - 5217,BOM,BLR,IndiGo ,11:30,13:20,1h 50m,"3,968",24-08-2025,Economy
+IndiGo - 439,BOM,BLR,IndiGo ,06:05,07:55,1h 50m,"3,968",24-08-2025,Economy
+IndiGo - 5322,BOM,BLR,IndiGo ,00:05,02:05,2h,"3,751",24-08-2025,Economy
+Akasa Air - 1543,BOM,BLR,Akasa Air ,08:10,10:10,2h,"4,049",24-08-2025,Economy
+Air India - 2812,BOM,BLR,Air India ,02:55,05:05,2h 10m,"3,776",24-08-2025,Economy
+Air India - 2851,BOM,BLR,Air India ,07:40,09:45,2h 05m,"4,129",24-08-2025,Economy
+SpiceJet - 540,BOM,BLR,SpiceJet ,01:40,03:30,1h 50m,"4,437",24-08-2025,Economy
+IndiGo - 5212,BOM,BLR,IndiGo ,12:45,14:40,1h 55m,"4,801",24-08-2025,Economy
+IndiGo - 5296,BOM,BLR,IndiGo ,07:30,09:30,2h,"4,801",24-08-2025,Economy
+IndiGo - 5193,BOM,BLR,IndiGo ,08:45,10:45,2h,"4,801",24-08-2025,Economy
+IndiGo - 5092,BOM,BLR,IndiGo ,09:50,12:00,2h 10m,"4,801",24-08-2025,Economy
+IndiGo - 5382,BOM,BLR,IndiGo ,14:00,16:05,2h 05m,"5,536",24-08-2025,Economy
+IndiGo - 5295,BLR,BOM,IndiGo ,22:30,00:20,1h 50m,"4,009",24-08-2025,Economy
+IndiGo - 5351,BLR,BOM,IndiGo ,15:25,17:10,1h 45m,"5,332",24-08-2025,Economy
+Akasa Air - 1366,BLR,BOM,Akasa Air ,21:05,22:55,1h 50m,"5,250",24-08-2025,Economy
+IndiGo - 5376,BLR,BOM,IndiGo ,19:15,21:05,1h 50m,"5,332",24-08-2025,Economy
+IndiGo - 458,BLR,BOM,IndiGo ,23:30,01:20,1h 50m,"5,332",24-08-2025,Economy
+IndiGo - 5094,BLR,BOM,IndiGo ,20:45,22:40,1h 55m,"5,332",24-08-2025,Economy
+IndiGo - 5031,BLR,BOM,IndiGo ,16:50,18:40,1h 50m,"5,647",24-08-2025,Economy
+IndiGo - 5255,BLR,BOM,IndiGo ,18:00,20:00,2h,"5,332",24-08-2025,Economy
+Air India - 2864,BLR,BOM,Air India ,19:45,21:50,2h 05m,"5,359",24-08-2025,Economy
+Air India - 2840,BLR,BOM,Air India ,22:45,00:50,2h 05m,"5,359",24-08-2025,Economy
+Akasa Air - 1544,BLR,BOM,Akasa Air ,15:15,17:10,1h 55m,"5,789",24-08-2025,Economy
+Air India - 2854,BLR,BOM,Air India ,17:55,20:05,2h 10m,"5,443",24-08-2025,Economy
+Air India - 2850,BLR,BOM,Air India ,20:25,22:35,2h 10m,"5,443",24-08-2025,Economy
+Air India - 2610,BLR,BOM,Air India ,18:45,21:00,2h 15m,"5,359",24-08-2025,Economy
+Air India - 2645,BLR,BOM,Air India ,21:25,23:35,2h 10m,"6,959",24-08-2025,Economy
+Air India - 2863,BOM,BLR,Air India ,09:20,11:00,1h 40m,"4,199",25-08-2025,Economy
+Air India - 2845,BOM,BLR,Air India ,05:55,07:45,1h 50m,"3,954",25-08-2025,Economy
+Akasa Air - 1539,BOM,BLR,Akasa Air ,02:20,04:10,1h 50m,"3,797",25-08-2025,Economy
+Air India - 2603,BOM,BLR,Air India ,06:35,08:30,1h 55m,"3,954",25-08-2025,Economy
+Air India - 2632,BOM,BLR,Air India ,11:20,13:05,1h 45m,"4,234",25-08-2025,Economy
+Akasa Air - 1543,BOM,BLR,Akasa Air ,08:10,10:10,2h,"4,050",25-08-2025,Economy
+Air India - 2812,BOM,BLR,Air India ,02:55,05:05,2h 10m,"3,776",25-08-2025,Economy
+Air India - 2851,BOM,BLR,Air India ,07:40,09:45,2h 05m,"4,129",25-08-2025,Economy
+SpiceJet - 540,BOM,BLR,SpiceJet ,01:40,03:30,1h 50m,"4,437",25-08-2025,Economy
+IndiGo - 439,BOM,BLR,IndiGo ,06:05,07:55,1h 50m,"4,801",25-08-2025,Economy
+IndiGo - 5217,BOM,BLR,IndiGo ,11:30,13:20,1h 50m,"4,801",25-08-2025,Economy
+IndiGo - 5159,BOM,BLR,IndiGo ,02:30,04:15,1h 45m,"4,801",25-08-2025,Economy
+IndiGo - 5212,BOM,BLR,IndiGo ,12:45,14:40,1h 55m,"4,801",25-08-2025,Economy
+IndiGo - 5193,BOM,BLR,IndiGo ,08:45,10:45,2h,"4,801",25-08-2025,Economy
+IndiGo - 5296,BOM,BLR,IndiGo ,07:30,09:30,2h,"4,801",25-08-2025,Economy
+IndiGo - 5382,BOM,BLR,IndiGo ,14:00,16:05,2h 05m,"4,801",25-08-2025,Economy
+IndiGo - 5322,BOM,BLR,IndiGo ,00:05,02:05,2h,"4,801",25-08-2025,Economy
+IndiGo - 5092,BOM,BLR,IndiGo ,09:50,12:00,2h 10m,"4,801",25-08-2025,Economy
+IndiGo - 458,BLR,BOM,IndiGo ,23:30,01:20,1h 50m,"4,009",25-08-2025,Economy
+Air India - 2840,BLR,BOM,Air India ,22:45,00:50,2h 05m,"4,022",25-08-2025,Economy
+IndiGo - 5376,BLR,BOM,IndiGo ,19:15,21:05,1h 50m,"4,468",25-08-2025,Economy
+Akasa Air - 1744,BLR,BOM,Akasa Air ,22:30,00:30,2h,"4,349",25-08-2025,Economy
+Air India - 2864,BLR,BOM,Air India ,19:45,21:50,2h 05m,"4,340",25-08-2025,Economy
+IndiGo - 5255,BLR,BOM,IndiGo ,18:00,20:00,2h,"4,468",25-08-2025,Economy
+Akasa Air - 1366,BLR,BOM,Akasa Air ,21:05,22:55,1h 50m,"4,850",25-08-2025,Economy
+Air India - 2645,BLR,BOM,Air India ,21:25,23:35,2h 10m,"4,340",25-08-2025,Economy
+Air India - 2850,BLR,BOM,Air India ,20:25,22:35,2h 10m,"4,404",25-08-2025,Economy
+Air India - 2854,BLR,BOM,Air India ,17:55,20:05,2h 10m,"4,404",25-08-2025,Economy
+IndiGo - 5094,BLR,BOM,IndiGo ,20:45,22:40,1h 55m,"4,807",25-08-2025,Economy
+Air India - 2610,BLR,BOM,Air India ,18:45,21:00,2h 15m,"4,340",25-08-2025,Economy
+IndiGo - 5351,BLR,BOM,IndiGo ,15:25,17:10,1h 45m,"5,332",25-08-2025,Economy
+IndiGo - 5295,BLR,BOM,IndiGo ,22:30,00:20,1h 50m,"5,332",25-08-2025,Economy
+IndiGo - 5031,BLR,BOM,IndiGo ,16:50,18:40,1h 50m,"5,332",25-08-2025,Economy
+Akasa Air - 1457,BOM,BLR,Akasa Air ,05:00,06:50,1h 50m,"3,587",26-08-2025,Economy
+Air India - 2863,BOM,BLR,Air India ,09:20,11:00,1h 40m,"4,199",26-08-2025,Economy
+Air India - 2845,BOM,BLR,Air India ,05:55,07:45,1h 50m,"3,954",26-08-2025,Economy
+Air India - 2632,BOM,BLR,Air India ,11:20,13:05,1h 45m,"4,234",26-08-2025,Economy
+Akasa Air - 1539,BOM,BLR,Akasa Air ,02:20,04:10,1h 50m,"3,797",26-08-2025,Economy
+Air India - 2603,BOM,BLR,Air India ,06:35,08:30,1h 55m,"3,954",26-08-2025,Economy
+IndiGo - 5217,BOM,BLR,IndiGo ,11:30,13:20,1h 50m,"3,968",26-08-2025,Economy
+Akasa Air - 1543,BOM,BLR,Akasa Air ,08:10,10:10,2h,"3,797",26-08-2025,Economy
+IndiGo - 5212,BOM,BLR,IndiGo ,12:45,14:40,1h 55m,"3,968",26-08-2025,Economy
+IndiGo - 5322,BOM,BLR,IndiGo ,00:05,02:05,2h,"3,751",26-08-2025,Economy
+Air India - 2812,BOM,BLR,Air India ,02:55,05:05,2h 10m,"3,776",26-08-2025,Economy
+Air India - 2851,BOM,BLR,Air India ,07:40,09:45,2h 05m,"4,129",26-08-2025,Economy
+IndiGo - 5382,BOM,BLR,IndiGo ,14:00,16:05,2h 05m,"3,968",26-08-2025,Economy
+IndiGo - 5092,BOM,BLR,IndiGo ,09:50,12:00,2h 10m,"3,968",26-08-2025,Economy
+IndiGo - 439,BOM,BLR,IndiGo ,06:05,07:55,1h 50m,"4,801",26-08-2025,Economy
+IndiGo - 5159,BOM,BLR,IndiGo ,02:30,04:15,1h 45m,"4,801",26-08-2025,Economy
+IndiGo - 5296,BOM,BLR,IndiGo ,07:30,09:30,2h,"4,801",26-08-2025,Economy
+IndiGo - 5193,BOM,BLR,IndiGo ,08:45,10:45,2h,"4,801",26-08-2025,Economy
+IndiGo - 5351,BLR,BOM,IndiGo ,15:25,17:10,1h 45m,"4,468",26-08-2025,Economy
+Akasa Air - 1544,BLR,BOM,Akasa Air ,15:15,17:10,1h 55m,"4,349",26-08-2025,Economy
+Air India - 2840,BLR,BOM,Air India ,22:45,00:50,2h 05m,"4,309",26-08-2025,Economy
+IndiGo - 5255,BLR,BOM,IndiGo ,18:00,20:00,2h,"4,468",26-08-2025,Economy
+Air India - 2864,BLR,BOM,Air India ,19:45,21:50,2h 05m,"4,959",26-08-2025,Economy
+IndiGo - 5031,BLR,BOM,IndiGo ,16:50,18:40,1h 50m,"5,332",26-08-2025,Economy
+IndiGo - 5376,BLR,BOM,IndiGo ,19:15,21:05,1h 50m,"5,332",26-08-2025,Economy
+IndiGo - 458,BLR,BOM,IndiGo ,23:30,01:20,1h 50m,"5,332",26-08-2025,Economy
+IndiGo - 5295,BLR,BOM,IndiGo ,22:30,00:20,1h 50m,"5,332",26-08-2025,Economy
+Air India - 2645,BLR,BOM,Air India ,21:25,23:35,2h 10m,"4,959",26-08-2025,Economy
+IndiGo - 5094,BLR,BOM,IndiGo ,20:45,22:40,1h 55m,"5,332",26-08-2025,Economy
+Air India - 2850,BLR,BOM,Air India ,20:25,22:35,2h 10m,"5,036",26-08-2025,Economy
+Air India - 2854,BLR,BOM,Air India ,17:55,20:05,2h 10m,"5,036",26-08-2025,Economy
+Air India - 2610,BLR,BOM,Air India ,18:45,21:00,2h 15m,"4,959",26-08-2025,Economy
+Akasa Air - 1366,BLR,BOM,Akasa Air ,21:05,22:55,1h 50m,"5,789",26-08-2025,Economy
+Akasa Air - 1457,BOM,BLR,Akasa Air ,05:00,06:50,1h 50m,"3,587",27-08-2025,Economy
+Air India - 2863,BOM,BLR,Air India ,09:20,11:00,1h 40m,"4,199",27-08-2025,Economy
+Air India - 2845,BOM,BLR,Air India ,05:55,07:45,1h 50m,"3,954",27-08-2025,Economy
+Air India - 2632,BOM,BLR,Air India ,11:20,13:05,1h 45m,"4,234",27-08-2025,Economy
+Akasa Air - 1539,BOM,BLR,Akasa Air ,02:20,04:10,1h 50m,"3,797",27-08-2025,Economy
+Air India - 2603,BOM,BLR,Air India ,06:35,08:30,1h 55m,"3,954",27-08-2025,Economy
+IndiGo - 439,BOM,BLR,IndiGo ,06:05,07:55,1h 50m,"3,968",27-08-2025,Economy
+IndiGo - 5322,BOM,BLR,IndiGo ,00:05,02:05,2h,"3,751",27-08-2025,Economy
+Akasa Air - 1728,BOM,BLR,Akasa Air ,08:50,10:40,1h 50m,"4,259",27-08-2025,Economy
+Air India - 2812,BOM,BLR,Air India ,02:55,05:05,2h 10m,"3,776",27-08-2025,Economy
+Air India - 2851,BOM,BLR,Air India ,07:40,09:45,2h 05m,"4,129",27-08-2025,Economy
+IndiGo - 5217,BOM,BLR,IndiGo ,11:30,13:20,1h 50m,"4,801",27-08-2025,Economy
+IndiGo - 5159,BOM,BLR,IndiGo ,02:30,04:15,1h 45m,"4,801",27-08-2025,Economy
+IndiGo - 5212,BOM,BLR,IndiGo ,12:45,14:40,1h 55m,"4,801",27-08-2025,Economy
+IndiGo - 5193,BOM,BLR,IndiGo ,08:45,10:45,2h,"4,801",27-08-2025,Economy
+IndiGo - 5296,BOM,BLR,IndiGo ,07:30,09:30,2h,"4,801",27-08-2025,Economy
+IndiGo - 5382,BOM,BLR,IndiGo ,14:00,16:05,2h 05m,"4,801",27-08-2025,Economy
+IndiGo - 5092,BOM,BLR,IndiGo ,09:50,12:00,2h 10m,"4,801",27-08-2025,Economy
+IndiGo - 458,BLR,BOM,IndiGo ,23:30,01:20,1h 50m,"4,009",27-08-2025,Economy
+Akasa Air - 1366,BLR,BOM,Akasa Air ,21:05,22:55,1h 50m,"4,259",27-08-2025,Economy
+IndiGo - 5351,BLR,BOM,IndiGo ,15:25,17:10,1h 45m,"4,468",27-08-2025,Economy
+Air India - 2840,BLR,BOM,Air India ,22:45,00:50,2h 05m,"4,022",27-08-2025,Economy
+IndiGo - 5376,BLR,BOM,IndiGo ,19:15,21:05,1h 50m,"4,468",27-08-2025,Economy
+IndiGo - 5094,BLR,BOM,IndiGo ,20:45,22:40,1h 55m,"4,468",27-08-2025,Economy
+Air India - 2645,BLR,BOM,Air India ,21:25,23:35,2h 10m,"4,340",27-08-2025,Economy
+Air India - 2850,BLR,BOM,Air India ,20:25,22:35,2h 10m,"4,404",27-08-2025,Economy
+Air India - 2854,BLR,BOM,Air India ,17:55,20:05,2h 10m,"4,404",27-08-2025,Economy
+Air India - 2610,BLR,BOM,Air India ,18:45,21:00,2h 15m,"4,340",27-08-2025,Economy
+Air India - 2864,BLR,BOM,Air India ,19:45,21:50,2h 05m,"4,959",27-08-2025,Economy
+IndiGo - 5031,BLR,BOM,IndiGo ,16:50,18:40,1h 50m,"5,332",27-08-2025,Economy
+IndiGo - 5295,BLR,BOM,IndiGo ,22:30,00:20,1h 50m,"5,332",27-08-2025,Economy
+IndiGo - 5255,BLR,BOM,IndiGo ,18:00,20:00,2h,"5,332",27-08-2025,Economy
+Air India - 2863,BOM,BLR,Air India ,09:20,11:00,1h 40m,"4,199",28-08-2025,Economy
+Air India - 2845,BOM,BLR,Air India ,05:55,07:45,1h 50m,"3,954",28-08-2025,Economy
+Akasa Air - 1539,BOM,BLR,Akasa Air ,02:20,04:10,1h 50m,"3,797",28-08-2025,Economy
+Air India - 2603,BOM,BLR,Air India ,06:35,08:30,1h 55m,"3,954",28-08-2025,Economy
+Air India - 2632,BOM,BLR,Air India ,11:20,13:05,1h 45m,"4,234",28-08-2025,Economy
+IndiGo - 5322,BOM,BLR,IndiGo ,00:05,02:05,2h,"3,751",28-08-2025,Economy
+IndiGo - 5193,BOM,BLR,IndiGo ,08:45,10:45,2h,"3,968",28-08-2025,Economy
+Air India - 2812,BOM,BLR,Air India ,02:55,05:05,2h 10m,"3,776",28-08-2025,Economy
+Air India - 2851,BOM,BLR,Air India ,07:40,09:45,2h 05m,"4,129",28-08-2025,Economy
+Akasa Air - 1543,BOM,BLR,Akasa Air ,08:10,10:10,2h,"4,200",28-08-2025,Economy
+IndiGo - 439,BOM,BLR,IndiGo ,06:05,07:55,1h 50m,"4,801",28-08-2025,Economy
+IndiGo - 5217,BOM,BLR,IndiGo ,11:30,13:20,1h 50m,"4,801",28-08-2025,Economy
+IndiGo - 5159,BOM,BLR,IndiGo ,02:30,04:15,1h 45m,"4,801",28-08-2025,Economy
+IndiGo - 5212,BOM,BLR,IndiGo ,12:45,14:40,1h 55m,"4,801",28-08-2025,Economy
+IndiGo - 5296,BOM,BLR,IndiGo ,07:30,09:30,2h,"4,801",28-08-2025,Economy
+IndiGo - 5382,BOM,BLR,IndiGo ,14:00,16:05,2h 05m,"4,801",28-08-2025,Economy
+IndiGo - 5092,BOM,BLR,IndiGo ,09:50,12:00,2h 10m,"4,801",28-08-2025,Economy
+Akasa Air - 1366,BLR,BOM,Akasa Air ,21:05,22:55,1h 50m,"4,122",28-08-2025,Economy
+IndiGo - 5351,BLR,BOM,IndiGo ,15:25,17:10,1h 45m,"4,468",28-08-2025,Economy
+Air India - 2840,BLR,BOM,Air India ,22:45,00:50,2h 05m,"4,022",28-08-2025,Economy
+IndiGo - 5376,BLR,BOM,IndiGo ,19:15,21:05,1h 50m,"4,468",28-08-2025,Economy
+Air India - 2864,BLR,BOM,Air India ,19:45,21:50,2h 05m,"4,404",28-08-2025,Economy
+IndiGo - 5255,BLR,BOM,IndiGo ,18:00,20:00,2h,"4,468",28-08-2025,Economy
+Air India - 2645,BLR,BOM,Air India ,21:25,23:35,2h 10m,"4,404",28-08-2025,Economy
+Air India - 2854,BLR,BOM,Air India ,17:55,20:05,2h 10m,"4,404",28-08-2025,Economy
+Air India - 2850,BLR,BOM,Air India ,20:25,22:35,2h 10m,"4,467",28-08-2025,Economy
+Air India - 2610,BLR,BOM,Air India ,18:45,21:00,2h 15m,"4,404",28-08-2025,Economy
+IndiGo - 5031,BLR,BOM,IndiGo ,16:50,18:40,1h 50m,"5,332",28-08-2025,Economy
+IndiGo - 458,BLR,BOM,IndiGo ,23:30,01:20,1h 50m,"5,332",28-08-2025,Economy
+IndiGo - 5295,BLR,BOM,IndiGo ,22:30,00:20,1h 50m,"5,332",28-08-2025,Economy
+IndiGo - 5094,BLR,BOM,IndiGo ,20:45,22:40,1h 55m,"5,332",28-08-2025,Economy
+Akasa Air - 1457,BOM,BLR,Akasa Air ,05:00,06:50,1h 50m,"3,195",29-08-2025,Economy
+Akasa Air - 1539,BOM,BLR,Akasa Air ,02:20,04:10,1h 50m,"3,550",29-08-2025,Economy
+Air India - 2863,BOM,BLR,Air India ,09:20,11:00,1h 40m,"4,199",29-08-2025,Economy
+Air India - 2845,BOM,BLR,Air India ,05:55,07:45,1h 50m,"3,954",29-08-2025,Economy
+Air India - 2603,BOM,BLR,Air India ,06:35,08:30,1h 55m,"3,954",29-08-2025,Economy
+IndiGo - 5193,BOM,BLR,IndiGo ,08:45,10:45,2h,"3,968",29-08-2025,Economy
+Akasa Air - 1543,BOM,BLR,Akasa Air ,08:10,10:10,2h,"4,049",29-08-2025,Economy
+Air India - 2812,BOM,BLR,Air India ,02:55,05:05,2h 10m,"3,776",29-08-2025,Economy
+Air India - 2851,BOM,BLR,Air India ,07:40,09:45,2h 05m,"4,129",29-08-2025,Economy
+Air India - 2632,BOM,BLR,Air India ,11:20,13:05,1h 45m,"4,954",29-08-2025,Economy
+SpiceJet - 540,BOM,BLR,SpiceJet ,01:35,03:30,1h 55m,"4,437",29-08-2025,Economy
+IndiGo - 439,BOM,BLR,IndiGo ,06:05,07:55,1h 50m,"4,801",29-08-2025,Economy
+IndiGo - 5217,BOM,BLR,IndiGo ,11:30,13:20,1h 50m,"4,801",29-08-2025,Economy
+IndiGo - 5159,BOM,BLR,IndiGo ,02:30,04:15,1h 45m,"4,801",29-08-2025,Economy
+IndiGo - 5212,BOM,BLR,IndiGo ,12:45,14:40,1h 55m,"4,801",29-08-2025,Economy
+IndiGo - 5296,BOM,BLR,IndiGo ,07:30,09:30,2h,"4,801",29-08-2025,Economy
+IndiGo - 5382,BOM,BLR,IndiGo ,14:00,16:05,2h 05m,"4,801",29-08-2025,Economy
+IndiGo - 5322,BOM,BLR,IndiGo ,00:05,02:05,2h,"4,801",29-08-2025,Economy
+IndiGo - 5092,BOM,BLR,IndiGo ,09:50,12:00,2h 10m,"4,801",29-08-2025,Economy
+Akasa Air - 1366,BLR,BOM,Akasa Air ,21:05,22:55,1h 50m,"4,373",29-08-2025,Economy
+Air India - 2840,BLR,BOM,Air India ,22:45,00:50,2h 05m,"4,022",29-08-2025,Economy
+Air India - 2864,BLR,BOM,Air India ,19:45,21:50,2h 05m,"4,404",29-08-2025,Economy
+Air India - 2854,BLR,BOM,Air India ,17:55,20:05,2h 10m,"4,404",29-08-2025,Economy
+Air India - 2850,BLR,BOM,Air India ,20:25,22:35,2h 10m,"4,467",29-08-2025,Economy
+Air India - 2610,BLR,BOM,Air India ,18:45,21:00,2h 15m,"4,404",29-08-2025,Economy
+IndiGo - 5351,BLR,BOM,IndiGo ,15:25,17:10,1h 45m,"5,332",29-08-2025,Economy
+IndiGo - 458,BLR,BOM,IndiGo ,23:30,01:20,1h 50m,"5,332",29-08-2025,Economy
+IndiGo - 5295,BLR,BOM,IndiGo ,22:30,00:20,1h 50m,"5,332",29-08-2025,Economy
+IndiGo - 5376,BLR,BOM,IndiGo ,19:15,21:05,1h 50m,"5,332",29-08-2025,Economy
+IndiGo - 5031,BLR,BOM,IndiGo ,16:50,18:40,1h 50m,"5,332",29-08-2025,Economy
+IndiGo - 5094,BLR,BOM,IndiGo ,20:45,22:40,1h 55m,"5,332",29-08-2025,Economy
+IndiGo - 5255,BLR,BOM,IndiGo ,18:00,20:00,2h,"5,332",29-08-2025,Economy
+Air India - 2645,BLR,BOM,Air India ,21:25,23:35,2h 10m,"5,852",29-08-2025,Economy
+Air India - 2863,BOM,BLR,Air India ,09:20,11:00,1h 40m,"4,199",30-08-2025,Economy
+Air India - 2845,BOM,BLR,Air India ,05:55,07:45,1h 50m,"3,954",30-08-2025,Economy
+Air India - 2632,BOM,BLR,Air India ,11:20,13:05,1h 45m,"4,235",30-08-2025,Economy
+Air India - 2603,BOM,BLR,Air India ,06:35,08:30,1h 55m,"3,954",30-08-2025,Economy
+IndiGo - 439,BOM,BLR,IndiGo ,06:05,07:55,1h 50m,"3,968",30-08-2025,Economy
+Air India - 2812,BOM,BLR,Air India ,02:55,05:05,2h 10m,"3,776",30-08-2025,Economy
+Air India - 2851,BOM,BLR,Air India ,07:40,09:45,2h 05m,"4,129",30-08-2025,Economy
+IndiGo - 5217,BOM,BLR,IndiGo ,11:30,13:20,1h 50m,"4,801",30-08-2025,Economy
+IndiGo - 5159,BOM,BLR,IndiGo ,02:30,04:15,1h 45m,"4,801",30-08-2025,Economy
+IndiGo - 5212,BOM,BLR,IndiGo ,12:45,14:40,1h 55m,"4,801",30-08-2025,Economy
+IndiGo - 5193,BOM,BLR,IndiGo ,08:45,10:45,2h,"4,801",30-08-2025,Economy
+IndiGo - 5296,BOM,BLR,IndiGo ,07:30,09:30,2h,"4,801",30-08-2025,Economy
+IndiGo - 5382,BOM,BLR,IndiGo ,14:00,16:05,2h 05m,"4,801",30-08-2025,Economy
+IndiGo - 5322,BOM,BLR,IndiGo ,00:05,02:05,2h,"4,801",30-08-2025,Economy
+IndiGo - 5092,BOM,BLR,IndiGo ,09:50,12:00,2h 10m,"4,801",30-08-2025,Economy
+IndiGo - 458,BLR,BOM,IndiGo ,23:30,01:20,1h 50m,"4,009",30-08-2025,Economy
+Air India - 2840,BLR,BOM,Air India ,22:45,00:50,2h 05m,"4,022",30-08-2025,Economy
+IndiGo - 5376,BLR,BOM,IndiGo ,19:15,21:05,1h 50m,"4,468",30-08-2025,Economy
+IndiGo - 5094,BLR,BOM,IndiGo ,20:45,22:40,1h 55m,"4,468",30-08-2025,Economy
+IndiGo - 5351,BLR,BOM,IndiGo ,15:25,17:10,1h 45m,"5,332",30-08-2025,Economy
+Air India - 2864,BLR,BOM,Air India ,19:45,21:50,2h 05m,"4,959",30-08-2025,Economy
+IndiGo - 5031,BLR,BOM,IndiGo ,16:50,18:40,1h 50m,"5,332",30-08-2025,Economy
+IndiGo - 5295,BLR,BOM,IndiGo ,22:30,00:20,1h 50m,"5,332",30-08-2025,Economy
+Air India - 2645,BLR,BOM,Air India ,21:25,23:35,2h 10m,"4,959",30-08-2025,Economy
+Air India - 2850,BLR,BOM,Air India ,20:25,22:35,2h 10m,"5,036",30-08-2025,Economy
+Air India - 2854,BLR,BOM,Air India ,17:55,20:05,2h 10m,"5,036",30-08-2025,Economy
+Air India - 2610,BLR,BOM,Air India ,18:45,21:00,2h 15m,"4,959",30-08-2025,Economy
+IndiGo - 5255,BLR,BOM,IndiGo ,18:00,20:00,2h,"5,332",30-08-2025,Economy
+Akasa Air - 1539,BOM,BLR,Akasa Air ,02:20,04:10,1h 50m,"3,797",30-08-2025,Economy
+Akasa Air - 1543,BOM,BLR,Akasa Air ,08:10,10:10,2h,"4,198",30-08-2025,Economy
+Akasa Air - 1366,BLR,BOM,Akasa Air ,21:05,22:55,1h 50m,"4,509",30-08-2025,Economy
+Akasa Air - 1544,BLR,BOM,Akasa Air ,15:15,17:10,1h 55m,"5,233",30-08-2025,Economy
+IndiGo - 5159,BOM,BLR,IndiGo ,02:30,04:15,1h 45m,"3,751",31-08-2025,Economy
+Air India - 2845,BOM,BLR,Air India ,05:55,07:45,1h 50m,"3,954",31-08-2025,Economy
+Air India - 2603,BOM,BLR,Air India ,06:35,08:30,1h 55m,"3,954",31-08-2025,Economy
+Air India - 2812,BOM,BLR,Air India ,02:55,05:05,2h 10m,"3,776",31-08-2025,Economy
+Air India - 2851,BOM,BLR,Air India ,07:40,09:45,2h 05m,"4,129",31-08-2025,Economy
+Akasa Air - 1539,BOM,BLR,Akasa Air ,02:20,04:10,1h 50m,"4,559",31-08-2025,Economy
+IndiGo - 439,BOM,BLR,IndiGo ,06:05,07:55,1h 50m,"4,801",31-08-2025,Economy
+IndiGo - 5351,BLR,BOM,IndiGo ,15:25,17:10,1h 45m,"5,332",31-08-2025,Economy
+IndiGo - 458,BLR,BOM,IndiGo ,23:30,01:20,1h 50m,"5,332",31-08-2025,Economy
+IndiGo - 5295,BLR,BOM,IndiGo ,22:30,00:20,1h 50m,"5,332",31-08-2025,Economy
+IndiGo - 5031,BLR,BOM,IndiGo ,16:50,18:40,1h 50m,"5,647",31-08-2025,Economy
+Air India - 2840,BLR,BOM,Air India ,22:45,00:50,2h 05m,"5,359",31-08-2025,Economy
+Akasa Air - 1544,BLR,BOM,Akasa Air ,15:15,17:10,1h 55m,"5,593",31-08-2025,Economy
+Air India - 2625,BOM,HYD,Air India ,06:00,07:25,1h 25m,"3,268",16-08-2025,Economy
+IndiGo - 6148,BOM,HYD,IndiGo ,05:45,07:10,1h 25m,"3,205",16-08-2025,Economy
+Air India - 2877,BOM,HYD,Air India ,10:05,11:35,1h 30m,"3,268",16-08-2025,Economy
+Air India - 2444,BOM,HYD,Air India ,11:00,12:30,1h 30m,"3,268",16-08-2025,Economy
+Air India - 2446,BOM,HYD,Air India ,15:00,16:30,1h 30m,"3,562",16-08-2025,Economy
+Air India - 2873,BOM,HYD,Air India ,07:00,08:40,1h 40m,"3,268",16-08-2025,Economy
+IndiGo - 5179,BOM,HYD,IndiGo ,02:45,04:20,1h 35m,"3,205",16-08-2025,Economy
+IndiGo - 5246,BOM,HYD,IndiGo ,07:20,08:50,1h 30m,"3,709",16-08-2025,Economy
+IndiGo - 5097,BOM,HYD,IndiGo ,11:55,13:35,1h 40m,"3,709",16-08-2025,Economy
+IndiGo - 5318,BOM,HYD,IndiGo ,10:00,11:40,1h 40m,"3,919",16-08-2025,Economy
+IndiGo - 5091,HYD,BOM,IndiGo ,18:20,20:00,1h 40m,"3,993",16-08-2025,Economy
+Air India - 2878,HYD,BOM,Air India ,15:35,17:35,2h,"4,035",16-08-2025,Economy
+IndiGo - 5259,HYD,BOM,IndiGo ,17:35,19:10,1h 35m,"5,032",16-08-2025,Economy
+IndiGo - 6132,HYD,BOM,IndiGo ,23:40,01:15,1h 35m,"5,032",16-08-2025,Economy
+IndiGo - 5203,HYD,BOM,IndiGo ,22:05,23:45,1h 40m,"5,032",16-08-2025,Economy
+IndiGo - 5039,HYD,BOM,IndiGo ,19:25,20:50,1h 25m,"7,972",16-08-2025,Economy
+Air India - 2447,HYD,BOM,Air India ,17:15,19:10,1h 55m,"7,414",16-08-2025,Economy
+Air India - 2876,HYD,BOM,Air India ,20:40,22:45,2h 05m,"8,357",16-08-2025,Economy
+Air India - 2625,BOM,HYD,Air India ,06:00,07:25,1h 25m,"3,268",17-08-2025,Economy
+IndiGo - 6148,BOM,HYD,IndiGo ,05:45,07:10,1h 25m,"3,205",17-08-2025,Economy
+Air India - 2877,BOM,HYD,Air India ,10:05,11:35,1h 30m,"3,268",17-08-2025,Economy
+Air India - 2444,BOM,HYD,Air India ,11:00,12:30,1h 30m,"3,268",17-08-2025,Economy
+IndiGo - 5246,BOM,HYD,IndiGo ,07:20,08:50,1h 30m,"3,205",17-08-2025,Economy
+Air India - 2873,BOM,HYD,Air India ,07:00,08:40,1h 40m,"3,268",17-08-2025,Economy
+IndiGo - 5179,BOM,HYD,IndiGo ,02:45,04:20,1h 35m,"3,205",17-08-2025,Economy
+Air India - 2446,BOM,HYD,Air India ,15:00,16:30,1h 30m,"3,877",17-08-2025,Economy
+IndiGo - 5318,BOM,HYD,IndiGo ,10:00,11:40,1h 40m,"3,919",17-08-2025,Economy
+IndiGo - 5097,BOM,HYD,IndiGo ,11:55,13:35,1h 40m,"4,549",17-08-2025,Economy
+IndiGo - 6132,HYD,BOM,IndiGo ,23:40,01:15,1h 35m,"7,972",17-08-2025,Economy
+Air India - 2878,HYD,BOM,Air India ,15:20,17:15,1h 55m,"8,357",17-08-2025,Economy
+Air India - 2625,BOM,HYD,Air India ,06:00,07:25,1h 25m,"3,268",18-08-2025,Economy
+Air India - 2444,BOM,HYD,Air India ,11:00,12:30,1h 30m,"3,268",18-08-2025,Economy
+Air India - 2446,BOM,HYD,Air India ,15:00,16:30,1h 30m,"3,562",18-08-2025,Economy
+Air India - 2873,BOM,HYD,Air India ,07:00,08:40,1h 40m,"3,268",18-08-2025,Economy
+IndiGo - 6148,BOM,HYD,IndiGo ,05:45,07:10,1h 25m,"3,919",18-08-2025,Economy
+Air India - 2877,BOM,HYD,Air India ,10:05,11:35,1h 30m,"4,192",18-08-2025,Economy
+IndiGo - 5179,BOM,HYD,IndiGo ,02:45,04:20,1h 35m,"3,919",18-08-2025,Economy
+IndiGo - 5097,BOM,HYD,IndiGo ,11:55,13:35,1h 40m,"3,919",18-08-2025,Economy
+IndiGo - 5246,BOM,HYD,IndiGo ,07:20,08:50,1h 30m,"4,549",18-08-2025,Economy
+IndiGo - 5318,BOM,HYD,IndiGo ,10:00,11:40,1h 40m,"4,549",18-08-2025,Economy
+Air India - 2878,HYD,BOM,Air India ,15:35,17:35,2h,"4,035",18-08-2025,Economy
+IndiGo - 6132,HYD,BOM,IndiGo ,23:40,01:15,1h 35m,"5,032",18-08-2025,Economy
+IndiGo - 5259,HYD,BOM,IndiGo ,17:35,19:10,1h 35m,"5,032",18-08-2025,Economy
+Air India Exp - 5236,HYD,BOM,Air India Exp ,19:40,21:20,1h 40m,"5,030",18-08-2025,Economy
+IndiGo - 5203,HYD,BOM,IndiGo ,22:05,23:45,1h 40m,"5,032",18-08-2025,Economy
+Air India - 2447,HYD,BOM,Air India ,17:15,19:05,1h 50m,"5,799",18-08-2025,Economy
+Air India - 2876,HYD,BOM,Air India ,20:40,22:45,2h 05m,"6,752",18-08-2025,Economy
+IndiGo - 5039,HYD,BOM,IndiGo ,19:25,20:50,1h 25m,"9,652",18-08-2025,Economy
+Air India - 2625,BOM,HYD,Air India ,06:00,07:25,1h 25m,"3,268",19-08-2025,Economy
+IndiGo - 6148,BOM,HYD,IndiGo ,05:45,07:10,1h 25m,"3,205",19-08-2025,Economy
+Air India - 2877,BOM,HYD,Air India ,10:05,11:35,1h 30m,"3,268",19-08-2025,Economy
+Air India - 2444,BOM,HYD,Air India ,11:00,12:30,1h 30m,"3,268",19-08-2025,Economy
+Air India - 2446,BOM,HYD,Air India ,15:00,16:30,1h 30m,"3,562",19-08-2025,Economy
+Air India - 2873,BOM,HYD,Air India ,07:00,08:40,1h 40m,"3,268",19-08-2025,Economy
+IndiGo - 5179,BOM,HYD,IndiGo ,02:45,04:20,1h 35m,"3,205",19-08-2025,Economy
+IndiGo - 5097,BOM,HYD,IndiGo ,11:55,13:35,1h 40m,"3,205",19-08-2025,Economy
+IndiGo - 5246,BOM,HYD,IndiGo ,07:20,08:50,1h 30m,"3,919",19-08-2025,Economy
+IndiGo - 5318,BOM,HYD,IndiGo ,10:00,11:40,1h 40m,"3,919",19-08-2025,Economy
+Air India - 2878,HYD,BOM,Air India ,15:35,17:35,2h,"4,035",19-08-2025,Economy
+IndiGo - 5039,HYD,BOM,IndiGo ,19:25,20:50,1h 25m,"5,347",19-08-2025,Economy
+IndiGo - 6132,HYD,BOM,IndiGo ,23:40,01:15,1h 35m,"5,032",19-08-2025,Economy
+IndiGo - 5259,HYD,BOM,IndiGo ,17:35,19:10,1h 35m,"5,032",19-08-2025,Economy
+IndiGo - 5203,HYD,BOM,IndiGo ,22:05,23:45,1h 40m,"5,032",19-08-2025,Economy
+Air India - 2447,HYD,BOM,Air India ,17:15,19:05,1h 50m,"4,959",19-08-2025,Economy
+Air India - 2876,HYD,BOM,Air India ,20:40,22:45,2h 05m,"6,497",19-08-2025,Economy
+Air India - 2625,BOM,HYD,Air India ,06:00,07:25,1h 25m,"3,268",20-08-2025,Economy
+IndiGo - 6148,BOM,HYD,IndiGo ,05:45,07:10,1h 25m,"3,205",20-08-2025,Economy
+Air India - 2877,BOM,HYD,Air India ,10:05,11:35,1h 30m,"3,268",20-08-2025,Economy
+Air India - 2444,BOM,HYD,Air India ,11:00,12:30,1h 30m,"3,268",20-08-2025,Economy
+Air India - 2446,BOM,HYD,Air India ,15:00,16:30,1h 30m,"3,562",20-08-2025,Economy
+Air India - 2873,BOM,HYD,Air India ,07:00,08:40,1h 40m,"3,268",20-08-2025,Economy
+IndiGo - 5179,BOM,HYD,IndiGo ,02:45,04:20,1h 35m,"3,205",20-08-2025,Economy
+IndiGo - 5318,BOM,HYD,IndiGo ,10:00,11:40,1h 40m,"3,205",20-08-2025,Economy
+IndiGo - 5097,BOM,HYD,IndiGo ,11:55,13:35,1h 40m,"3,205",20-08-2025,Economy
+IndiGo - 5246,BOM,HYD,IndiGo ,07:20,08:50,1h 30m,"3,919",20-08-2025,Economy
+IndiGo - 6132,HYD,BOM,IndiGo ,23:40,01:15,1h 35m,"3,993",20-08-2025,Economy
+Air India Exp - 5236,HYD,BOM,Air India Exp ,19:40,21:20,1h 40m,"4,289",20-08-2025,Economy
+Air India - 2878,HYD,BOM,Air India ,15:20,17:15,1h 55m,"4,035",20-08-2025,Economy
+Air India - 2447,HYD,BOM,Air India ,17:15,19:05,1h 50m,"4,329",20-08-2025,Economy
+IndiGo - 5259,HYD,BOM,IndiGo ,17:35,19:10,1h 35m,"5,032",20-08-2025,Economy
+IndiGo - 5203,HYD,BOM,IndiGo ,22:05,23:45,1h 40m,"5,032",20-08-2025,Economy
+IndiGo - 5039,HYD,BOM,IndiGo ,19:25,20:50,1h 25m,"7,237",20-08-2025,Economy
+Air India - 2876,HYD,BOM,Air India ,20:40,22:45,2h 05m,"8,025",20-08-2025,Economy
+Air India - 2625,BOM,HYD,Air India ,06:00,07:25,1h 25m,"3,268",21-08-2025,Economy
+IndiGo - 6148,BOM,HYD,IndiGo ,05:45,07:10,1h 25m,"3,205",21-08-2025,Economy
+Air India - 2877,BOM,HYD,Air India ,10:05,11:35,1h 30m,"3,268",21-08-2025,Economy
+Air India - 2444,BOM,HYD,Air India ,11:00,12:30,1h 30m,"3,268",21-08-2025,Economy
+IndiGo - 5246,BOM,HYD,IndiGo ,07:20,08:50,1h 30m,"3,205",21-08-2025,Economy
+Air India - 2446,BOM,HYD,Air India ,15:00,16:30,1h 30m,"3,562",21-08-2025,Economy
+Air India - 2873,BOM,HYD,Air India ,07:00,08:40,1h 40m,"3,268",21-08-2025,Economy
+IndiGo - 5179,BOM,HYD,IndiGo ,02:45,04:20,1h 35m,"3,205",21-08-2025,Economy
+IndiGo - 5097,BOM,HYD,IndiGo ,11:55,13:35,1h 40m,"3,205",21-08-2025,Economy
+IndiGo - 5318,BOM,HYD,IndiGo ,10:00,11:40,1h 40m,"3,919",21-08-2025,Economy
+Air India - 2447,HYD,BOM,Air India ,17:15,19:05,1h 50m,"4,388",21-08-2025,Economy
+Air India - 2878,HYD,BOM,Air India ,15:35,17:35,2h,"4,035",21-08-2025,Economy
+IndiGo - 6132,HYD,BOM,IndiGo ,23:40,01:15,1h 35m,"5,032",21-08-2025,Economy
+IndiGo - 5259,HYD,BOM,IndiGo ,17:35,19:10,1h 35m,"5,032",21-08-2025,Economy
+IndiGo - 5203,HYD,BOM,IndiGo ,22:05,23:45,1h 40m,"5,032",21-08-2025,Economy
+IndiGo - 5039,HYD,BOM,IndiGo ,19:25,20:50,1h 25m,"7,237",21-08-2025,Economy
+Air India - 2876,HYD,BOM,Air India ,20:40,22:45,2h 05m,"8,025",21-08-2025,Economy
+Air India - 2625,BOM,HYD,Air India ,06:00,07:25,1h 25m,"3,268",22-08-2025,Economy
+IndiGo - 6148,BOM,HYD,IndiGo ,05:45,07:10,1h 25m,"3,205",22-08-2025,Economy
+Air India - 2877,BOM,HYD,Air India ,10:05,11:35,1h 30m,"3,268",22-08-2025,Economy
+Air India - 2444,BOM,HYD,Air India ,11:00,12:30,1h 30m,"3,268",22-08-2025,Economy
+IndiGo - 5246,BOM,HYD,IndiGo ,07:20,08:50,1h 30m,"3,205",22-08-2025,Economy
+Air India - 2446,BOM,HYD,Air India ,15:00,16:30,1h 30m,"3,562",22-08-2025,Economy
+IndiGo - 6132,HYD,BOM,IndiGo ,23:40,01:15,1h 35m,"3,993",22-08-2025,Economy
+Air India - 2878,HYD,BOM,Air India ,15:35,17:35,2h,"4,035",22-08-2025,Economy
+IndiGo - 5259,HYD,BOM,IndiGo ,17:35,19:10,1h 35m,"5,032",22-08-2025,Economy
+Air India - 2447,HYD,BOM,Air India ,17:15,19:10,1h 55m,"4,476",22-08-2025,Economy
+Air India - 2873,BOM,HYD,Air India ,07:00,08:40,1h 40m,"3,268",22-08-2025,Economy
+IndiGo - 5097,BOM,HYD,IndiGo ,11:55,13:35,1h 40m,"3,205",22-08-2025,Economy
+IndiGo - 5318,BOM,HYD,IndiGo ,10:00,11:40,1h 40m,"3,205",22-08-2025,Economy
+IndiGo - 5179,BOM,HYD,IndiGo ,02:45,04:20,1h 35m,"3,709",22-08-2025,Economy
+IndiGo - 5203,HYD,BOM,IndiGo ,22:05,23:45,1h 40m,"5,032",22-08-2025,Economy
+Air India Exp - 5236,HYD,BOM,Air India Exp ,19:40,21:20,1h 40m,"6,179",22-08-2025,Economy
+IndiGo - 5039,HYD,BOM,IndiGo ,19:25,20:50,1h 25m,"7,237",22-08-2025,Economy
+Air India - 2876,HYD,BOM,Air India ,20:40,22:45,2h 05m,"8,025",22-08-2025,Economy
+Air India - 2625,BOM,HYD,Air India ,06:00,07:25,1h 25m,"3,268",23-08-2025,Economy
+IndiGo - 6148,BOM,HYD,IndiGo ,05:45,07:10,1h 25m,"3,205",23-08-2025,Economy
+Air India - 2877,BOM,HYD,Air India ,10:05,11:35,1h 30m,"3,268",23-08-2025,Economy
+Air India - 2444,BOM,HYD,Air India ,11:00,12:30,1h 30m,"3,268",23-08-2025,Economy
+Air India - 2446,BOM,HYD,Air India ,15:00,16:30,1h 30m,"3,562",23-08-2025,Economy
+Air India - 2873,BOM,HYD,Air India ,07:00,08:40,1h 40m,"3,268",23-08-2025,Economy
+IndiGo - 5179,BOM,HYD,IndiGo ,02:45,04:20,1h 35m,"3,205",23-08-2025,Economy
+IndiGo - 5097,BOM,HYD,IndiGo ,11:55,13:35,1h 40m,"3,205",23-08-2025,Economy
+IndiGo - 5246,BOM,HYD,IndiGo ,07:20,08:50,1h 30m,"3,919",23-08-2025,Economy
+IndiGo - 5318,BOM,HYD,IndiGo ,10:00,11:40,1h 40m,"6,439",23-08-2025,Economy
+IndiGo - 5259,HYD,BOM,IndiGo ,17:35,19:10,1h 35m,"3,993",23-08-2025,Economy
+IndiGo - 5091,HYD,BOM,IndiGo ,18:20,20:00,1h 40m,"3,993",23-08-2025,Economy
+IndiGo - 6132,HYD,BOM,IndiGo ,23:40,01:15,1h 35m,"4,507",23-08-2025,Economy
+IndiGo - 5039,HYD,BOM,IndiGo ,19:25,20:50,1h 25m,"5,032",23-08-2025,Economy
+Air India - 2878,HYD,BOM,Air India ,15:35,17:35,2h,"4,035",23-08-2025,Economy
+Air India - 2447,HYD,BOM,Air India ,17:15,19:10,1h 55m,"4,329",23-08-2025,Economy
+IndiGo - 5203,HYD,BOM,IndiGo ,22:05,23:45,1h 40m,"5,032",23-08-2025,Economy
+Air India - 2876,HYD,BOM,Air India ,20:40,22:45,2h 05m,"10,775",23-08-2025,Economy
+Air India - 2625,BOM,HYD,Air India ,06:00,07:25,1h 25m,"3,268",24-08-2025,Economy
+IndiGo - 6148,BOM,HYD,IndiGo ,05:45,07:10,1h 25m,"3,205",24-08-2025,Economy
+Air India - 2877,BOM,HYD,Air India ,10:05,11:35,1h 30m,"3,268",24-08-2025,Economy
+Air India - 2444,BOM,HYD,Air India ,11:00,12:30,1h 30m,"3,268",24-08-2025,Economy
+IndiGo - 5246,BOM,HYD,IndiGo ,07:20,08:50,1h 30m,"3,205",24-08-2025,Economy
+Air India - 2446,BOM,HYD,Air India ,15:00,16:30,1h 30m,"3,562",24-08-2025,Economy
+Air India - 2873,BOM,HYD,Air India ,07:00,08:40,1h 40m,"3,268",24-08-2025,Economy
+IndiGo - 5179,BOM,HYD,IndiGo ,02:45,04:20,1h 35m,"3,205",24-08-2025,Economy
+IndiGo - 5318,BOM,HYD,IndiGo ,10:00,11:40,1h 40m,"3,205",24-08-2025,Economy
+IndiGo - 5097,BOM,HYD,IndiGo ,11:55,13:35,1h 40m,"3,919",24-08-2025,Economy
+IndiGo - 6132,HYD,BOM,IndiGo ,23:40,01:15,1h 35m,"3,993",24-08-2025,Economy
+IndiGo - 5039,HYD,BOM,IndiGo ,19:25,20:50,1h 25m,"5,032",24-08-2025,Economy
+Air India Exp - 5236,HYD,BOM,Air India Exp ,19:40,21:20,1h 40m,"4,471",24-08-2025,Economy
+Air India - 2878,HYD,BOM,Air India ,15:20,17:15,1h 55m,"4,035",24-08-2025,Economy
+IndiGo - 5259,HYD,BOM,IndiGo ,17:35,19:10,1h 35m,"5,032",24-08-2025,Economy
+Air India - 2447,HYD,BOM,Air India ,17:15,19:10,1h 55m,"4,476",24-08-2025,Economy
+IndiGo - 5203,HYD,BOM,IndiGo ,22:05,23:45,1h 40m,"5,032",24-08-2025,Economy
+Air India - 2876,HYD,BOM,Air India ,20:40,22:45,2h 05m,"8,025",24-08-2025,Economy
+Air India - 2625,BOM,HYD,Air India ,06:00,07:25,1h 25m,"3,268",25-08-2025,Economy
+IndiGo - 6148,BOM,HYD,IndiGo ,05:45,07:10,1h 25m,"3,205",25-08-2025,Economy
+Air India - 2877,BOM,HYD,Air India ,10:05,11:35,1h 30m,"3,268",25-08-2025,Economy
+Air India - 2444,BOM,HYD,Air India ,11:00,12:30,1h 30m,"3,268",25-08-2025,Economy
+IndiGo - 5246,BOM,HYD,IndiGo ,07:20,08:50,1h 30m,"3,205",25-08-2025,Economy
+Air India - 2446,BOM,HYD,Air India ,15:00,16:30,1h 30m,"3,562",25-08-2025,Economy
+Air India - 2873,BOM,HYD,Air India ,07:00,08:40,1h 40m,"3,268",25-08-2025,Economy
+IndiGo - 5179,BOM,HYD,IndiGo ,02:45,04:20,1h 35m,"3,205",25-08-2025,Economy
+IndiGo - 5318,BOM,HYD,IndiGo ,10:00,11:40,1h 40m,"3,205",25-08-2025,Economy
+IndiGo - 5097,BOM,HYD,IndiGo ,11:55,13:35,1h 40m,"3,205",25-08-2025,Economy
+IndiGo - 6132,HYD,BOM,IndiGo ,23:40,01:15,1h 35m,"3,993",25-08-2025,Economy
+Air India Exp - 5236,HYD,BOM,Air India Exp ,19:40,21:20,1h 40m,"3,990",25-08-2025,Economy
+IndiGo - 5039,HYD,BOM,IndiGo ,19:25,20:50,1h 25m,"5,032",25-08-2025,Economy
+Air India - 2447,HYD,BOM,Air India ,17:15,19:05,1h 50m,"4,329",25-08-2025,Economy
+Air India - 2878,HYD,BOM,Air India ,15:35,17:35,2h,"4,035",25-08-2025,Economy
+IndiGo - 5259,HYD,BOM,IndiGo ,17:35,19:10,1h 35m,"5,032",25-08-2025,Economy
+IndiGo - 5203,HYD,BOM,IndiGo ,22:05,23:45,1h 40m,"5,032",25-08-2025,Economy
+Air India - 2876,HYD,BOM,Air India ,20:40,22:45,2h 05m,"5,274",25-08-2025,Economy
+Air India - 2625,BOM,HYD,Air India ,06:00,07:25,1h 25m,"3,268",26-08-2025,Economy
+IndiGo - 6148,BOM,HYD,IndiGo ,05:45,07:10,1h 25m,"3,205",26-08-2025,Economy
+Air India - 2877,BOM,HYD,Air India ,10:05,11:35,1h 30m,"3,268",26-08-2025,Economy
+Air India - 2444,BOM,HYD,Air India ,11:00,12:30,1h 30m,"3,268",26-08-2025,Economy
+Air India - 2446,BOM,HYD,Air India ,15:00,16:30,1h 30m,"3,562",26-08-2025,Economy
+Air India - 2873,BOM,HYD,Air India ,07:00,08:40,1h 40m,"3,268",26-08-2025,Economy
+IndiGo - 5179,BOM,HYD,IndiGo ,02:45,04:20,1h 35m,"3,205",26-08-2025,Economy
+IndiGo - 5318,BOM,HYD,IndiGo ,10:00,11:40,1h 40m,"3,205",26-08-2025,Economy
+IndiGo - 5246,BOM,HYD,IndiGo ,07:20,08:50,1h 30m,"3,919",26-08-2025,Economy
+IndiGo - 5097,BOM,HYD,IndiGo ,11:55,13:35,1h 40m,"3,919",26-08-2025,Economy
+IndiGo - 6132,HYD,BOM,IndiGo ,23:40,01:15,1h 35m,"3,993",26-08-2025,Economy
+Air India - 2447,HYD,BOM,Air India ,17:15,19:05,1h 50m,"4,329",26-08-2025,Economy
+Air India - 2878,HYD,BOM,Air India ,15:35,17:35,2h,"4,035",26-08-2025,Economy
+IndiGo - 5259,HYD,BOM,IndiGo ,17:35,19:10,1h 35m,"5,032",26-08-2025,Economy
+IndiGo - 5203,HYD,BOM,IndiGo ,22:05,23:45,1h 40m,"5,032",26-08-2025,Economy
+IndiGo - 5039,HYD,BOM,IndiGo ,19:25,20:50,1h 25m,"7,237",26-08-2025,Economy
+Air India - 2876,HYD,BOM,Air India ,20:40,22:45,2h 05m,"7,127",26-08-2025,Economy
+Air India - 2625,BOM,HYD,Air India ,06:00,07:25,1h 25m,"3,268",27-08-2025,Economy
+IndiGo - 6148,BOM,HYD,IndiGo ,05:45,07:10,1h 25m,"3,205",27-08-2025,Economy
+Air India - 2877,BOM,HYD,Air India ,10:05,11:35,1h 30m,"3,268",27-08-2025,Economy
+Air India - 2444,BOM,HYD,Air India ,11:00,12:30,1h 30m,"3,268",27-08-2025,Economy
+Air India - 2446,BOM,HYD,Air India ,15:00,16:30,1h 30m,"3,562",27-08-2025,Economy
+Air India - 2873,BOM,HYD,Air India ,07:00,08:40,1h 40m,"3,268",27-08-2025,Economy
+IndiGo - 5179,BOM,HYD,IndiGo ,02:45,04:20,1h 35m,"3,205",27-08-2025,Economy
+IndiGo - 5246,BOM,HYD,IndiGo ,07:20,08:50,1h 30m,"3,919",27-08-2025,Economy
+IndiGo - 5318,BOM,HYD,IndiGo ,10:00,11:40,1h 40m,"3,919",27-08-2025,Economy
+IndiGo - 5097,BOM,HYD,IndiGo ,11:55,13:35,1h 40m,"3,919",27-08-2025,Economy
+IndiGo - 6132,HYD,BOM,IndiGo ,23:40,01:15,1h 35m,"3,993",27-08-2025,Economy
+Air India Exp - 5236,HYD,BOM,Air India Exp ,19:40,21:20,1h 40m,"3,990",27-08-2025,Economy
+IndiGo - 5039,HYD,BOM,IndiGo ,19:25,20:50,1h 25m,"5,032",27-08-2025,Economy
+Air India - 2878,HYD,BOM,Air India ,15:20,17:15,1h 55m,"4,035",27-08-2025,Economy
+Air India - 2447,HYD,BOM,Air India ,17:15,19:05,1h 50m,"4,329",27-08-2025,Economy
+IndiGo - 5259,HYD,BOM,IndiGo ,17:35,19:10,1h 35m,"5,032",27-08-2025,Economy
+IndiGo - 5203,HYD,BOM,IndiGo ,22:05,23:45,1h 40m,"5,032",27-08-2025,Economy
+Air India - 2876,HYD,BOM,Air India ,20:40,22:45,2h 05m,"4,959",27-08-2025,Economy
+Air India - 2625,BOM,HYD,Air India ,06:00,07:25,1h 25m,"3,268",28-08-2025,Economy
+IndiGo - 6148,BOM,HYD,IndiGo ,05:45,07:10,1h 25m,"3,205",28-08-2025,Economy
+Air India - 2877,BOM,HYD,Air India ,10:05,11:35,1h 30m,"3,268",28-08-2025,Economy
+Air India - 2444,BOM,HYD,Air India ,11:00,12:30,1h 30m,"3,268",28-08-2025,Economy
+Air India - 2446,BOM,HYD,Air India ,15:00,16:30,1h 30m,"3,562",28-08-2025,Economy
+Air India - 2873,BOM,HYD,Air India ,07:00,08:40,1h 40m,"3,268",28-08-2025,Economy
+IndiGo - 5179,BOM,HYD,IndiGo ,02:45,04:20,1h 35m,"3,205",28-08-2025,Economy
+IndiGo - 5318,BOM,HYD,IndiGo ,10:00,11:40,1h 40m,"3,205",28-08-2025,Economy
+IndiGo - 5246,BOM,HYD,IndiGo ,07:20,08:50,1h 30m,"3,919",28-08-2025,Economy
+IndiGo - 5097,BOM,HYD,IndiGo ,11:55,13:35,1h 40m,"3,919",28-08-2025,Economy
+IndiGo - 5039,HYD,BOM,IndiGo ,19:25,20:50,1h 25m,"5,032",28-08-2025,Economy
+Air India - 2447,HYD,BOM,Air India ,17:15,19:05,1h 50m,"4,388",28-08-2025,Economy
+Air India - 2878,HYD,BOM,Air India ,15:35,17:35,2h,"4,035",28-08-2025,Economy
+IndiGo - 6132,HYD,BOM,IndiGo ,23:40,01:15,1h 35m,"5,032",28-08-2025,Economy
+IndiGo - 5259,HYD,BOM,IndiGo ,17:35,19:10,1h 35m,"5,032",28-08-2025,Economy
+IndiGo - 5203,HYD,BOM,IndiGo ,22:05,23:45,1h 40m,"5,032",28-08-2025,Economy
+Air India - 2876,HYD,BOM,Air India ,20:40,22:45,2h 05m,"5,589",28-08-2025,Economy
+Air India - 2625,BOM,HYD,Air India ,06:00,07:25,1h 25m,"3,268",29-08-2025,Economy
+IndiGo - 6148,BOM,HYD,IndiGo ,05:45,07:10,1h 25m,"3,205",29-08-2025,Economy
+Air India - 2877,BOM,HYD,Air India ,10:05,11:35,1h 30m,"3,268",29-08-2025,Economy
+Air India - 2444,BOM,HYD,Air India ,11:00,12:30,1h 30m,"3,268",29-08-2025,Economy
+Air India - 2446,BOM,HYD,Air India ,15:00,16:30,1h 30m,"3,562",29-08-2025,Economy
+Air India - 2873,BOM,HYD,Air India ,07:00,08:40,1h 40m,"3,268",29-08-2025,Economy
+IndiGo - 5179,BOM,HYD,IndiGo ,02:45,04:20,1h 35m,"3,205",29-08-2025,Economy
+IndiGo - 5318,BOM,HYD,IndiGo ,10:00,11:40,1h 40m,"3,919",29-08-2025,Economy
+IndiGo - 5097,BOM,HYD,IndiGo ,11:55,13:35,1h 40m,"3,919",29-08-2025,Economy
+IndiGo - 5246,BOM,HYD,IndiGo ,07:20,08:50,1h 30m,"7,909",29-08-2025,Economy
+IndiGo - 5039,HYD,BOM,IndiGo ,19:25,20:50,1h 25m,"5,032",29-08-2025,Economy
+Air India - 2878,HYD,BOM,Air India ,15:35,17:35,2h,"4,035",29-08-2025,Economy
+IndiGo - 6132,HYD,BOM,IndiGo ,23:40,01:15,1h 35m,"5,032",29-08-2025,Economy
+IndiGo - 5259,HYD,BOM,IndiGo ,17:35,19:10,1h 35m,"5,032",29-08-2025,Economy
+Air India - 2447,HYD,BOM,Air India ,17:15,19:10,1h 55m,"4,476",29-08-2025,Economy
+IndiGo - 5203,HYD,BOM,IndiGo ,22:05,23:45,1h 40m,"5,032",29-08-2025,Economy
+Air India Exp - 5236,HYD,BOM,Air India Exp ,19:40,21:20,1h 40m,"6,179",29-08-2025,Economy
+Air India - 2876,HYD,BOM,Air India ,20:40,22:45,2h 05m,"5,972",29-08-2025,Economy
+IndiGo - 5122,BOM,CCU,IndiGo ,05:40,08:25,2h 45m,"4,349",16-08-2025,Economy
+Air India - 2771,BOM,CCU,Air India ,06:45,09:30,2h 45m,"4,699",16-08-2025,Economy
+Air India - 2471,BOM,CCU,Air India ,11:40,14:30,2h 50m,"4,699",16-08-2025,Economy
+Akasa Air - 1172,BOM,CCU,Akasa Air ,00:35,03:30,2h 55m,"4,275",16-08-2025,Economy
+IndiGo - 5329,BOM,CCU,IndiGo ,08:00,10:45,2h 45m,"4,852",16-08-2025,Economy
+Air India - 2773,BOM,CCU,Air India ,13:50,16:50,3h,"4,699",16-08-2025,Economy
+IndiGo - 5165,BOM,CCU,IndiGo ,10:05,12:55,2h 50m,"4,852",16-08-2025,Economy
+IndiGo - 5395,BOM,CCU,IndiGo ,12:50,15:35,2h 45m,"5,063",16-08-2025,Economy
+IndiGo - 138,BOM,CCU,IndiGo ,02:45,05:30,2h 45m,"5,273",16-08-2025,Economy
+Akasa Air - 1141,CCU,BOM,Akasa Air ,22:40,01:20,2h 40m,"4,990",16-08-2025,Economy
+Akasa Air - 1125,CCU,BOM,Akasa Air ,21:05,23:55,2h 50m,"5,299",16-08-2025,Economy
+Air India - 2410,CCU,BOM,Air India ,22:15,01:20,3h 05m,"5,239",16-08-2025,Economy
+SpiceJet - 720,CCU,BOM,SpiceJet ,23:35,02:35,3h,"5,442",16-08-2025,Economy
+IndiGo - 115,CCU,BOM,IndiGo ,22:15,01:00,2h 45m,"6,153",16-08-2025,Economy
+IndiGo - 5128,CCU,BOM,IndiGo ,19:05,22:05,3h,"7,121",16-08-2025,Economy
+IndiGo - 6206,CCU,BOM,IndiGo ,16:20,19:15,2h 55m,"7,270",16-08-2025,Economy
+Air India - 2472,CCU,BOM,Air India ,15:10,18:10,3h,"8,098",16-08-2025,Economy
+Air India - 2774,CCU,BOM,Air India ,17:30,20:25,2h 55m,"9,195",16-08-2025,Economy
+IndiGo - 5122,BOM,CCU,IndiGo ,05:40,08:25,2h 45m,"4,349",17-08-2025,Economy
+Air India - 2771,BOM,CCU,Air India ,06:45,09:30,2h 45m,"4,699",17-08-2025,Economy
+Akasa Air - 1172,BOM,CCU,Akasa Air ,00:35,03:30,2h 55m,"4,368",17-08-2025,Economy
+IndiGo - 5329,BOM,CCU,IndiGo ,08:00,10:45,2h 45m,"4,852",17-08-2025,Economy
+IndiGo - 5165,BOM,CCU,IndiGo ,10:05,12:55,2h 50m,"4,852",17-08-2025,Economy
+Air India - 2471,BOM,CCU,Air India ,11:40,14:30,2h 50m,"5,106",17-08-2025,Economy
+IndiGo - 138,BOM,CCU,IndiGo ,02:45,05:30,2h 45m,"5,273",17-08-2025,Economy
+Air India - 2773,BOM,CCU,Air India ,13:50,16:50,3h,"5,507",17-08-2025,Economy
+IndiGo - 5395,BOM,CCU,IndiGo ,12:50,15:35,2h 45m,"6,158",17-08-2025,Economy
+SpiceJet - 720,CCU,BOM,SpiceJet ,23:35,02:35,3h,"8,258",17-08-2025,Economy
+Akasa Air - 1141,CCU,BOM,Akasa Air ,22:40,01:20,2h 40m,"9,500",17-08-2025,Economy
+IndiGo - 115,CCU,BOM,IndiGo ,22:15,01:00,2h 45m,"10,592",17-08-2025,Economy
+Akasa Air - 1125,CCU,BOM,Akasa Air ,21:05,23:55,2h 50m,"10,715",17-08-2025,Economy
+Air India - 2410,CCU,BOM,Air India ,22:15,01:20,3h 05m,"10,664",17-08-2025,Economy
+IndiGo - 5128,CCU,BOM,IndiGo ,19:05,22:05,3h,"11,654",17-08-2025,Economy
+IndiGo - 6206,CCU,BOM,IndiGo ,16:20,19:15,2h 55m,"12,241",17-08-2025,Economy
+Air India - 2472,CCU,BOM,Air India ,15:10,18:10,3h,"13,231",17-08-2025,Economy
+Akasa Air - 1172,BOM,CCU,Akasa Air ,00:35,03:30,2h 55m,"4,368",18-08-2025,Economy
+Air India - 2773,BOM,CCU,Air India ,13:50,16:50,3h,"4,699",18-08-2025,Economy
+IndiGo - 5165,BOM,CCU,IndiGo ,10:05,12:55,2h 50m,"4,852",18-08-2025,Economy
+Air India - 2471,BOM,CCU,Air India ,11:40,14:30,2h 50m,"5,106",18-08-2025,Economy
+Air India - 2771,BOM,CCU,Air India ,06:45,09:30,2h 45m,"5,507",18-08-2025,Economy
+IndiGo - 5395,BOM,CCU,IndiGo ,12:50,15:35,2h 45m,"5,581",18-08-2025,Economy
+IndiGo - 5329,BOM,CCU,IndiGo ,08:00,10:45,2h 45m,"5,586",18-08-2025,Economy
+IndiGo - 138,BOM,CCU,IndiGo ,02:45,05:30,2h 45m,"5,800",18-08-2025,Economy
+IndiGo - 5122,BOM,CCU,IndiGo ,05:40,08:25,2h 45m,"6,158",18-08-2025,Economy
+Akasa Air - 1141,CCU,BOM,Akasa Air ,22:40,01:20,2h 40m,"5,179",18-08-2025,Economy
+Air India - 2410,CCU,BOM,Air India ,22:15,01:20,3h 05m,"5,239",18-08-2025,Economy
+SpiceJet - 720,CCU,BOM,SpiceJet ,23:35,02:35,3h,"5,442",18-08-2025,Economy
+IndiGo - 115,CCU,BOM,IndiGo ,22:15,01:00,2h 45m,"6,153",18-08-2025,Economy
+Akasa Air - 1125,CCU,BOM,Akasa Air ,21:05,23:55,2h 50m,"6,849",18-08-2025,Economy
+IndiGo - 6206,CCU,BOM,IndiGo ,16:20,19:15,2h 55m,"7,906",18-08-2025,Economy
+IndiGo - 5128,CCU,BOM,IndiGo ,19:05,22:05,3h,"8,357",18-08-2025,Economy
+Air India - 2472,CCU,BOM,Air India ,15:10,18:10,3h,"9,195",18-08-2025,Economy
+Air India - 2774,CCU,BOM,Air India ,17:30,20:25,2h 55m,"10,664",18-08-2025,Economy
+IndiGo - 5122,BOM,CCU,IndiGo ,05:40,08:25,2h 45m,"4,349",19-08-2025,Economy
+Air India - 2771,BOM,CCU,Air India ,06:45,09:30,2h 45m,"4,699",19-08-2025,Economy
+IndiGo - 138,BOM,CCU,IndiGo ,02:45,05:30,2h 45m,"4,349",19-08-2025,Economy
+Air India - 2471,BOM,CCU,Air India ,11:40,14:30,2h 50m,"4,699",19-08-2025,Economy
+Akasa Air - 1172,BOM,CCU,Akasa Air ,00:35,03:30,2h 55m,"4,275",19-08-2025,Economy
+Air India - 2773,BOM,CCU,Air India ,13:50,16:50,3h,"4,699",19-08-2025,Economy
+IndiGo - 5395,BOM,CCU,IndiGo ,12:50,15:35,2h 45m,"5,063",19-08-2025,Economy
+IndiGo - 5329,BOM,CCU,IndiGo ,08:00,10:45,2h 45m,"5,063",19-08-2025,Economy
+IndiGo - 5165,BOM,CCU,IndiGo ,10:05,12:55,2h 50m,"5,063",19-08-2025,Economy
+Akasa Air - 1141,CCU,BOM,Akasa Air ,22:40,01:20,2h 40m,"4,811",19-08-2025,Economy
+IndiGo - 115,CCU,BOM,IndiGo ,22:15,01:00,2h 45m,"5,097",19-08-2025,Economy
+Akasa Air - 1125,CCU,BOM,Akasa Air ,21:05,23:55,2h 50m,"5,066",19-08-2025,Economy
+Air India - 2410,CCU,BOM,Air India ,22:15,01:20,3h 05m,"5,239",19-08-2025,Economy
+SpiceJet - 720,CCU,BOM,SpiceJet ,23:35,02:35,3h,"5,442",19-08-2025,Economy
+Air India - 2472,CCU,BOM,Air India ,15:10,18:10,3h,"6,149",19-08-2025,Economy
+IndiGo - 6206,CCU,BOM,IndiGo ,16:20,19:15,2h 55m,"6,153",19-08-2025,Economy
+IndiGo - 5128,CCU,BOM,IndiGo ,19:05,22:05,3h,"6,711",19-08-2025,Economy
+Air India - 2774,CCU,BOM,Air India ,17:30,20:25,2h 55m,"7,249",19-08-2025,Economy
+IndiGo - 5122,BOM,CCU,IndiGo ,05:40,08:25,2h 45m,"4,349",20-08-2025,Economy
+IndiGo - 5329,BOM,CCU,IndiGo ,08:00,10:45,2h 45m,"4,349",20-08-2025,Economy
+IndiGo - 5165,BOM,CCU,IndiGo ,10:05,12:55,2h 50m,"4,349",20-08-2025,Economy
+Air India - 2771,BOM,CCU,Air India ,06:45,09:30,2h 45m,"4,699",20-08-2025,Economy
+IndiGo - 138,BOM,CCU,IndiGo ,02:45,05:30,2h 45m,"4,349",20-08-2025,Economy
+Air India - 2471,BOM,CCU,Air India ,11:40,14:30,2h 50m,"4,699",20-08-2025,Economy
+Akasa Air - 1141,CCU,BOM,Akasa Air ,22:40,01:20,2h 40m,"4,700",20-08-2025,Economy
+IndiGo - 115,CCU,BOM,IndiGo ,22:15,01:00,2h 45m,"5,097",20-08-2025,Economy
+Akasa Air - 1125,CCU,BOM,Akasa Air ,21:05,23:55,2h 50m,"5,066",20-08-2025,Economy
+Akasa Air - 1172,BOM,CCU,Akasa Air ,00:35,03:30,2h 55m,"4,368",20-08-2025,Economy
+Air India - 2773,BOM,CCU,Air India ,13:50,16:50,3h,"4,699",20-08-2025,Economy
+IndiGo - 5395,BOM,CCU,IndiGo ,12:50,15:35,2h 45m,"5,063",20-08-2025,Economy
+Air India - 2410,CCU,BOM,Air India ,22:15,01:20,3h 05m,"5,239",20-08-2025,Economy
+SpiceJet - 720,CCU,BOM,SpiceJet ,23:35,02:35,3h,"5,442",20-08-2025,Economy
+IndiGo - 5128,CCU,BOM,IndiGo ,19:05,22:05,3h,"6,153",20-08-2025,Economy
+IndiGo - 6206,CCU,BOM,IndiGo ,16:20,19:15,2h 55m,"6,711",20-08-2025,Economy
+Air India - 2774,CCU,BOM,Air India ,17:30,20:25,2h 55m,"7,249",20-08-2025,Economy
+Air India - 2472,CCU,BOM,Air India ,15:10,18:10,3h,"7,249",20-08-2025,Economy
+IndiGo - 5122,BOM,CCU,IndiGo ,05:40,08:25,2h 45m,"4,349",21-08-2025,Economy
+IndiGo - 5395,BOM,CCU,IndiGo ,12:50,15:35,2h 45m,"4,349",21-08-2025,Economy
+Air India - 2771,BOM,CCU,Air India ,06:45,09:30,2h 45m,"4,699",21-08-2025,Economy
+IndiGo - 138,BOM,CCU,IndiGo ,02:45,05:30,2h 45m,"4,349",21-08-2025,Economy
+Air India - 2471,BOM,CCU,Air India ,11:40,14:30,2h 50m,"4,699",21-08-2025,Economy
+Akasa Air - 1172,BOM,CCU,Akasa Air ,00:35,03:30,2h 55m,"4,366",21-08-2025,Economy
+IndiGo - 5329,BOM,CCU,IndiGo ,08:00,10:45,2h 45m,"4,852",21-08-2025,Economy
+Air India - 2773,BOM,CCU,Air India ,13:50,16:50,3h,"4,699",21-08-2025,Economy
+IndiGo - 5165,BOM,CCU,IndiGo ,10:05,12:55,2h 50m,"4,852",21-08-2025,Economy
+Akasa Air - 1141,CCU,BOM,Akasa Air ,22:40,01:20,2h 40m,"4,700",21-08-2025,Economy
+IndiGo - 115,CCU,BOM,IndiGo ,22:15,01:00,2h 45m,"5,097",21-08-2025,Economy
+Akasa Air - 1125,CCU,BOM,Akasa Air ,21:05,23:55,2h 50m,"5,066",21-08-2025,Economy
+Air India - 2410,CCU,BOM,Air India ,22:15,01:20,3h 05m,"5,239",21-08-2025,Economy
+SpiceJet - 720,CCU,BOM,SpiceJet ,23:35,02:35,3h,"5,442",21-08-2025,Economy
+IndiGo - 6206,CCU,BOM,IndiGo ,16:20,19:15,2h 55m,"6,171",21-08-2025,Economy
+IndiGo - 5128,CCU,BOM,IndiGo ,19:05,22:05,3h,"6,099",21-08-2025,Economy
+Air India - 2472,CCU,BOM,Air India ,15:10,18:10,3h,"6,648",21-08-2025,Economy
+Air India - 2774,CCU,BOM,Air India ,17:30,20:25,2h 55m,"7,249",21-08-2025,Economy
+IndiGo - 5395,BOM,CCU,IndiGo ,12:50,15:35,2h 45m,"4,349",22-08-2025,Economy
+IndiGo - 5122,BOM,CCU,IndiGo ,05:40,08:25,2h 45m,"4,349",22-08-2025,Economy
+Air India - 2771,BOM,CCU,Air India ,06:45,09:30,2h 45m,"4,699",22-08-2025,Economy
+IndiGo - 138,BOM,CCU,IndiGo ,02:45,05:30,2h 45m,"4,349",22-08-2025,Economy
+Air India - 2471,BOM,CCU,Air India ,11:40,14:30,2h 50m,"4,903",22-08-2025,Economy
+Akasa Air - 1172,BOM,CCU,Akasa Air ,00:35,03:30,2h 55m,"4,366",22-08-2025,Economy
+IndiGo - 5329,BOM,CCU,IndiGo ,08:00,10:45,2h 45m,"4,852",22-08-2025,Economy
+Air India - 2773,BOM,CCU,Air India ,13:50,16:50,3h,"4,699",22-08-2025,Economy
+IndiGo - 5165,BOM,CCU,IndiGo ,10:05,12:55,2h 50m,"4,852",22-08-2025,Economy
+Akasa Air - 1141,CCU,BOM,Akasa Air ,22:40,01:20,2h 40m,"4,589",22-08-2025,Economy
+IndiGo - 115,CCU,BOM,IndiGo ,22:15,01:00,2h 45m,"5,097",22-08-2025,Economy
+Akasa Air - 1125,CCU,BOM,Akasa Air ,21:05,23:55,2h 50m,"5,299",22-08-2025,Economy
+Air India - 2410,CCU,BOM,Air India ,22:15,01:20,3h 05m,"5,239",22-08-2025,Economy
+SpiceJet - 720,CCU,BOM,SpiceJet ,23:35,02:35,3h,"5,442",22-08-2025,Economy
+IndiGo - 6206,CCU,BOM,IndiGo ,16:20,19:15,2h 55m,"6,693",22-08-2025,Economy
+Air India - 2472,CCU,BOM,Air India ,15:10,18:10,3h,"7,249",22-08-2025,Economy
+IndiGo - 5128,CCU,BOM,IndiGo ,19:05,22:05,3h,"7,121",22-08-2025,Economy
+Air India - 2774,CCU,BOM,Air India ,17:30,20:25,2h 55m,"8,098",22-08-2025,Economy
+IndiGo - 5122,BOM,CCU,IndiGo ,05:40,08:25,2h 45m,"4,349",23-08-2025,Economy
+Air India - 2771,BOM,CCU,Air India ,06:45,09:30,2h 45m,"4,699",23-08-2025,Economy
+IndiGo - 138,BOM,CCU,IndiGo ,02:45,05:30,2h 45m,"4,349",23-08-2025,Economy
+Air India - 2471,BOM,CCU,Air India ,11:40,14:30,2h 50m,"4,806",23-08-2025,Economy
+Akasa Air - 1172,BOM,CCU,Akasa Air ,00:35,03:30,2h 55m,"4,366",23-08-2025,Economy
+IndiGo - 5329,BOM,CCU,IndiGo ,08:00,10:45,2h 45m,"4,852",23-08-2025,Economy
+Air India - 2773,BOM,CCU,Air India ,13:50,16:50,3h,"4,699",23-08-2025,Economy
+IndiGo - 5165,BOM,CCU,IndiGo ,10:05,12:55,2h 50m,"4,852",23-08-2025,Economy
+IndiGo - 5395,BOM,CCU,IndiGo ,12:50,15:35,2h 45m,"5,581",23-08-2025,Economy
+Akasa Air - 1141,CCU,BOM,Akasa Air ,22:40,01:20,2h 40m,"4,589",23-08-2025,Economy
+IndiGo - 115,CCU,BOM,IndiGo ,22:15,01:00,2h 45m,"5,097",23-08-2025,Economy
+Akasa Air - 1125,CCU,BOM,Akasa Air ,21:05,23:55,2h 50m,"5,066",23-08-2025,Economy
+Air India - 2410,CCU,BOM,Air India ,22:15,01:20,3h 05m,"5,239",23-08-2025,Economy
+SpiceJet - 720,CCU,BOM,SpiceJet ,23:35,02:35,3h,"5,442",23-08-2025,Economy
+IndiGo - 6206,CCU,BOM,IndiGo ,16:20,19:15,2h 55m,"6,171",23-08-2025,Economy
+IndiGo - 5128,CCU,BOM,IndiGo ,19:05,22:05,3h,"6,586",23-08-2025,Economy
+Air India - 2472,CCU,BOM,Air India ,15:10,18:10,3h,"7,249",23-08-2025,Economy
+Air India - 2774,CCU,BOM,Air India ,17:30,20:25,2h 55m,"8,098",23-08-2025,Economy
+IndiGo - 5122,BOM,CCU,IndiGo ,05:40,08:25,2h 45m,"4,349",24-08-2025,Economy
+Air India - 2771,BOM,CCU,Air India ,06:45,09:30,2h 45m,"4,699",24-08-2025,Economy
+IndiGo - 138,BOM,CCU,IndiGo ,02:45,05:30,2h 45m,"4,349",24-08-2025,Economy
+Air India - 2471,BOM,CCU,Air India ,11:40,14:30,2h 50m,"4,806",24-08-2025,Economy
+Akasa Air - 1172,BOM,CCU,Akasa Air ,00:35,03:30,2h 55m,"4,275",24-08-2025,Economy
+IndiGo - 5329,BOM,CCU,IndiGo ,08:00,10:45,2h 45m,"4,852",24-08-2025,Economy
+IndiGo - 5165,BOM,CCU,IndiGo ,10:05,12:55,2h 50m,"4,852",24-08-2025,Economy
+IndiGo - 5395,BOM,CCU,IndiGo ,12:50,15:35,2h 45m,"5,581",24-08-2025,Economy
+Air India - 2773,BOM,CCU,Air India ,13:50,16:50,3h,"6,006",24-08-2025,Economy
+Akasa Air - 1141,CCU,BOM,Akasa Air ,22:40,01:20,2h 40m,"4,889",24-08-2025,Economy
+Air India - 2410,CCU,BOM,Air India ,22:15,01:20,3h 05m,"5,239",24-08-2025,Economy
+Akasa Air - 1125,CCU,BOM,Akasa Air ,21:05,23:55,2h 50m,"5,884",24-08-2025,Economy
+SpiceJet - 720,CCU,BOM,SpiceJet ,23:35,02:35,3h,"5,442",24-08-2025,Economy
+IndiGo - 5128,CCU,BOM,IndiGo ,19:05,22:05,3h,"6,586",24-08-2025,Economy
+IndiGo - 6206,CCU,BOM,IndiGo ,16:20,19:15,2h 55m,"7,906",24-08-2025,Economy
+Air India - 2774,CCU,BOM,Air India ,17:30,20:25,2h 55m,"9,195",24-08-2025,Economy
+Air India - 2472,CCU,BOM,Air India ,15:10,18:10,3h,"9,195",24-08-2025,Economy
+IndiGo - 115,CCU,BOM,IndiGo ,22:15,01:00,2h 45m,"9,643",24-08-2025,Economy
+IndiGo - 5122,BOM,CCU,IndiGo ,05:40,08:25,2h 45m,"4,349",25-08-2025,Economy
+Air India - 2771,BOM,CCU,Air India ,06:45,09:30,2h 45m,"4,699",25-08-2025,Economy
+IndiGo - 138,BOM,CCU,IndiGo ,02:45,05:30,2h 45m,"4,349",25-08-2025,Economy
+Air India - 2471,BOM,CCU,Air India ,11:40,14:30,2h 50m,"4,699",25-08-2025,Economy
+Akasa Air - 1172,BOM,CCU,Akasa Air ,00:35,03:30,2h 55m,"4,217",25-08-2025,Economy
+IndiGo - 5329,BOM,CCU,IndiGo ,08:00,10:45,2h 45m,"4,852",25-08-2025,Economy
+Air India - 2773,BOM,CCU,Air India ,13:50,16:50,3h,"4,699",25-08-2025,Economy
+IndiGo - 5165,BOM,CCU,IndiGo ,10:05,12:55,2h 50m,"4,852",25-08-2025,Economy
+IndiGo - 5395,BOM,CCU,IndiGo ,12:50,15:35,2h 45m,"5,063",25-08-2025,Economy
+Akasa Air - 1141,CCU,BOM,Akasa Air ,22:40,01:20,2h 40m,"4,700",25-08-2025,Economy
+IndiGo - 115,CCU,BOM,IndiGo ,22:15,01:00,2h 45m,"5,097",25-08-2025,Economy
+Akasa Air - 1125,CCU,BOM,Akasa Air ,21:05,23:55,2h 50m,"5,066",25-08-2025,Economy
+Air India - 2410,CCU,BOM,Air India ,22:15,01:20,3h 05m,"5,239",25-08-2025,Economy
+SpiceJet - 720,CCU,BOM,SpiceJet ,23:35,02:35,3h,"5,442",25-08-2025,Economy
+IndiGo - 5128,CCU,BOM,IndiGo ,19:05,22:05,3h,"6,586",25-08-2025,Economy
+IndiGo - 6206,CCU,BOM,IndiGo ,16:20,19:15,2h 55m,"7,270",25-08-2025,Economy
+Air India - 2472,CCU,BOM,Air India ,15:10,18:10,3h,"8,098",25-08-2025,Economy
+Air India - 2774,CCU,BOM,Air India ,17:30,20:25,2h 55m,"10,664",25-08-2025,Economy
+IndiGo - 5122,BOM,CCU,IndiGo ,05:40,08:25,2h 45m,"4,349",26-08-2025,Economy
+IndiGo - 5395,BOM,CCU,IndiGo ,12:50,15:35,2h 45m,"4,349",26-08-2025,Economy
+IndiGo - 5329,BOM,CCU,IndiGo ,08:00,10:45,2h 45m,"4,349",26-08-2025,Economy
+Air India - 2771,BOM,CCU,Air India ,06:45,09:30,2h 45m,"4,699",26-08-2025,Economy
+IndiGo - 5165,BOM,CCU,IndiGo ,10:05,12:55,2h 50m,"4,349",26-08-2025,Economy
+Akasa Air - 1172,BOM,CCU,Akasa Air ,00:35,03:30,2h 55m,"4,065",26-08-2025,Economy
+IndiGo - 138,BOM,CCU,IndiGo ,02:45,05:30,2h 45m,"4,349",26-08-2025,Economy
+Air India - 2471,BOM,CCU,Air India ,11:40,14:30,2h 50m,"4,699",26-08-2025,Economy
+Air India - 2773,BOM,CCU,Air India ,13:50,16:50,3h,"4,699",26-08-2025,Economy
+Akasa Air - 1141,CCU,BOM,Akasa Air ,22:40,01:20,2h 40m,"4,589",26-08-2025,Economy
+IndiGo - 115,CCU,BOM,IndiGo ,22:15,01:00,2h 45m,"5,097",26-08-2025,Economy
+Akasa Air - 1125,CCU,BOM,Akasa Air ,21:05,23:55,2h 50m,"5,066",26-08-2025,Economy
+Air India - 2410,CCU,BOM,Air India ,22:15,01:20,3h 05m,"5,239",26-08-2025,Economy
+SpiceJet - 720,CCU,BOM,SpiceJet ,23:35,02:35,3h,"5,074",26-08-2025,Economy
+IndiGo - 5128,CCU,BOM,IndiGo ,19:05,22:05,3h,"5,653",26-08-2025,Economy
+IndiGo - 6206,CCU,BOM,IndiGo ,16:20,19:15,2h 55m,"6,153",26-08-2025,Economy
+Air India - 2472,CCU,BOM,Air India ,15:10,18:10,3h,"6,648",26-08-2025,Economy
+Air India - 2774,CCU,BOM,Air India ,17:30,20:25,2h 55m,"7,249",26-08-2025,Economy
+IndiGo - 5395,BOM,CCU,IndiGo ,12:50,15:35,2h 45m,"4,349",27-08-2025,Economy
+IndiGo - 5122,BOM,CCU,IndiGo ,05:40,08:25,2h 45m,"4,349",27-08-2025,Economy
+IndiGo - 5165,BOM,CCU,IndiGo ,10:05,12:55,2h 50m,"4,349",27-08-2025,Economy
+Air India - 2771,BOM,CCU,Air India ,06:45,09:30,2h 45m,"4,699",27-08-2025,Economy
+IndiGo - 138,BOM,CCU,IndiGo ,02:45,05:30,2h 45m,"4,349",27-08-2025,Economy
+Air India - 2471,BOM,CCU,Air India ,11:40,14:30,2h 50m,"4,699",27-08-2025,Economy
+Air India - 2773,BOM,CCU,Air India ,13:50,16:50,3h,"4,699",27-08-2025,Economy
+IndiGo - 5329,BOM,CCU,IndiGo ,08:00,10:45,2h 45m,"5,063",27-08-2025,Economy
+Akasa Air - 1172,BOM,CCU,Akasa Air ,00:35,03:30,2h 55m,"5,686",27-08-2025,Economy
+Akasa Air - 1141,CCU,BOM,Akasa Air ,22:40,01:20,2h 40m,"4,976",27-08-2025,Economy
+Akasa Air - 1125,CCU,BOM,Akasa Air ,21:05,23:55,2h 50m,"4,889",27-08-2025,Economy
+IndiGo - 115,CCU,BOM,IndiGo ,22:15,01:00,2h 45m,"5,097",27-08-2025,Economy
+Air India - 2410,CCU,BOM,Air India ,22:15,01:20,3h 05m,"5,239",27-08-2025,Economy
+IndiGo - 5128,CCU,BOM,IndiGo ,19:05,22:05,3h,"5,552",27-08-2025,Economy
+IndiGo - 6206,CCU,BOM,IndiGo ,16:20,19:15,2h 55m,"5,653",27-08-2025,Economy
+SpiceJet - 720,CCU,BOM,SpiceJet ,23:35,02:35,3h,"5,442",27-08-2025,Economy
+Air India - 2472,CCU,BOM,Air India ,15:10,18:10,3h,"6,648",27-08-2025,Economy
+Air India - 2774,CCU,BOM,Air India ,17:30,20:25,2h 55m,"7,249",27-08-2025,Economy
+Akasa Air - 1173,CCU,BOM,Akasa Air ,05:00,07:50,2h 50m,"4,589",27-08-2025,Economy
+IndiGo - 5194,CCU,BOM,IndiGo ,06:20,09:10,2h 50m,"5,097",27-08-2025,Economy
+IndiGo - 5297,CCU,BOM,IndiGo ,09:10,12:05,2h 55m,"5,097",27-08-2025,Economy
+IndiGo - 5065,CCU,BOM,IndiGo ,02:00,04:50,2h 50m,"5,097",27-08-2025,Economy
+Air India - 676,CCU,BOM,Air India ,06:25,09:30,3h 05m,"5,239",27-08-2025,Economy
+IndiGo - 5122,BOM,CCU,IndiGo ,05:40,08:25,2h 45m,"4,349",28-08-2025,Economy
+IndiGo - 5395,BOM,CCU,IndiGo ,12:50,15:35,2h 45m,"4,349",28-08-2025,Economy
+Air India - 2771,BOM,CCU,Air India ,06:45,09:30,2h 45m,"4,699",28-08-2025,Economy
+Akasa Air - 1172,BOM,CCU,Akasa Air ,00:35,03:30,2h 55m,"4,065",28-08-2025,Economy
+IndiGo - 138,BOM,CCU,IndiGo ,02:45,05:30,2h 45m,"4,349",28-08-2025,Economy
+Air India - 2471,BOM,CCU,Air India ,11:40,14:30,2h 50m,"4,699",28-08-2025,Economy
+IndiGo - 5329,BOM,CCU,IndiGo ,08:00,10:45,2h 45m,"4,852",28-08-2025,Economy
+Air India - 2773,BOM,CCU,Air India ,13:50,16:50,3h,"4,699",28-08-2025,Economy
+IndiGo - 5165,BOM,CCU,IndiGo ,10:05,12:55,2h 50m,"4,852",28-08-2025,Economy
+Akasa Air - 1141,CCU,BOM,Akasa Air ,22:40,01:20,2h 40m,"4,700",28-08-2025,Economy
+Akasa Air - 1125,CCU,BOM,Akasa Air ,21:05,23:55,2h 50m,"4,589",28-08-2025,Economy
+IndiGo - 115,CCU,BOM,IndiGo ,22:15,01:00,2h 45m,"5,097",28-08-2025,Economy
+Air India - 2410,CCU,BOM,Air India ,22:15,01:20,3h 05m,"5,239",28-08-2025,Economy
+IndiGo - 6206,CCU,BOM,IndiGo ,16:20,19:15,2h 55m,"5,594",28-08-2025,Economy
+SpiceJet - 720,CCU,BOM,SpiceJet ,23:35,02:35,3h,"5,442",28-08-2025,Economy
+Air India - 2472,CCU,BOM,Air India ,15:10,18:10,3h,"6,149",28-08-2025,Economy
+IndiGo - 5128,CCU,BOM,IndiGo ,19:05,22:05,3h,"6,099",28-08-2025,Economy
+Air India - 2774,CCU,BOM,Air India ,17:30,20:25,2h 55m,"7,249",28-08-2025,Economy
+IndiGo - 5395,BOM,CCU,IndiGo ,12:50,15:35,2h 45m,"4,349",29-08-2025,Economy
+IndiGo - 5122,BOM,CCU,IndiGo ,05:40,08:25,2h 45m,"4,349",29-08-2025,Economy
+Air India - 2771,BOM,CCU,Air India ,06:45,09:30,2h 45m,"4,699",29-08-2025,Economy
+IndiGo - 138,BOM,CCU,IndiGo ,02:45,05:30,2h 45m,"4,349",29-08-2025,Economy
+Akasa Air - 1172,BOM,CCU,Akasa Air ,00:35,03:30,2h 55m,"4,217",29-08-2025,Economy
+Air India - 2471,BOM,CCU,Air India ,11:40,14:30,2h 50m,"4,903",29-08-2025,Economy
+IndiGo - 5329,BOM,CCU,IndiGo ,08:00,10:45,2h 45m,"4,852",29-08-2025,Economy
+Air India - 2773,BOM,CCU,Air India ,13:50,16:50,3h,"4,699",29-08-2025,Economy
+IndiGo - 5165,BOM,CCU,IndiGo ,10:05,12:55,2h 50m,"4,852",29-08-2025,Economy
+Akasa Air - 1141,CCU,BOM,Akasa Air ,22:40,01:20,2h 40m,"4,700",29-08-2025,Economy
+Akasa Air - 1125,CCU,BOM,Akasa Air ,21:05,23:55,2h 50m,"4,589",29-08-2025,Economy
+IndiGo - 115,CCU,BOM,IndiGo ,22:15,01:00,2h 45m,"5,097",29-08-2025,Economy
+Air India - 2410,CCU,BOM,Air India ,22:15,01:20,3h 05m,"5,239",29-08-2025,Economy
+IndiGo - 6206,CCU,BOM,IndiGo ,16:20,19:15,2h 55m,"5,594",29-08-2025,Economy
+SpiceJet - 720,CCU,BOM,SpiceJet ,23:35,02:35,3h,"5,442",29-08-2025,Economy
+IndiGo - 5128,CCU,BOM,IndiGo ,19:05,22:05,3h,"6,099",29-08-2025,Economy
+Air India - 2472,CCU,BOM,Air India ,15:10,18:10,3h,"6,648",29-08-2025,Economy
+Air India - 2774,CCU,BOM,Air India ,17:30,20:25,2h 55m,"7,249",29-08-2025,Economy
+IndiGo - 5122,BOM,CCU,IndiGo ,05:40,08:25,2h 45m,"4,349",30-08-2025,Economy
+Air India - 2771,BOM,CCU,Air India ,06:45,09:30,2h 45m,"4,699",30-08-2025,Economy
+IndiGo - 138,BOM,CCU,IndiGo ,02:45,05:30,2h 45m,"4,349",30-08-2025,Economy
+Air India - 2471,BOM,CCU,Air India ,11:40,14:30,2h 50m,"4,699",30-08-2025,Economy
+Akasa Air - 1172,BOM,CCU,Akasa Air ,00:35,03:30,2h 55m,"4,275",30-08-2025,Economy
+IndiGo - 5329,BOM,CCU,IndiGo ,08:00,10:45,2h 45m,"4,852",30-08-2025,Economy
+Air India - 2773,BOM,CCU,Air India ,13:50,16:50,3h,"4,699",30-08-2025,Economy
+IndiGo - 5165,BOM,CCU,IndiGo ,10:05,12:55,2h 50m,"4,852",30-08-2025,Economy
+IndiGo - 5395,BOM,CCU,IndiGo ,12:50,15:35,2h 45m,"5,063",30-08-2025,Economy
+Akasa Air - 1141,CCU,BOM,Akasa Air ,22:40,01:20,2h 40m,"4,700",30-08-2025,Economy
+Akasa Air - 1125,CCU,BOM,Akasa Air ,21:05,23:55,2h 50m,"4,889",30-08-2025,Economy
+IndiGo - 115,CCU,BOM,IndiGo ,22:15,01:00,2h 45m,"5,097",30-08-2025,Economy
+Air India - 2410,CCU,BOM,Air India ,22:15,01:20,3h 05m,"5,239",30-08-2025,Economy
+SpiceJet - 720,CCU,BOM,SpiceJet ,23:35,02:35,3h,"5,074",30-08-2025,Economy
+IndiGo - 5128,CCU,BOM,IndiGo ,19:05,22:05,3h,"6,099",30-08-2025,Economy
+IndiGo - 6206,CCU,BOM,IndiGo ,16:20,19:15,2h 55m,"6,693",30-08-2025,Economy
+Air India - 2774,CCU,BOM,Air India ,17:30,20:25,2h 55m,"7,249",30-08-2025,Economy
+Air India - 2472,CCU,BOM,Air India ,15:10,18:10,3h,"7,249",30-08-2025,Economy
+IndiGo - 5122,BOM,CCU,IndiGo ,05:40,08:25,2h 45m,"4,349",31-08-2025,Economy
+Air India - 2771,BOM,CCU,Air India ,06:45,09:30,2h 45m,"4,699",31-08-2025,Economy
+IndiGo - 138,BOM,CCU,IndiGo ,02:45,05:30,2h 45m,"4,349",31-08-2025,Economy
+Air India - 2471,BOM,CCU,Air India ,11:40,14:30,2h 50m,"4,699",31-08-2025,Economy
+Akasa Air - 1172,BOM,CCU,Akasa Air ,00:35,03:30,2h 55m,"4,366",31-08-2025,Economy
+IndiGo - 5329,BOM,CCU,IndiGo ,08:00,10:45,2h 45m,"4,852",31-08-2025,Economy
+Air India - 2773,BOM,CCU,Air India ,13:50,16:50,3h,"4,699",31-08-2025,Economy
+IndiGo - 5165,BOM,CCU,IndiGo ,10:05,12:55,2h 50m,"4,852",31-08-2025,Economy
+IndiGo - 5395,BOM,CCU,IndiGo ,12:50,15:35,2h 45m,"5,063",31-08-2025,Economy
+Akasa Air - 1141,CCU,BOM,Akasa Air ,22:40,01:20,2h 40m,"4,811",31-08-2025,Economy
+Air India - 2410,CCU,BOM,Air India ,22:15,01:20,3h 05m,"5,239",31-08-2025,Economy
+IndiGo - 115,CCU,BOM,IndiGo ,22:15,01:00,2h 45m,"5,653",31-08-2025,Economy
+Akasa Air - 1125,CCU,BOM,Akasa Air ,21:05,23:55,2h 50m,"5,884",31-08-2025,Economy
+SpiceJet - 720,CCU,BOM,SpiceJet ,23:35,02:35,3h,"5,442",31-08-2025,Economy
+IndiGo - 5128,CCU,BOM,IndiGo ,19:05,22:05,3h,"6,586",31-08-2025,Economy
+Air India - 2774,CCU,BOM,Air India ,17:30,20:25,2h 55m,"8,098",31-08-2025,Economy
+IndiGo - 6206,CCU,BOM,IndiGo ,16:20,19:15,2h 55m,"7,906",31-08-2025,Economy
+Air India - 2472,CCU,BOM,Air India ,15:10,18:10,3h,"9,195",31-08-2025,Economy
+Akasa Air - 1304,BOM,MAA,Akasa Air ,05:00,07:00,2h,"3,993",16-08-2025,Economy
+Air India - 572,BOM,MAA,Air India ,13:35,15:30,1h 55m,"5,071",16-08-2025,Economy
+IndiGo - 5204,BOM,MAA,IndiGo ,08:15,10:10,1h 55m,"5,058",16-08-2025,Economy
+IndiGo - 5206,BOM,MAA,IndiGo ,11:50,13:50,2h,"5,058",16-08-2025,Economy
+Air India - 2739,BOM,MAA,Air India ,09:00,11:00,2h,"5,293",16-08-2025,Economy
+Air India - 2821,BOM,MAA,Air India ,06:50,08:55,2h 05m,"5,204",16-08-2025,Economy
+IndiGo - 5313,BOM,MAA,IndiGo ,09:55,12:00,2h 05m,"5,058",16-08-2025,Economy
+IndiGo - 5188,BOM,MAA,IndiGo ,06:25,08:30,2h 05m,"5,058",16-08-2025,Economy
+IndiGo - 5337,BOM,MAA,IndiGo ,13:45,16:00,2h 15m,"5,058",16-08-2025,Economy
+IndiGo - 136,BOM,MAA,IndiGo ,03:00,05:10,2h 10m,"5,464",16-08-2025,Economy
+IndiGo - 5367,MAA,BOM,IndiGo ,18:20,20:15,1h 55m,"5,310",16-08-2025,Economy
+IndiGo - 5104,MAA,BOM,IndiGo ,16:40,18:45,2h 05m,"5,310",16-08-2025,Economy
+IndiGo - 6225,MAA,BOM,IndiGo ,22:30,00:35,2h 05m,"5,520",16-08-2025,Economy
+IndiGo - 5371,MAA,BOM,IndiGo ,15:00,17:15,2h 15m,"5,310",16-08-2025,Economy
+IndiGo - 5149,MAA,BOM,IndiGo ,20:10,22:20,2h 10m,"5,520",16-08-2025,Economy
+Air India - 2740,MAA,BOM,Air India ,15:45,18:00,2h 15m,"8,564",16-08-2025,Economy
+Air India - 640,MAA,BOM,Air India ,19:50,22:05,2h 15m,"9,066",16-08-2025,Economy
+Akasa Air - 1304,BOM,MAA,Akasa Air ,05:00,07:00,2h,"3,993",17-08-2025,Economy
+IndiGo - 5204,BOM,MAA,IndiGo ,08:15,10:10,1h 55m,"5,058",17-08-2025,Economy
+Air India - 2821,BOM,MAA,Air India ,06:50,08:55,2h 05m,"5,204",17-08-2025,Economy
+IndiGo - 5188,BOM,MAA,IndiGo ,06:25,08:30,2h 05m,"5,058",17-08-2025,Economy
+IndiGo - 136,BOM,MAA,IndiGo ,03:00,05:10,2h 10m,"4,939",17-08-2025,Economy
+IndiGo - 5313,BOM,MAA,IndiGo ,09:55,12:00,2h 05m,"5,307",17-08-2025,Economy
+IndiGo - 5206,BOM,MAA,IndiGo ,11:50,14:05,2h 15m,"6,147",17-08-2025,Economy
+Air India - 2739,BOM,MAA,Air India ,09:00,11:00,2h,"7,096",17-08-2025,Economy
+IndiGo - 5337,BOM,MAA,IndiGo ,13:45,16:00,2h 15m,"7,512",17-08-2025,Economy
+Air India - 572,BOM,MAA,Air India ,13:35,15:30,1h 55m,"13,433",17-08-2025,Economy
+IndiGo - 5371,MAA,BOM,IndiGo ,15:00,17:15,2h 15m,"8,211",17-08-2025,Economy
+IndiGo - 5104,MAA,BOM,IndiGo ,16:40,18:45,2h 05m,"10,350",17-08-2025,Economy
+IndiGo - 5149,MAA,BOM,IndiGo ,20:10,22:20,2h 10m,"10,350",17-08-2025,Economy
+Air India - 640,MAA,BOM,Air India ,19:50,22:05,2h 15m,"10,505",17-08-2025,Economy
+Air India - 2740,MAA,BOM,Air India ,15:25,17:40,2h 15m,"12,376",17-08-2025,Economy
+IndiGo - 5367,MAA,BOM,IndiGo ,18:20,20:15,1h 55m,"13,605",17-08-2025,Economy
+IndiGo - 6225,MAA,BOM,IndiGo ,22:30,00:35,2h 05m,"13,605",17-08-2025,Economy
+IndiGo - 5206,BOM,MAA,IndiGo ,11:50,14:05,2h 15m,"5,058",18-08-2025,Economy
+IndiGo - 5337,BOM,MAA,IndiGo ,13:45,16:00,2h 15m,"5,058",18-08-2025,Economy
+Air India - 572,BOM,MAA,Air India ,13:35,15:30,1h 55m,"5,987",18-08-2025,Economy
+IndiGo - 5313,BOM,MAA,IndiGo ,09:55,12:00,2h 05m,"5,517",18-08-2025,Economy
+IndiGo - 5188,BOM,MAA,IndiGo ,06:25,08:30,2h 05m,"5,517",18-08-2025,Economy
+Air India - 2821,BOM,MAA,Air India ,06:50,08:55,2h 05m,"5,692",18-08-2025,Economy
+Akasa Air - 1304,BOM,MAA,Akasa Air ,05:00,07:00,2h,"5,957",18-08-2025,Economy
+IndiGo - 136,BOM,MAA,IndiGo ,03:00,05:10,2h 10m,"5,464",18-08-2025,Economy
+IndiGo - 5204,BOM,MAA,IndiGo ,08:15,10:10,1h 55m,"6,567",18-08-2025,Economy
+Air India - 2739,BOM,MAA,Air India ,09:00,11:00,2h,"8,145",18-08-2025,Economy
+IndiGo - 6225,MAA,BOM,IndiGo ,22:30,00:35,2h 05m,"6,360",18-08-2025,Economy
+IndiGo - 5104,MAA,BOM,IndiGo ,16:40,18:45,2h 05m,"6,780",18-08-2025,Economy
+IndiGo - 5371,MAA,BOM,IndiGo ,15:00,17:15,2h 15m,"6,780",18-08-2025,Economy
+Air India - 2740,MAA,BOM,Air India ,15:25,17:40,2h 15m,"7,515",18-08-2025,Economy
+IndiGo - 5367,MAA,BOM,IndiGo ,18:20,20:15,1h 55m,"8,880",18-08-2025,Economy
+IndiGo - 5149,MAA,BOM,IndiGo ,20:10,22:20,2h 10m,"8,880",18-08-2025,Economy
+Air India - 640,MAA,BOM,Air India ,19:50,22:05,2h 15m,"9,066",18-08-2025,Economy
+Air India - 572,BOM,MAA,Air India ,13:35,15:30,1h 55m,"5,071",19-08-2025,Economy
+IndiGo - 5206,BOM,MAA,IndiGo ,11:50,13:50,2h,"5,058",19-08-2025,Economy
+IndiGo - 5204,BOM,MAA,IndiGo ,08:15,10:10,1h 55m,"5,307",19-08-2025,Economy
+Air India - 2739,BOM,MAA,Air India ,09:00,11:00,2h,"5,293",19-08-2025,Economy
+Air India - 2821,BOM,MAA,Air India ,06:50,08:55,2h 05m,"5,204",19-08-2025,Economy
+IndiGo - 5188,BOM,MAA,IndiGo ,06:25,08:30,2h 05m,"5,058",19-08-2025,Economy
+IndiGo - 5313,BOM,MAA,IndiGo ,09:55,12:00,2h 05m,"5,058",19-08-2025,Economy
+IndiGo - 5337,BOM,MAA,IndiGo ,13:45,16:00,2h 15m,"5,058",19-08-2025,Economy
+IndiGo - 136,BOM,MAA,IndiGo ,03:00,05:10,2h 10m,"5,058",19-08-2025,Economy
+IndiGo - 5104,MAA,BOM,IndiGo ,16:40,18:45,2h 05m,"5,310",19-08-2025,Economy
+IndiGo - 5371,MAA,BOM,IndiGo ,15:00,17:15,2h 15m,"5,310",19-08-2025,Economy
+IndiGo - 5149,MAA,BOM,IndiGo ,20:10,22:20,2h 10m,"5,520",19-08-2025,Economy
+IndiGo - 5367,MAA,BOM,IndiGo ,18:20,20:15,1h 55m,"6,045",19-08-2025,Economy
+IndiGo - 6225,MAA,BOM,IndiGo ,22:30,00:35,2h 05m,"5,730",19-08-2025,Economy
+Air India - 2740,MAA,BOM,Air India ,15:45,18:00,2h 15m,"6,675",19-08-2025,Economy
+Air India - 640,MAA,BOM,Air India ,19:50,22:05,2h 15m,"7,947",19-08-2025,Economy
+Air India - 572,BOM,MAA,Air India ,13:35,15:30,1h 55m,"5,071",20-08-2025,Economy
+IndiGo - 5204,BOM,MAA,IndiGo ,08:15,10:10,1h 55m,"5,058",20-08-2025,Economy
+Air India - 2821,BOM,MAA,Air India ,06:50,08:55,2h 05m,"5,204",20-08-2025,Economy
+IndiGo - 5313,BOM,MAA,IndiGo ,09:55,12:00,2h 05m,"5,058",20-08-2025,Economy
+IndiGo - 5206,BOM,MAA,IndiGo ,11:50,14:05,2h 15m,"5,058",20-08-2025,Economy
+IndiGo - 5337,BOM,MAA,IndiGo ,13:45,16:00,2h 15m,"5,058",20-08-2025,Economy
+IndiGo - 136,BOM,MAA,IndiGo ,03:00,05:10,2h 10m,"5,058",20-08-2025,Economy
+Air India - 2739,BOM,MAA,Air India ,09:00,11:00,2h,"5,692",20-08-2025,Economy
+IndiGo - 5188,BOM,MAA,IndiGo ,06:25,08:30,2h 05m,"6,987",20-08-2025,Economy
+IndiGo - 5104,MAA,BOM,IndiGo ,16:40,18:45,2h 05m,"5,520",20-08-2025,Economy
+IndiGo - 5371,MAA,BOM,IndiGo ,15:00,17:15,2h 15m,"5,310",20-08-2025,Economy
+IndiGo - 6225,MAA,BOM,IndiGo ,22:30,00:35,2h 05m,"7,200",20-08-2025,Economy
+IndiGo - 5367,MAA,BOM,IndiGo ,18:20,20:15,1h 55m,"7,725",20-08-2025,Economy
+Air India - 640,MAA,BOM,Air India ,19:50,22:05,2h 15m,"7,947",20-08-2025,Economy
+Air India - 2740,MAA,BOM,Air India ,15:25,17:40,2h 15m,"8,564",20-08-2025,Economy
+IndiGo - 5149,MAA,BOM,IndiGo ,20:10,22:20,2h 10m,"10,350",20-08-2025,Economy
+Akasa Air - 1304,BOM,MAA,Akasa Air ,05:00,07:00,2h,"3,993",21-08-2025,Economy
+IndiGo - 136,BOM,MAA,IndiGo ,03:00,05:10,2h 10m,"4,204",21-08-2025,Economy
+Air India - 572,BOM,MAA,Air India ,13:35,15:30,1h 55m,"5,071",21-08-2025,Economy
+IndiGo - 5204,BOM,MAA,IndiGo ,08:15,10:10,1h 55m,"5,058",21-08-2025,Economy
+Air India - 2739,BOM,MAA,Air India ,09:00,11:00,2h,"5,293",21-08-2025,Economy
+Air India - 2821,BOM,MAA,Air India ,06:50,08:55,2h 05m,"5,204",21-08-2025,Economy
+IndiGo - 5313,BOM,MAA,IndiGo ,09:55,12:00,2h 05m,"5,058",21-08-2025,Economy
+IndiGo - 5188,BOM,MAA,IndiGo ,06:25,08:30,2h 05m,"5,058",21-08-2025,Economy
+IndiGo - 5337,BOM,MAA,IndiGo ,13:45,16:00,2h 15m,"5,058",21-08-2025,Economy
+IndiGo - 5206,BOM,MAA,IndiGo ,11:50,14:05,2h 15m,"5,058",21-08-2025,Economy
+IndiGo - 6225,MAA,BOM,IndiGo ,22:30,00:35,2h 05m,"6,360",21-08-2025,Economy
+IndiGo - 5104,MAA,BOM,IndiGo ,16:40,18:45,2h 05m,"6,360",21-08-2025,Economy
+IndiGo - 5371,MAA,BOM,IndiGo ,15:00,17:15,2h 15m,"6,045",21-08-2025,Economy
+Air India - 2740,MAA,BOM,Air India ,15:25,17:40,2h 15m,"6,675",21-08-2025,Economy
+IndiGo - 5367,MAA,BOM,IndiGo ,18:20,20:15,1h 55m,"7,725",21-08-2025,Economy
+IndiGo - 5149,MAA,BOM,IndiGo ,20:10,22:20,2h 10m,"7,725",21-08-2025,Economy
+Air India - 640,MAA,BOM,Air India ,19:50,22:05,2h 15m,"7,947",21-08-2025,Economy
+Air India - 572,BOM,MAA,Air India ,13:35,15:30,1h 55m,"5,071",22-08-2025,Economy
+IndiGo - 5188,BOM,MAA,IndiGo ,06:25,08:30,2h 05m,"5,058",22-08-2025,Economy
+IndiGo - 5204,BOM,MAA,IndiGo ,08:15,10:10,1h 55m,"5,517",22-08-2025,Economy
+IndiGo - 5313,BOM,MAA,IndiGo ,09:55,12:00,2h 05m,"5,307",22-08-2025,Economy
+IndiGo - 5206,BOM,MAA,IndiGo ,11:50,14:05,2h 15m,"5,058",22-08-2025,Economy
+IndiGo - 5337,BOM,MAA,IndiGo ,13:45,16:00,2h 15m,"5,058",22-08-2025,Economy
+IndiGo - 136,BOM,MAA,IndiGo ,03:00,05:10,2h 10m,"5,058",22-08-2025,Economy
+Air India - 2821,BOM,MAA,Air India ,06:50,08:55,2h 05m,"5,596",22-08-2025,Economy
+Air India - 2739,BOM,MAA,Air India ,09:00,11:00,2h,"8,360",22-08-2025,Economy
+IndiGo - 5371,MAA,BOM,IndiGo ,15:00,17:15,2h 15m,"5,310",22-08-2025,Economy
+IndiGo - 6225,MAA,BOM,IndiGo ,22:30,00:35,2h 05m,"5,730",22-08-2025,Economy
+IndiGo - 5104,MAA,BOM,IndiGo ,16:40,18:45,2h 05m,"5,730",22-08-2025,Economy
+Air India - 2740,MAA,BOM,Air India ,15:25,17:40,2h 15m,"6,675",22-08-2025,Economy
+IndiGo - 5367,MAA,BOM,IndiGo ,18:20,20:15,1h 55m,"8,880",22-08-2025,Economy
+IndiGo - 5149,MAA,BOM,IndiGo ,20:10,22:20,2h 10m,"8,880",22-08-2025,Economy
+Air India - 640,MAA,BOM,Air India ,19:50,22:05,2h 15m,"9,066",22-08-2025,Economy
+Akasa Air - 1304,BOM,MAA,Akasa Air ,05:00,07:00,2h,"5,101",23-08-2025,Economy
+Air India - 572,BOM,MAA,Air India ,13:35,15:30,1h 55m,"5,451",23-08-2025,Economy
+IndiGo - 5188,BOM,MAA,IndiGo ,06:25,08:30,2h 05m,"5,058",23-08-2025,Economy
+IndiGo - 5206,BOM,MAA,IndiGo ,11:50,13:50,2h,"5,517",23-08-2025,Economy
+IndiGo - 136,BOM,MAA,IndiGo ,03:00,05:10,2h 10m,"4,939",23-08-2025,Economy
+IndiGo - 5337,BOM,MAA,IndiGo ,13:45,16:00,2h 15m,"5,058",23-08-2025,Economy
+IndiGo - 5313,BOM,MAA,IndiGo ,09:55,12:00,2h 05m,"5,517",23-08-2025,Economy
+IndiGo - 5204,BOM,MAA,IndiGo ,08:15,10:10,1h 55m,"6,987",23-08-2025,Economy
+Air India - 2821,BOM,MAA,Air India ,06:50,08:55,2h 05m,"6,972",23-08-2025,Economy
+Air India - 2739,BOM,MAA,Air India ,09:00,11:00,2h,"8,360",23-08-2025,Economy
+IndiGo - 6225,MAA,BOM,IndiGo ,22:30,00:35,2h 05m,"6,780",23-08-2025,Economy
+IndiGo - 5104,MAA,BOM,IndiGo ,16:40,18:45,2h 05m,"8,250",23-08-2025,Economy
+IndiGo - 5371,MAA,BOM,IndiGo ,15:00,17:15,2h 15m,"8,250",23-08-2025,Economy
+Air India - 2740,MAA,BOM,Air India ,15:45,18:00,2h 15m,"8,564",23-08-2025,Economy
+IndiGo - 5367,MAA,BOM,IndiGo ,18:20,20:15,1h 55m,"10,350",23-08-2025,Economy
+IndiGo - 5149,MAA,BOM,IndiGo ,20:10,22:20,2h 10m,"10,350",23-08-2025,Economy
+Air India - 640,MAA,BOM,Air India ,19:50,22:05,2h 15m,"10,505",23-08-2025,Economy
+Akasa Air - 1304,BOM,MAA,Akasa Air ,05:00,07:00,2h,"4,150",24-08-2025,Economy
+IndiGo - 5204,BOM,MAA,IndiGo ,08:15,10:10,1h 55m,"5,058",24-08-2025,Economy
+Air India - 2821,BOM,MAA,Air India ,06:50,08:55,2h 05m,"5,204",24-08-2025,Economy
+IndiGo - 5188,BOM,MAA,IndiGo ,06:25,08:30,2h 05m,"5,058",24-08-2025,Economy
+IndiGo - 5313,BOM,MAA,IndiGo ,09:55,12:00,2h 05m,"5,058",24-08-2025,Economy
+Air India - 572,BOM,MAA,Air India ,13:35,15:30,1h 55m,"5,596",24-08-2025,Economy
+IndiGo - 136,BOM,MAA,IndiGo ,03:00,05:10,2h 10m,"4,939",24-08-2025,Economy
+IndiGo - 5206,BOM,MAA,IndiGo ,11:50,14:05,2h 15m,"5,058",24-08-2025,Economy
+Air India - 2739,BOM,MAA,Air India ,09:00,11:00,2h,"5,692",24-08-2025,Economy
+IndiGo - 5337,BOM,MAA,IndiGo ,13:45,16:00,2h 15m,"5,517",24-08-2025,Economy
+IndiGo - 6225,MAA,BOM,IndiGo ,22:30,00:35,2h 05m,"6,045",24-08-2025,Economy
+IndiGo - 5104,MAA,BOM,IndiGo ,16:40,18:45,2h 05m,"8,250",24-08-2025,Economy
+IndiGo - 5371,MAA,BOM,IndiGo ,15:00,17:15,2h 15m,"8,250",24-08-2025,Economy
+Air India - 2740,MAA,BOM,Air India ,15:25,17:40,2h 15m,"8,922",24-08-2025,Economy
+Akasa Air - 1304,BOM,MAA,Akasa Air ,05:00,07:00,2h,"4,533",25-08-2025,Economy
+Air India - 572,BOM,MAA,Air India ,13:35,15:30,1h 55m,"5,071",25-08-2025,Economy
+IndiGo - 5204,BOM,MAA,IndiGo ,08:15,10:10,1h 55m,"5,058",25-08-2025,Economy
+IndiGo - 5313,BOM,MAA,IndiGo ,09:55,12:00,2h 05m,"5,058",25-08-2025,Economy
+IndiGo - 5188,BOM,MAA,IndiGo ,06:25,08:30,2h 05m,"5,058",25-08-2025,Economy
+Air India - 2821,BOM,MAA,Air India ,06:50,08:55,2h 05m,"5,293",25-08-2025,Economy
+Air India - 2739,BOM,MAA,Air India ,09:00,11:00,2h,"5,692",25-08-2025,Economy
+IndiGo - 5337,BOM,MAA,IndiGo ,13:45,16:00,2h 15m,"5,058",25-08-2025,Economy
+IndiGo - 5206,BOM,MAA,IndiGo ,11:50,14:05,2h 15m,"5,058",25-08-2025,Economy
+IndiGo - 136,BOM,MAA,IndiGo ,03:00,05:10,2h 10m,"5,464",25-08-2025,Economy
+IndiGo - 6225,MAA,BOM,IndiGo ,22:30,00:35,2h 05m,"5,520",25-08-2025,Economy
+IndiGo - 5104,MAA,BOM,IndiGo ,16:40,18:45,2h 05m,"6,780",25-08-2025,Economy
+IndiGo - 5371,MAA,BOM,IndiGo ,15:00,17:15,2h 15m,"7,200",25-08-2025,Economy
+IndiGo - 5367,MAA,BOM,IndiGo ,18:20,20:15,1h 55m,"8,880",25-08-2025,Economy
+Air India - 2740,MAA,BOM,Air India ,15:25,17:40,2h 15m,"8,564",25-08-2025,Economy
+IndiGo - 5149,MAA,BOM,IndiGo ,20:10,22:20,2h 10m,"8,880",25-08-2025,Economy
+Air India - 640,MAA,BOM,Air India ,19:50,22:05,2h 15m,"9,066",25-08-2025,Economy
+IndiGo - 5204,BOM,MAA,IndiGo ,08:15,10:10,1h 55m,"5,058",26-08-2025,Economy
+IndiGo - 5206,BOM,MAA,IndiGo ,11:50,13:50,2h,"5,058",26-08-2025,Economy
+Air India - 572,BOM,MAA,Air India ,13:35,15:30,1h 55m,"5,451",26-08-2025,Economy
+Air India - 2739,BOM,MAA,Air India ,09:00,11:00,2h,"5,293",26-08-2025,Economy
+Air India - 2821,BOM,MAA,Air India ,06:50,08:55,2h 05m,"5,204",26-08-2025,Economy
+IndiGo - 5188,BOM,MAA,IndiGo ,06:25,08:30,2h 05m,"5,058",26-08-2025,Economy
+IndiGo - 5313,BOM,MAA,IndiGo ,09:55,12:00,2h 05m,"5,058",26-08-2025,Economy
+IndiGo - 5337,BOM,MAA,IndiGo ,13:45,16:00,2h 15m,"5,058",26-08-2025,Economy
+IndiGo - 136,BOM,MAA,IndiGo ,03:00,05:10,2h 10m,"5,058",26-08-2025,Economy
+IndiGo - 5367,MAA,BOM,IndiGo ,18:20,20:15,1h 55m,"5,310",26-08-2025,Economy
+IndiGo - 5104,MAA,BOM,IndiGo ,16:40,18:45,2h 05m,"5,310",26-08-2025,Economy
+IndiGo - 5371,MAA,BOM,IndiGo ,15:00,17:15,2h 15m,"5,310",26-08-2025,Economy
+Air India - 2740,MAA,BOM,Air India ,15:45,18:00,2h 15m,"6,514",26-08-2025,Economy
+IndiGo - 6225,MAA,BOM,IndiGo ,22:30,00:35,2h 05m,"6,780",26-08-2025,Economy
+Air India - 640,MAA,BOM,Air India ,19:50,22:05,2h 15m,"6,782",26-08-2025,Economy
+IndiGo - 5149,MAA,BOM,IndiGo ,20:10,22:20,2h 10m,"6,780",26-08-2025,Economy
+Air India - 572,BOM,MAA,Air India ,13:35,15:30,1h 55m,"5,451",27-08-2025,Economy
+IndiGo - 5337,BOM,MAA,IndiGo ,13:45,16:00,2h 15m,"5,058",27-08-2025,Economy
+Air India - 2821,BOM,MAA,Air India ,06:50,08:55,2h 05m,"5,596",27-08-2025,Economy
+IndiGo - 5313,BOM,MAA,IndiGo ,09:55,12:00,2h 05m,"5,832",27-08-2025,Economy
+IndiGo - 5204,BOM,MAA,IndiGo ,08:15,10:10,1h 55m,"6,147",27-08-2025,Economy
+IndiGo - 5206,BOM,MAA,IndiGo ,11:50,14:05,2h 15m,"5,832",27-08-2025,Economy
+IndiGo - 136,BOM,MAA,IndiGo ,03:00,05:10,2h 10m,"5,832",27-08-2025,Economy
+IndiGo - 5188,BOM,MAA,IndiGo ,06:25,08:30,2h 05m,"6,147",27-08-2025,Economy
+Air India - 2739,BOM,MAA,Air India ,09:00,11:00,2h,"7,096",27-08-2025,Economy
+IndiGo - 5367,MAA,BOM,IndiGo ,18:20,20:15,1h 55m,"5,310",27-08-2025,Economy
+IndiGo - 5104,MAA,BOM,IndiGo ,16:40,18:45,2h 05m,"5,310",27-08-2025,Economy
+IndiGo - 6225,MAA,BOM,IndiGo ,22:30,00:35,2h 05m,"5,520",27-08-2025,Economy
+IndiGo - 5371,MAA,BOM,IndiGo ,15:00,17:15,2h 15m,"5,310",27-08-2025,Economy
+IndiGo - 5149,MAA,BOM,IndiGo ,20:10,22:20,2h 10m,"5,520",27-08-2025,Economy
+Air India - 640,MAA,BOM,Air India ,19:50,22:05,2h 15m,"6,208",27-08-2025,Economy
+Air India - 2740,MAA,BOM,Air India ,15:25,17:40,2h 15m,"6,514",27-08-2025,Economy
+Akasa Air - 1304,BOM,MAA,Akasa Air ,05:00,07:00,2h,"5,642",28-08-2025,Economy
+Air India - 2821,BOM,MAA,Air India ,06:50,08:55,2h 05m,"5,596",28-08-2025,Economy
+Air India - 572,BOM,MAA,Air India ,13:35,15:30,1h 55m,"5,987",28-08-2025,Economy
+IndiGo - 5204,BOM,MAA,IndiGo ,08:15,10:10,1h 55m,"6,147",28-08-2025,Economy
+IndiGo - 136,BOM,MAA,IndiGo ,03:00,05:10,2h 10m,"5,464",28-08-2025,Economy
+Air India - 2739,BOM,MAA,Air India ,09:00,11:00,2h,"6,256",28-08-2025,Economy
+IndiGo - 5337,BOM,MAA,IndiGo ,13:45,16:00,2h 15m,"5,832",28-08-2025,Economy
+IndiGo - 5206,BOM,MAA,IndiGo ,11:50,14:05,2h 15m,"6,147",28-08-2025,Economy
+IndiGo - 5313,BOM,MAA,IndiGo ,09:55,12:00,2h 05m,"6,567",28-08-2025,Economy
+IndiGo - 5188,BOM,MAA,IndiGo ,06:25,08:30,2h 05m,"9,297",28-08-2025,Economy
+IndiGo - 5367,MAA,BOM,IndiGo ,18:20,20:15,1h 55m,"5,310",28-08-2025,Economy
+IndiGo - 5104,MAA,BOM,IndiGo ,16:40,18:45,2h 05m,"5,310",28-08-2025,Economy
+IndiGo - 6225,MAA,BOM,IndiGo ,22:30,00:35,2h 05m,"5,520",28-08-2025,Economy
+IndiGo - 5371,MAA,BOM,IndiGo ,15:00,17:15,2h 15m,"5,520",28-08-2025,Economy
+Air India - 2740,MAA,BOM,Air India ,15:25,17:40,2h 15m,"5,966",28-08-2025,Economy
+Air India - 640,MAA,BOM,Air India ,19:50,22:05,2h 15m,"6,782",28-08-2025,Economy
+IndiGo - 5149,MAA,BOM,IndiGo ,20:10,22:20,2h 10m,"6,780",28-08-2025,Economy
+IndiGo - 5204,BOM,MAA,IndiGo ,08:15,10:10,1h 55m,"5,058",29-08-2025,Economy
+Air India - 572,BOM,MAA,Air India ,13:35,15:30,1h 55m,"5,451",29-08-2025,Economy
+Air India - 2821,BOM,MAA,Air India ,06:50,08:55,2h 05m,"5,204",29-08-2025,Economy
+IndiGo - 5188,BOM,MAA,IndiGo ,06:25,08:30,2h 05m,"5,058",29-08-2025,Economy
+IndiGo - 5313,BOM,MAA,IndiGo ,09:55,12:00,2h 05m,"5,058",29-08-2025,Economy
+Air India - 2739,BOM,MAA,Air India ,09:00,11:00,2h,"5,692",29-08-2025,Economy
+IndiGo - 5337,BOM,MAA,IndiGo ,13:45,16:00,2h 15m,"5,307",29-08-2025,Economy
+IndiGo - 5206,BOM,MAA,IndiGo ,11:50,14:05,2h 15m,"5,307",29-08-2025,Economy
+IndiGo - 136,BOM,MAA,IndiGo ,03:00,05:10,2h 10m,"6,147",29-08-2025,Economy
+IndiGo - 6225,MAA,BOM,IndiGo ,22:30,00:35,2h 05m,"5,730",29-08-2025,Economy
+IndiGo - 5104,MAA,BOM,IndiGo ,16:40,18:45,2h 05m,"5,730",29-08-2025,Economy
+IndiGo - 5371,MAA,BOM,IndiGo ,15:00,17:15,2h 15m,"6,360",29-08-2025,Economy
+IndiGo - 5367,MAA,BOM,IndiGo ,18:20,20:15,1h 55m,"7,200",29-08-2025,Economy
+IndiGo - 5149,MAA,BOM,IndiGo ,20:10,22:20,2h 10m,"7,200",29-08-2025,Economy
+Air India - 2740,MAA,BOM,Air India ,15:25,17:40,2h 15m,"7,329",29-08-2025,Economy
+Air India - 640,MAA,BOM,Air India ,19:50,22:05,2h 15m,"7,638",29-08-2025,Economy
+Akasa Air - 1304,BOM,MAA,Akasa Air ,05:00,07:00,2h,"4,533",30-08-2025,Economy
+Air India - 572,BOM,MAA,Air India ,13:35,15:30,1h 55m,"5,071",30-08-2025,Economy
+IndiGo - 5204,BOM,MAA,IndiGo ,08:15,10:10,1h 55m,"5,058",30-08-2025,Economy
+IndiGo - 5206,BOM,MAA,IndiGo ,11:50,13:50,2h,"5,058",30-08-2025,Economy
+IndiGo - 136,BOM,MAA,IndiGo ,03:00,05:10,2h 10m,"4,519",30-08-2025,Economy
+Air India - 2739,BOM,MAA,Air India ,09:00,11:00,2h,"5,293",30-08-2025,Economy
+Air India - 2821,BOM,MAA,Air India ,06:50,08:55,2h 05m,"5,204",30-08-2025,Economy
+IndiGo - 5188,BOM,MAA,IndiGo ,06:25,08:30,2h 05m,"5,058",30-08-2025,Economy
+IndiGo - 5313,BOM,MAA,IndiGo ,09:55,12:00,2h 05m,"5,058",30-08-2025,Economy
+IndiGo - 5337,BOM,MAA,IndiGo ,13:45,16:00,2h 15m,"5,058",30-08-2025,Economy
+IndiGo - 5367,MAA,BOM,IndiGo ,18:20,20:15,1h 55m,"6,045",30-08-2025,Economy
+IndiGo - 6225,MAA,BOM,IndiGo ,22:30,00:35,2h 05m,"5,730",30-08-2025,Economy
+IndiGo - 5104,MAA,BOM,IndiGo ,16:40,18:45,2h 05m,"6,045",30-08-2025,Economy
+Air India - 640,MAA,BOM,Air India ,19:50,22:05,2h 15m,"6,208",30-08-2025,Economy
+IndiGo - 5149,MAA,BOM,IndiGo ,20:10,22:20,2h 10m,"6,360",30-08-2025,Economy
+Air India - 2740,MAA,BOM,Air India ,15:45,18:00,2h 15m,"7,329",30-08-2025,Economy
+IndiGo - 5371,MAA,BOM,IndiGo ,15:00,17:15,2h 15m,"7,200",30-08-2025,Economy
+Akasa Air - 1304,BOM,MAA,Akasa Air ,05:00,07:00,2h,"4,284",31-08-2025,Economy
+IndiGo - 5204,BOM,MAA,IndiGo ,08:15,10:10,1h 55m,"5,058",31-08-2025,Economy
+IndiGo - 136,BOM,MAA,IndiGo ,03:00,05:10,2h 10m,"4,519",31-08-2025,Economy
+Air India - 2821,BOM,MAA,Air India ,06:50,08:55,2h 05m,"5,204",31-08-2025,Economy
+IndiGo - 5188,BOM,MAA,IndiGo ,06:25,08:30,2h 05m,"5,058",31-08-2025,Economy
+IndiGo - 5313,BOM,MAA,IndiGo ,09:55,12:00,2h 05m,"5,058",31-08-2025,Economy
+Air India - 572,BOM,MAA,Air India ,13:35,15:30,1h 55m,"5,596",31-08-2025,Economy
+IndiGo - 5337,BOM,MAA,IndiGo ,13:45,16:00,2h 15m,"5,058",31-08-2025,Economy
+Air India - 2739,BOM,MAA,Air India ,09:00,11:00,2h,"5,692",31-08-2025,Economy
+IndiGo - 5206,BOM,MAA,IndiGo ,11:50,14:05,2h 15m,"5,517",31-08-2025,Economy
+IndiGo - 5371,MAA,BOM,IndiGo ,15:00,17:15,2h 15m,"7,200",31-08-2025,Economy
+IndiGo - 6225,MAA,BOM,IndiGo ,22:30,00:35,2h 05m,"8,880",31-08-2025,Economy
+Air India - 2740,MAA,BOM,Air India ,15:25,17:40,2h 15m,"8,708",31-08-2025,Economy
+IndiGo - 5367,MAA,BOM,IndiGo ,18:20,20:15,1h 55m,"12,240",31-08-2025,Economy
+Air India - 640,MAA,BOM,Air India ,19:50,22:05,2h 15m,"12,066",31-08-2025,Economy
+IndiGo - 5149,MAA,BOM,IndiGo ,20:10,22:20,2h 10m,"12,240",31-08-2025,Economy
